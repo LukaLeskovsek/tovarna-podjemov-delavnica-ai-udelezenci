@@ -1,0 +1,13 @@
+{
+  "fictional": true,
+  "snapshot_date": "2026-09-20",
+  "companies": [
+    {"id": "ORG-001", "name": "Brin Sistemi", "website": "https://brin.test"},
+    {"id": "ORG-002", "name": "Jantar", "website": "https://jantar-sever.test"},
+    {"id": "ORG-003", "name": "Jantar", "website": "https://jantar-jug.test"},
+    {"id": "ORG-004", "name": "Hrast Tehnika", "website": "https://hrast.test"}
+  ],
+  "contacts": [
+    {"id": "CON-001", "company_id": "ORG-001", "name": "Bor Vidmar", "email": "bor@brin.test"}
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "release_tag": "start-v1",
+  "title": "Začetek delavnice · start-v1",
+  "modules": [
+    1
+  ],
+  "files": {
+    ".gitattributes": "e7500aa8145df1cbde434f829f46bdf2e6f92ddd8a7a7c73fee72abc370e5c90",
+    ".github/workflows/check.yml": "40c0a3ae098ffdba4eaa30b20d76ed24b6d2007ae6658d5b08e7354ccebc2f13",
+    ".gitignore": "1e29ba9553decaabc143d821703cb4806903877f742d82e3305d620b65924bfe",
+    "AGENTS.md": "638c6e508b81be6bdc5d4e2ad24880829d35375d18bd70fef22721fd78639afb",
+    "CLAUDE.md": "16972e11fe6aa92982b3439ae9886ef5f3d448fe01ef96e2927c0545ec45e951",
+    "README.md": "b8ec5a5da4720b942100cdd2e721ea0a97625eb45a8d37e78bbe733f77ba30f6",
+    "assets/office/README.md": "34982577824ed57b121a8a701e1c875ed42f27120b3cb8e667f4ffe4919959f7",
+    "assets/office/odlocitev-predloga.docx": "d2e61aaa6a521fb94128ae0b8231ce76d349a0d16cbb469b28d40b3c078adf99",
+    "assets/office/outlook-vaja.md": "b55b77c2be1a55e7846e6ab3c7477097fa121c535780ecc23f11ec8da21646be",
+    "assets/office/povzetek-odlocitve-predloga.pptx": "a79204f18db4873c82c845ad7be8efc60cdccbea99ec629c76fe6b1f50abbab4",
+    "docs/git-in-napredek.md": "c73b484b869fc883df8e771ee84828703605bdf60b4536c261d4882071e6542f",
+    "docs/racuni-in-dostopi.md": "47bc56c0cbe9af9b2df72c7262ff4c5d56c9cae159aca66877e7bde2533c7d83",
+    "exercises/conference/README.md": "89b47378657d991ad3d2316d330c5b5dadeb0c5a184c91b80b724ded2135fd56",
+    "exercises/conference/evidence/source-record.md": "6111995c4ef60e5350f5dce4110f5dfb1393100c20783a32716c39c43dc64015",
+    "exercises/conference/existing-crm.json": "0de28a5afb22ce1c94d15fa38e65ada20d3cd64363e31011deca2f3a576b2d74",
+    "exercises/conference/prospects.csv": "58816f912278b8a7214b190232695cf02dbc3092a5afa0fdaf818a1e2cb77670",
+    "exercises/conference/prospects.xlsx": "98b76e037e63fafd8e930b1f987a836ef5bdd81be02644ade597422046d35a6d",
+    "exercises/conference/rules.md": "5e84fe5f5033c74ca45443fde2d9f840a59f4c53018caff4236c0c592c34f59a",
+    "koraki/01-zacetek.md": "fb270866cdd4a23e231a7a5c9c19478574535ecb253720d200480c9cb557bbef",
+    "predloge/napredek.md": "b96a1a18d4d41487c4b64343a96c47e566839e6f03af6f24a4419e56e745b305",
+    "scripts/participant_git.py": "a0bd3e7c7fe8d4ea21eb4273a0bb5fdc0cf94cf05b76448d5d32a08800ee93ba",
+    "scripts/verify_materials.py": "4c338a62468ac9c204f608a5ca7f1bde4c10c728094add583202f62e1a6dbaf9"
+  }
+}
