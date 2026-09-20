@@ -17,9 +17,11 @@ To sta dva običajna neodvisna repozitorija. Zunanji ignorira celotno `moje-delo
 
 Naslednje ukaze lahko izvede Claude. Udeleženec izbere nalogo, pregleda rezultat in odloča o vsebini, ki jo želi shraniti.
 
+Za prvo namestitev in prijavo sledi [setup vodniku](setup.md). Spodnji `python3` na Windows po potrebi zamenjaj s preverjenim `python` ali `py` različice 3.12 ali novejše. Ukaze izvajaj v istem okolju in prvotnem lokalnem klonu, kjer je tvoj `moje-delo/`.
+
 ## 1. Priprava osebnega shranjevanja
 
-Claude naj preveri [predpogoje in prijavo](racuni-in-dostopi.md), trenutno GitHub identiteto ter avtorja commitov. Ne preklaplja računov ali ne spreminja globalnih Git nastavitev brez razlage in dogovora. Za avtorja tega projekta lahko uporabi lokalne nastavitve notranjega repozitorija.
+Claude naj preveri [predpogoje in prijavo](racuni-in-dostopi.md), trenutno GitHub identiteto ter avtorja commitov. Preveri tudi prijavo za Git push; prijava na spletni strani sama ne zadostuje. Če Git še ni ustrezno povezan, po razlagi uporabi `gh auth setup-git --hostname github.com`, kot opisuje [setup](setup.md). Ne preklaplja računov ali ne spreminja globalnih Git nastavitev brez razlage in dogovora. Za avtorja tega projekta lahko uporabi lokalne nastavitve notranjega repozitorija.
 
 Iz korena `delavnica/`:
 

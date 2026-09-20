@@ -4,6 +4,8 @@ Izberi ponavljajočo se nalogo iz svojega dela in s Claudom pripravi prvi uporab
 
 ## Začni tukaj
 
+Za setup ure odpri **[pripravo na delavnico](docs/setup.md)**: kaj prineseš, namestitve za Windows/macOS, prijava, zasebna shramba ter preizkus shranjevanja in nadaljevanja.
+
 1. Uporabi **svoj Claude račun in svoj GitHub račun**. Na računalniku potrebuješ Claude Code, Git, GitHub CLI in Python 3.12 ali novejši. Podrobnosti so v [pripravi računov](docs/racuni-in-dostopi.md).
 2. Kloniraj gradivo v novo mapo. Ukaz lahko izvedeš v terminalu ali zanj prosiš svojega agenta:
 

@@ -2,6 +2,8 @@
 
 Za vsako uporabljeno storitev potrebuješ **svoj račun**. Lahko je službeni, če imaš dovoljenje za to uporabo. Izvajalec ne deli gesel ali prijav. Prijavo, večfaktorsko potrditev in morebitno skrbniško soglasje opraviš sam/a v uradnem vmesniku.
 
+Za vodeno pripravo uporabi **[setup od prve prijave do shranjenega rezultata](setup.md)**. Vključuje kratka navodila pred prihodom ter Windows in macOS pot.
+
 ## Za prvi korak
 
 | Kaj | Kaj skupaj preverita |
@@ -10,7 +12,7 @@ Za vsako uporabljeno storitev potrebuješ **svoj račun**. Lahko je službeni, �
 | Git | Deluje na tvojem računalniku; ime in e-pošta avtorja commitov ustrezata tvoji izbiri |
 | GitHub | Tvoj račun in dovoljenje za ustvarjanje lastnega zasebnega repozitorija |
 | GitHub CLI (`gh`) | Prijava v tvoj predvideni GitHub račun; agent preveri trenutno identiteto |
-| Python 3.12 ali novejši | Deluje ukaz `python3`; uporablja ga majhen pomočnik za preverjanje in shranjevanje |
+| Python 3.12 ali novejši | Deluje `python3` oziroma preverjeni `python` ali `py` na Windows; uporablja ga pomočnik za preverjanje in shranjevanje |
 | Lokalna mapa | Skupno gradivo je klonirano; `moje-delo/` je ignoriran samostojen zasebni repozitorij |
 
 Če kaj manjka, povej Claudu: **»Preveri pripravo in me vodi skozi manjkajoči korak.«** Claude naj najprej preveri dejansko stanje, nato razloži potrebno namestitev ali prijavo. Cen, trenutnih paketov ali razpoložljivosti ne sklepaj iz te strani. Potrebuješ paket, ki v tvojem računu omogoča izbrano delo; nakupa agent ne opravi samodejno.
