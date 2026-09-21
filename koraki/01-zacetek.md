@@ -1,38 +1,38 @@
-# 1. Začni z vsakdanjo nalogo
+# 1. Opravi prvo nalogo
 
-Najprej naredi en majhen uporaben rezultat. Lahko pregledaš preglednico, pripraviš sestanek, primerjaš ponudbi, popraviš dokument, oblikuješ tri diapozitive ali pripraviš odgovor na sporočilo.
+Izberi nekaj, kar potrebuješ pri svojem delu: pregled preglednice, pripravo sestanka, primerjavo ponudb, popravek dokumenta, nekaj diapozitivov ali odgovor na sporočilo.
 
-## Začni s to prošnjo
+## Kaj napišeš Claudu
 
-> Preberi CLAUDE.md in mi pomagaj opraviti eno nalogo iz mojega dela. Začni z enim vprašanjem. Uporabi moje odgovore in ne predpostavljaj mojega poslovnega postopka.
+> Preberi CLAUDE.md in mi pomagaj opraviti eno nalogo iz mojega dela. Začni z enim vprašanjem. Upoštevaj moje odgovore; če česa o mojem delu še ne veš, vprašaj.
 
-## Pripravi
+## Kaj potrebuješ
 
-Potrebuješ svoj Claude račun, klonirano gradivo in en odobren primer. Claude naj te vodi skozi [preverjanje priprave](../docs/racuni-in-dostopi.md) ter [lastno zasebno shranjevanje](../docs/git-in-napredek.md). Surove osebne vhode shrani v `moje-delo/zasebno/`.
+Svoj račun za Claude, preneseno gradivo in primer, za katerega imaš dovoljenje za uporabo podatkov. S Claudom preverita [pripravo](../docs/racuni-in-dostopi.md) in uredita [zasebno shranjevanje](../docs/git-in-napredek.md). Izvorne osebne in poslovne podatke hrani v `moje-delo/zasebno/`.
 
-Če primera še nimaš, uporabi [vajo z desetimi izmišljenimi kontakti](../exercises/conference/README.md). Tvoja izbira ni omejena na prodajo.
+Če nimaš svojega primera, uporabi [vajo z desetimi izmišljenimi kontakti](../exercises/conference/README.md). To je prodajni primer, tvoja naloga pa je lahko povsem drugačna.
 
-## Naredi
+## Potek
 
-1. Povej, kaj potrebuješ in komu rezultat koristi. Poskusi s kratko običajno prošnjo ter preglej prvi rezultat.
-2. Dodaj manjkajoči kontekst: primer dobrega rezultata, pomembno pravilo in jasno merilo uspeha. Primerjaj popravljeno izvedbo s prvo.
-3. Izberi eno mesto dela. Lahko ostaneš pri datotekah in Claudu ali uporabiš svojo aplikacijo. Za Word in PowerPoint so pripravljene [prazne predloge](../assets/office/README.md). Dejanski dostop do Office dodatkov preveri posebej.
-4. Povej, katere odločitve in preference naj ostanejo za naslednjič ter kateri podatki se spreminjajo. Shrani le potreben kontekst.
+1. Povej, kaj želiš narediti in kdo bo rezultat uporabljal. Najprej poskusi s kratko prošnjo in poglej, kaj Claude pripravi.
+2. Dodaj, kar je manjkalo: primer dobrega rezultata, pomembno pravilo ali pojasnilo, po čem boš presodil, da je naloga dobro opravljena. Primerjaj novi rezultat s prvim.
+3. Izberi, kje boš delal. Lahko ostaneš pri Claudu in datotekah ali uporabiš svojo aplikacijo. Za Word in PowerPoint so pripravljene [prazne predloge](../assets/office/README.md). Delovanje dodatkov v Officeu preveri posebej.
+4. Povej, katere dogovore in želje naj si Claude shrani za naslednjič in katere podatke boš vsakič prinesel na novo. Shranita samo tisto, kar bo še potrebno.
 
-Pri preglednici preveri vhodne vrstice, pravila in izračune; pri dokumentu vire in pomen; pri diapozitivih trditve in številke; pri pošti prejemnike, datume in obljube. Priprava odgovora še ni pošiljanje.
+Pri preglednici preveri podatke in izračune, pri dokumentu vire in pomen besedila, pri diapozitivih trditve in številke, pri e-pošti pa prejemnike, datume in obljube. Osnutek odgovora naj za zdaj ostane neposlan.
 
-## Izberi globino
+## Kako lahko sodeluješ
 
-- **Delo na svoji nalogi:** opravi eno izbrano nalogo in preglej rezultat.
-- **Vodena vaja ali prikaz:** sledi pripravljeni poti iz preglednice v Wordov predlog odločitve, PowerPoint in osnutek odgovora. Ni treba opraviti vseh aplikacij.
-- **Samostojna izbirna nadgradnja:** ponovi nalogo z drugim svojim vhodom ali v drugem podprtem okolju ter primerjaj rezultat.
+- **Delo na svoji nalogi:** opravi izbrano nalogo in preveri rezultat.
+- **Skupna vaja ali prikaz:** iz podatkov v preglednici pripravi predlog v Wordu, predstavitev v PowerPointu ali osnutek odgovora. Izberi aplikacije, ki jih potrebuješ.
+- **Dodatno samostojno delo:** ponovi nalogo z drugim primerom ali v drugem podprtem okolju in primerjaj rezultate.
 
-## Shrani in preveri
+## Preveri in shrani
 
-V `moje-delo/napredek.md` po [predlogi](../predloge/napredek.md) zapiši nalogo, uporaben rezultat, kaj si popravil/a in naslednje dejanje. Pregledan izhod shrani v `moje-delo/rezultati/`. Originalni poslovni vhod ostane pod `zasebno/`.
+V `moje-delo/napredek.md` po [predlogi](../predloge/napredek.md) zapiši nalogo, rezultat, opravljene popravke in naslednji korak. Pregledani rezultat shrani v `moje-delo/rezultati/`, izvorne poslovne datoteke pa naj ostanejo pod `zasebno/`.
 
-Znaš pokazati uporaben del rezultata, eno nepodprto domnevo in trenutek, ko bi moral Claude vprašati? Če ne, popravi ta del. Ko želiš dosežek shraniti v svoj zasebni repozitorij, napiši **»Shrani srečanje.«**
+Poglej, kaj je Claude naredil dobro in kaj je domneval brez podlage. Kje bi te moral kaj vprašati? Popravi ugotovljene napake. Ko želiš svoje delo shraniti v zasebni repozitorij, napiši **»Shrani srečanje.«**
 
-Gradiva za naslednje teme bomo dodajali sproti. Ob objavi napiši **»Posodobi gradiva.«** Do takrat lahko izboljšaš ali ponoviš svojo nalogo.
+Novo gradivo bomo dodajali sproti. Ko bo objavljeno, napiši **»Posodobi gradiva.«** Vmes lahko svojo nalogo ponoviš ali izboljšaš.
 
-[Kazalo in roadmap](../README.md)
+[Pregled programa](../README.md)

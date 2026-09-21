@@ -1,13 +1,13 @@
-# Agent Sprint · Tovarna podjemov
+# Delavnica AI · Tovarna podjemov
 
-Izberi ponavljajočo se nalogo iz svojega dela in s Claudom pripravi prvi uporaben rezultat. Gradivo bomo dodajali sproti. Svoj projekt obdržiš ves čas delavnice.
+Na delavnici boš s Claudom delal na svojih nalogah. Lahko pripraviš sestanek, primerjaš ponudbe, urediš preglednico ali napišeš odgovor na sporočilo. Začeli bomo s konkretnim primerom in sproti pogledali, kaj ti pri delu pomaga.
 
-## Začni tukaj
+## Pred začetkom
 
-Za setup ure odpri **[pripravo na delavnico](docs/setup.md)**: kaj prineseš, namestitve za Windows/macOS, prijava, zasebna shramba ter preizkus shranjevanja in nadaljevanja.
+Na pripravljalnem srečanju bomo uredili račune in računalnik. V [navodilih za pripravo](docs/setup.md) najdeš, kaj potrebuješ, kako namestiš orodja na Windows ali macOS in kako preveriš, da lahko svoje delo shraniš ter naslednjič nadaljuješ.
 
-1. Uporabi **svoj Claude račun in svoj GitHub račun**. Na računalniku potrebuješ Claude Code, Git, GitHub CLI in Python 3.12 ali novejši. Podrobnosti so v [pripravi računov](docs/racuni-in-dostopi.md).
-2. Kloniraj gradivo v novo mapo. Ukaz lahko izvedeš v terminalu ali zanj prosiš svojega agenta:
+1. Potrebuješ svoj račun za Claude in svoj račun za GitHub. Na računalniku naj bodo Claude Code, Git, GitHub CLI in Python 3.12 ali novejši. Podrobnosti so v [navodilih za račune in dostop](docs/racuni-in-dostopi.md).
+2. Prenesi gradivo z naslednjim ukazom. Izvedeš ga lahko v terminalu ali za pomoč prosiš agenta:
 
    ```sh
    git clone https://github.com/LukaLeskovsek/tovarna-podjemov-delavnica-ai-udelezenci.git delavnica
@@ -17,44 +17,44 @@ Za setup ure odpri **[pripravo na delavnico](docs/setup.md)**: kaj prineseš, na
 
    > Začniva delavnico. Preberi CLAUDE.md in me vodi skozi prvi korak.
 
-4. Claude te bo vodil po eno vprašanje naenkrat. Skupaj uredita zasebno shranjevanje in izbereta eno nalogo. Lahko uporabiš svoj odobren primer ali pripravljeno vajo.
+4. Claude ti bo zastavljal po eno vprašanje. Skupaj bosta uredila shranjevanje in izbrala prvo nalogo. Uporabiš lahko svoj primer, če imaš dovoljenje za uporabo podatkov, ali eno od pripravljenih vaj.
 
-## Tri prošnje za nadaljevanje
+## Ko se vrneš k delu
 
-| Kaj potrebuješ | Kaj napišeš Claudu |
+| Kaj želiš narediti | Kaj napišeš Claudu |
 |---|---|
-| Nadaljevanje dela | »Preberi moj napredek in nadaljuj pri naslednjem uporabnem koraku.« |
-| Nova gradiva | »Posodobi gradiva.« |
-| Shranjen dosežek | »Shrani srečanje.« |
+| Nadaljevati | »Preberi moj napredek in nadaljuj tam, kjer sva ostala.« |
+| Prenesti novo gradivo | »Posodobi gradiva.« |
+| Shraniti opravljeno delo | »Shrani srečanje.« |
 
-Gradivo posodobiš z običajnim `git pull --ff-only`. Tvoje delo je v ločenem zasebnem repozitoriju v mapi `moje-delo/`, zato ostane pri tebi tudi po posodobitvi. Claude preveri pravo mapo in cilj shranjevanja. [Kako to deluje](docs/git-in-napredek.md).
+Novo gradivo preneseš z `git pull --ff-only`. Svoje delo hraniš ločeno, v zasebnem repozitoriju v mapi `moje-delo/`. Posodobitev gradiva zato ne posega v tvoje datoteke. Claude pred shranjevanjem preveri, v kateri mapi dela in kam bo poslal datoteke. [Več o shranjevanju in posodobitvah](docs/git-in-napredek.md).
 
-## Na voljo zdaj
+## Gradivo za začetek
 
-- [1. korak: prva uporabna naloga](koraki/01-zacetek.md).
-- [Vaja z desetimi izmišljenimi kontakti](exercises/conference/README.md), pripravljena kot Excel in CSV, s pravili in primerjalnim CRM posnetkom.
-- [Prazni Wordovi in PowerPointovi predlogi ter učni pogovor](assets/office/README.md).
-- [Predloga za napredek](predloge/napredek.md).
+- [1. korak: opravi prvo nalogo](koraki/01-zacetek.md).
+- [Vaja z desetimi izmišljenimi kontakti](exercises/conference/README.md): Excel in CSV, pravila ter kopija podatkov iz izmišljenega CRM-ja.
+- [Predlogi za Word in PowerPoint ter vaja s sporočili](assets/office/README.md).
+- [Predloga za zapis napredka](predloge/napredek.md).
 
-Izbereš lahko pripravo sestanka, primerjavo ponudb, pregled povratnih informacij, tedensko poročilo, odgovor na sporočilo ali drugo nalogo. Prodajni primer je samo ena možnost.
+Prodajna vaja je eden od primerov. Izberi nalogo, ki jo potrebuješ pri svojem delu.
 
-## Kam bomo lahko nadaljevali
+## Kaj sledi
 
-Celotna pot ostaja široka. Teme in globino izberemo glede na vaše naloge; ni treba uporabiti vseh orodij. Podrobna gradiva za nadaljevanje bomo objavili sproti.
+Na naslednjih srečanjih bomo spoznali še druga orodja in načine dela. Več časa bomo namenili temam, ki vam pri delu najbolj koristijo. Gradivo bomo dodajali sproti.
 
-| Tema | Rezultat, h kateremu lahko napreduješ | Dostopnost |
+| Tema | Kaj boš lahko naredil | Gradivo |
 |---|---|---|
-| 1. Vsakdanja naloga | Prvi pregledan rezultat in shranjen kontekst | Na voljo |
-| 2. Razčlenitev postopka | Jasna pravila, presoja in meje naloge | Poznejša objava |
-| 3. Ponovna uporaba metode | Lastna spretnost za naslednji primer | Poznejša objava |
-| 4. Povezovanje virov | Delo z dovoljenimi podatki in dejanji | Poznejša objava |
-| 5. Znanje in popravki | Shranjeno znanje z virom in popravkom | Poznejša objava |
-| 6. Prototip in aplikacija | Preverjen prikaz svoje zamisli | Poznejša objava |
-| 7. Rutina in naprave | Uporaba skozi čas in v drugih okoljih | Poznejša objava |
-| 8. Skupni proces | Delo več oseb z jasnimi odločitvami | Poznejša objava |
-| 9. Preverjanje in predaja | Samostojna ponovitev ter navodila za druge | Poznejša objava |
-| 10. Prikaz in nadaljevanje | Dokaz uporabnosti in naslednja izboljšava | Poznejša objava |
+| 1. Vsakdanje delo | Opraviš prvo nalogo, preveriš rezultat in shraniš dogovore za naslednjič | Na voljo |
+| 2. Opis postopka | Zapišeš korake, pravila in odločitve pri svoji nalogi | Dodamo pozneje |
+| 3. Ponovna uporaba | Shraniš navodila kot veščino, ki jo lahko uporabiš tudi na drugih primerih | Dodamo pozneje |
+| 4. Povezave z drugimi storitvami | Claudu omogočiš dostop do izbranih virov in določiš, kaj sme z njimi narediti | Dodamo pozneje |
+| 5. Znanje in popravki | Shraniš uporabne ugotovitve skupaj z viri in jih po potrebi popraviš | Dodamo pozneje |
+| 6. Prototip in aplikacija | Svojo zamisel preizkusiš v preprostem prototipu | Dodamo pozneje |
+| 7. Redna opravila in druge naprave | Nastaviš ponavljajoče opravilo ali nadaljuješ delo na drugi napravi | Dodamo pozneje |
+| 8. Skupno delo | Povežeš korake, pri katerih sodeluje več ljudi, in določiš, kdo o čem odloča | Dodamo pozneje |
+| 9. Preizkus in predaja | Preveriš postopek na novem primeru in pripraviš navodila za sodelavca | Dodamo pozneje |
+| 10. Predstavitev rezultatov | Pokažeš, kaj uporabljaš, kaj se je izboljšalo in kaj želiš razvijati naprej | Dodamo pozneje |
 
-Pri vsaki temi uporabljamo iste možnosti: **Delo na svoji nalogi**, **Vodena vaja ali prikaz** in **Samostojna izbirna nadgradnja**. Obseg prilagodimo nalogi in dejansko razpoložljivemu okolju.
+Pri vsaki temi lahko delaš na svoji nalogi, sodeluješ pri skupni vaji ali spremljaš prikaz. Če te kaj posebej zanima, lahko nadaljuješ tudi samostojno. V navodilih so te možnosti označene kot **Delo na svoji nalogi**, **Skupna vaja ali prikaz** in **Dodatno samostojno delo**. Ni treba, da za svojo nalogo uporabiš vsa orodja.
 
-Ta repozitorij vsebuje javna učna gradiva. Osebnih podatkov, poslovnih primerov in rezultatov vanj ne pošiljaj. Svoj GitHub račun uporabljaš za lastni zasebni repozitorij; izvajalec do njega ne dobi dostopa samodejno.
+Ta repozitorij je javen. Osebnih podatkov, poslovnih primerov in rezultatov ne dodajaj vanj. Zase uporabljaš svoj zasebni repozitorij na GitHubu; izvajalec nima samodejnega dostopa do njega.

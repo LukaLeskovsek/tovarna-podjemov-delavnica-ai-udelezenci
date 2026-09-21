@@ -1,34 +1,34 @@
-# Pripravi svoje račune in računalnik
+# Računi in dostop
 
-Za vsako uporabljeno storitev potrebuješ **svoj račun**. Lahko je službeni, če imaš dovoljenje za to uporabo. Izvajalec ne deli gesel ali prijav. Prijavo, večfaktorsko potrditev in morebitno skrbniško soglasje opraviš sam/a v uradnem vmesniku.
+Za vsako storitev, ki jo uporabljaš, potrebuješ svoj račun. Lahko je službeni, če imaš dovoljenje za takšno uporabo. Izvajalec ti ne posoja svoje prijave. Prijavo, dodatno potrditev identitete in morebitno soglasje skrbnika urediš sam v uradni aplikaciji ali na spletni strani storitve.
 
-Za vodeno pripravo uporabi **[setup od prve prijave do shranjenega rezultata](setup.md)**. Vključuje kratka navodila pred prihodom ter Windows in macOS pot.
+Celoten postopek, od namestitve do prvega shranjenega rezultata, je opisan v [navodilih za pripravo](setup.md). Tam najdeš tudi navodila za Windows in macOS ter seznam stvari, ki jih pripravi pred srečanjem.
 
-## Za prvi korak
+## Kaj potrebuješ za začetek
 
-| Kaj | Kaj skupaj preverita |
+| Orodje ali račun | Kaj preverita s Claudom |
 |---|---|
-| Claude Code | Tvoj prijavljen Claude račun, dostop do lokalne mape in možnost branja ter shranjevanja datotek |
-| Git | Deluje na tvojem računalniku; ime in e-pošta avtorja commitov ustrezata tvoji izbiri |
-| GitHub | Tvoj račun in dovoljenje za ustvarjanje lastnega zasebnega repozitorija |
-| GitHub CLI (`gh`) | Prijava v tvoj predvideni GitHub račun; agent preveri trenutno identiteto |
-| Python 3.12 ali novejši | Deluje `python3` oziroma preverjeni `python` ali `py` na Windows; uporablja ga pomočnik za preverjanje in shranjevanje |
-| Lokalna mapa | Skupno gradivo je klonirano; `moje-delo/` je ignoriran samostojen zasebni repozitorij |
+| Claude Code | Prijavo v tvoj račun ter branje in shranjevanje datotek v lokalni mapi |
+| Git | Ali deluje in katero ime ter e-poštni naslov uporablja za shranjene spremembe |
+| GitHub | Ali lahko v svojem računu ustvariš zasebni repozitorij |
+| GitHub CLI (`gh`) | Ali je prijavljen pravi uporabnik |
+| Python 3.12 ali novejši | Ali deluje `python3` oziroma `python` ali `py` na Windows; z njim zaženeš program za preverjanje in shranjevanje |
+| Mapa delavnice | Ali je gradivo klonirano in ali je `moje-delo/` ločen zasebni repozitorij, ki ga zunanji Git ignorira |
 
-Če kaj manjka, povej Claudu: **»Preveri pripravo in me vodi skozi manjkajoči korak.«** Claude naj najprej preveri dejansko stanje, nato razloži potrebno namestitev ali prijavo. Cen, trenutnih paketov ali razpoložljivosti ne sklepaj iz te strani. Potrebuješ paket, ki v tvojem računu omogoča izbrano delo; nakupa agent ne opravi samodejno.
+Če kaj manjka, povej Claudu: **»Preveri, kaj še potrebujem za začetek, in me vodi skozi pripravo.«** Najprej naj preveri stanje, nato razloži morebitno namestitev ali prijavo. Pred nakupom preveri trenutne pakete, cene in možnosti svojega računa. Nakup potrdiš sam.
 
-Na službenem računalniku upoštevaj dovoljenja organizacije za orodja in poslovne podatke. Dokler teh ni, lahko uporabiš izmišljeno vajo. Manjkajočega dostopa ne obidi s tujim računom.
+Na službenem računalniku upoštevaj pravila podjetja za orodja in podatke. Če dovoljenja še nimaš, lahko delaš z izmišljenim primerom v dovoljenem okolju. Tujega računa ne uporabljaj za obhod omejitev.
 
-## Če izbereš Office
+## Delo v Officeu
 
-Potrebuješ svoj dovoljeni Microsoft račun in aplikacijo za izbrano datoteko. Za delo prek dodatka preveri še njegovo dejansko dostopnost, prijavo, skrbniško dovoljenje in povezavo z odprtim dokumentom. Pripravljene predloge same dodatkov ne namestijo.
+Potrebuješ svoj račun za Microsoft in aplikacijo, v kateri boš urejal datoteko. Če želiš delati prek dodatka, preveri še njegovo namestitev, prijavo, potrebna dovoljenja in povezavo z odprtim dokumentom. Predloge dodatkov ne namestijo.
 
-Uporabiš lahko samo eno primerno aplikacijo. Celotna pot skozi Excel, Word, PowerPoint in Outlook je možnost za voden prikaz. Učni pogovor lahko prebereš tudi kot datoteko brez povezave z nabiralnikom. Izmišljeni naslovi `.test` niso namenjeni pošiljanju.
+Izberi aplikacijo, ki jo potrebuješ. Skupaj lahko pogledamo tudi delo z istimi podatki v Excelu, Wordu, PowerPointu in Outlooku. Vajo s sporočili lahko opraviš neposredno iz datoteke, brez dostopa do e-pošte. Na izmišljene naslove `.test` ne pošiljaj sporočil.
 
-## Podatki in nadaljnje povezave
+## Druge storitve in podatki
 
-Za začetno vajo ne potrebuješ pravega CRM računa ali drugih zunanjih povezav. Ko izbereš nadaljevanje, uredi svoj račun za dejansko uporabljeno storitev in preveri eno dovoljeno dejanje. Ob plačljivi uporabi najprej določi obseg in omejitev porabe.
+Za začetno vajo ne potrebuješ pravega CRM-ja ali drugih povezav. Ko se odločiš za dodatno storitev, uredi svoj račun in preizkusi eno dovoljeno dejanje. Pri plačljivi storitvi vnaprej določi, kaj boš izvedel in koliko sme stati.
 
-Gesel, žetonov, API ključev in obnovitvenih kod ne zapisuj v pogovor, napredek ali Git. Surove poslovne vhode hrani v `moje-delo/zasebno/`; pregledane rezultate izberi posebej. Podatkov, ki jih ne smeš prenesti v GitHub, ne pošiljaj niti v zaseben repozitorij.
+Gesel, prijavnih žetonov, API ključev in obnovitvenih kod ne zapisuj v pogovor, napredek ali Git. Izvorne poslovne datoteke hrani v `moje-delo/zasebno/`. Za shranjevanje na GitHub izberi samo pregledane rezultate. Podatkov, ki jih tja ne smeš prenesti, ne pošiljaj niti v zasebni repozitorij.
 
 [Začetek](../README.md) · [Shranjevanje in posodobitve](git-in-napredek.md)
