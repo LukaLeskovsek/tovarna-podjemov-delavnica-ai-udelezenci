@@ -32,7 +32,7 @@ Novo gradivo preneseš z `git pull --ff-only`. Svoje delo hraniš ločeno, v zas
 ## Gradivo za začetek
 
 - [1. korak: opravi prvo nalogo](koraki/01-zacetek.md).
-- [Vaja z desetimi izmišljenimi kontakti](exercises/conference/README.md): Excel in CSV, pravila ter kopija podatkov iz izmišljenega CRM-ja.
+- [Vaja z desetimi izmišljenimi kontakti](exercises/conference/README.md): predlog za Intrix, Excel in CSV, pravila ter izmišljena primerjalna zbirka.
 - [Predlogi za Word in PowerPoint ter vaja s sporočili](assets/office/README.md).
 - [Predloga za zapis napredka](predloge/napredek.md).
 
@@ -41,6 +41,8 @@ Prodajna vaja je eden od primerov. Izberi nalogo, ki jo potrebuješ pri svojem d
 ## Kaj sledi
 
 Na naslednjih srečanjih bomo spoznali še druga orodja in načine dela. Več časa bomo namenili temam, ki vam pri delu najbolj koristijo. Gradivo bomo dodajali sproti.
+
+Veščine (skills) dodamo skupaj s koraki, pri katerih jih bomo uporabljali: prve ob opisu postopka v 2. koraku, nato še pri pripravi lastne veščine v 3. koraku. V začetnem paketu jih še ni. Prenesel jih boš z običajno posodobitvijo gradiva.
 
 | Tema | Kaj boš lahko naredil | Gradivo |
 |---|---|---|

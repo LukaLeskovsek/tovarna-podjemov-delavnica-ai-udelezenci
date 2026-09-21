@@ -27,7 +27,7 @@ Izberi aplikacijo, ki jo potrebuješ. Skupaj lahko pogledamo tudi delo z istimi 
 
 ## Druge storitve in podatki
 
-Za začetno vajo ne potrebuješ pravega CRM-ja ali drugih povezav. Ko se odločiš za dodatno storitev, uredi svoj račun in preizkusi eno dovoljeno dejanje. Pri plačljivi storitvi vnaprej določi, kaj boš izvedel in koliko sme stati.
+Pri skupni konferenčni vaji uporabljamo Intrix. Za začetni pregled desetih izmišljenih vrstic še ne potrebuješ prijave v CRM. Pred vnosom uredimo tvojo prijavo v dogovorjeno vadbeno okolje in preverimo dovoljenja. Svojo nalogo lahko opraviš tudi v drugem CRM-ju; takrat posebej preverimo njegova polja in postopek. Ko se odločiš za dodatno storitev, uredi svoj račun in preizkusi eno dovoljeno dejanje. Pri plačljivi storitvi vnaprej določi, kaj boš izvedel in koliko sme stati.
 
 Gesel, prijavnih žetonov, API ključev in obnovitvenih kod ne zapisuj v pogovor, napredek ali Git. Izvorne poslovne datoteke hrani v `moje-delo/zasebno/`. Za shranjevanje na GitHub izberi samo pregledane rezultate. Podatkov, ki jih tja ne smeš prenesti, ne pošiljaj niti v zasebni repozitorij.
 
