@@ -8,7 +8,12 @@ import re
 from urllib.parse import unquote, urlsplit
 import zipfile
 
-LOCAL_DIRS = {'.git', 'moje-delo', 'local', '__pycache__', '.venv', '.gstack'}
+LOCAL_DIRS = {'.git', 'moje-delo', 'local', '.obsidian', '__pycache__', '.venv', '.gstack'}
+STARTER_SKILL_FILES = {
+    '.claude/skills/delavnica-dokumenti/' + name for name in
+    ('SKILL.md', 'assets/output.md', 'source.json', 'requirements.txt',
+     'scripts/indeks.py', 'scripts/dokumenti.py')
+}
 FORBIDDEN_PARTS = {'facilitator', 'tests', 'validation', 'programme', 'releases',
                    'release-content', 'zasebno', 'node_modules', 'dist'}
 PRIVATE_REPO = re.compile(r'https://github\.com/LukaLeskovsek/tovarna-podjemov-delavnica-ai(?:[/?#\s)"\']|$)')
@@ -80,7 +85,7 @@ def verify(root):
         if modules != [1]:
             errors.append('Starter must expose only module 1')
         for name in expected:
-            if (name.startswith('.claude/skills/') or name == 'scripts/conference.py'
+            if ((name.startswith('.claude/skills/') and name not in STARTER_SKILL_FILES) or name == 'scripts/conference.py'
                     or re.match(r'koraki/(?!01-)[0-9]{2}-', name)):
                 errors.append(f'Later material in starter: {name}')
     for name in sorted(actual & (set(expected) | {'release.json'})):

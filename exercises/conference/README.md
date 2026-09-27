@@ -1,5 +1,8 @@
 # Vaja: deset kontaktov s konference
 
+**Neobvezna vaja oziroma predloga.** Začni s svojo dejansko nalogo. Pripravljene podatke uporabi samo, če izbereš dodatni preizkus.
+
+
 Preglej deset kontaktov in pripravi predlog za Intrix, ki ga uporabljamo pri skupni vaji. Vsi podatki so izmišljeni. Pripraviš osnutek za pregled; pri tej vaji ne vnašaš podatkov v CRM in ne pošiljaš sporočil.
 
 ## Gradivo

@@ -1,0 +1,12 @@
+{
+  "name": "Claude Work Starter",
+  "version": "2026-09-25-v4.3",
+  "repository": "https://github.com/LukaLeskovsek/claude-work-starter",
+  "commit": "9269ed2ef62270787643cf2602d0e2a46a320ff0",
+  "files": {
+    "scripts/indeks.py": "a48a4cac0ff1fdb4418ca6bf231775414ac95bcaf35562e06eae81ae81efdc74",
+    "scripts/dokumenti.py": "f10c722a5367cf9ed37853bdfa1460c05d08237ab6d0935e2c96c90215e164c1",
+    "requirements.txt": "e4281f19bac8f5798673df77a7b5ac9ff43ea2262c9eb131569750b2ad54e234"
+  },
+  "adaptation": "Project skill and workshop wrapper only; upstream Python components are unchanged."
+}

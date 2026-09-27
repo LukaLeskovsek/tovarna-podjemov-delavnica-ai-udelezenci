@@ -1,5 +1,8 @@
 # Predloge za Word, PowerPoint in odgovor na sporočilo
 
+**Neobvezna vaja oziroma predloga.** Začni s svojo dejansko nalogo. Pripravljene podatke uporabi samo, če izbereš dodatni preizkus.
+
+
 Iz pregleda konferenčnih kontaktov pripravi kratek predlog v Wordu, tri diapozitive ali osnutek odgovora. Predloge imajo slovenske naslove in prazna polja, ki jih dopolniš s svojim rezultatom. Izberi obliko, ki jo potrebuješ.
 
 | Datoteka | Kaj pripraviš |

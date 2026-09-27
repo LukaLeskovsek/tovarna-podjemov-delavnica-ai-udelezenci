@@ -16,3 +16,6 @@ outputs/
 .venv/
 .gstack/
 dist/
+
+# Personal Obsidian vault settings.
+.obsidian/
