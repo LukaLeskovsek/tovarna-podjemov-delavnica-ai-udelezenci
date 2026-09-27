@@ -1,0 +1,7 @@
+source_row_id,conference,company,company_website,contact_name,business_email,role,country,meeting_note,assigned_salesperson,next_action
+TA01,Poslovni dan 2026,Vrba Razvoj,https://vrba.test,Hana Kovač,hana@vrba.test,direktorica,SI,Želi kratek primer priprave poročila.,Nika Rode,Pripravi osnutek
+TA02,Poslovni dan 2026,Tisa Orodja,https://tisa.test,Ian Pirc,ian@tisa.test,vodja prodaje,SI,Obstoječi sogovornik.,Nika Rode,Preveri pretekli zapis
+TA03,Poslovni dan 2026,Vrba Razvoj,https://vrba.test,Hana Kovač, HANA@VRBA.TEST ,direktorica,SI,Ponovljen prepis.,Nika Rode,Preglej
+TA04,Poslovni dan 2026,Bukev Studio,https://bukev.test,Jana Mlakar,,vodja ekipe,HR,Kontakt je podal ime brez e-pošte.,Nika Rode,Dopolni po pooblaščeni poti
+TA05,Poslovni dan 2026,Javor,https://javor-novi.test,Klemen Berg,klemen@javor-novi.test,ustanovitelj,SI,Na vizitki je druga domena kot v starem seznamu.,Nika Rode,Pripravi predlog
+TA06,Poslovni dan 2026,Topol Produkt,https://topol.test,Lana Mohar,lana@topol.test,operativna vodja,AT,Želi agendo naslednjega sestanka.,Nika Rode,Pripravi agendo

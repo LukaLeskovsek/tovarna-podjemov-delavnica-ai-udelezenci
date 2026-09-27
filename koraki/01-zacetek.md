@@ -30,5 +30,5 @@ V [Obsidianu](../docs/mape-in-obsidian.md) odpri svoj napredek: naloga, dogovor,
 [Začetek](../README.md)
 
 <!-- package-navigation:start -->
-[Vsa objavljena gradiva](../docs/objavljena-gradiva.md)
+[2. Opis postopka](02-razcleni-postopek.md) · [Vsa objavljena gradiva](../docs/objavljena-gradiva.md)
 <!-- package-navigation:end -->

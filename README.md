@@ -1,9 +1,11 @@
 # Delavnica AI · Tovarna podjemov
 
 <!-- published-packages:start -->
-## Trenutna izdaja: start-v6
+## Vse gradivo je tu. Začnemo pri prvem koraku.
 
-Na voljo so paketi **1**. Odpri [seznam objavljenih gradiv in veščin](docs/objavljena-gradiva.md). Za nadaljevanje naroči Claudu, naj prebere tvoj napredek; nova objava te ne prestavi samodejno v drug korak.
+Na delavnici gremo korak za korakom. Claude upošteva tvojo nalogo in shranjeni napredek. Drugih storitev in veščin ni treba pripraviti vnaprej. Odpri [prvi korak](koraki/01-zacetek.md) ali napiši **»Nadaljujva.«**
+
+Različica gradiva: full-v1. [Pregled vseh korakov in veščin](docs/objavljena-gradiva.md).
 <!-- published-packages:end -->
 
 Na delavnici izboljšuješ svoje dejanske naloge. Skupaj uredimo delovno okolje, pripravimo uporaben rezultat in preverimo, kako delo ponoviš naslednjič.
@@ -24,19 +26,18 @@ Za nadaljevanje napiši »Nadaljujva«. Za novo gradivo »Posodobi gradiva«. Za
 | Paket | Kaj narediš | Gradivo |
 |---|---|---|
 | 1. Začetek in priprava | Urediš okolje, najdeš dokument, pripraviš rezultat in nadaljuješ. | [Na voljo](koraki/01-zacetek.md) |
-| 2. Opis postopka | Iz opravljene naloge izluščiš korake in pravila. | Dodamo pozneje |
-| 3. Lastna veščina | Shraniš način dela in ga preizkusiš. | Dodamo pozneje |
-| 4. Povezave in raziskovanje | Uporabiš zunanji vir ali preverjeno dejanje. | Dodamo pozneje |
-| 5. Znanje | Ohraniš ugotovitve in preveriš popravek. | Dodamo pozneje |
-| 6. Prototip ali aplikacija | Izdelek preizkusiš z drugo osebo. | Dodamo pozneje |
-| 7. Redna opravila | Preveriš zagon, ustavitev in nadaljevanje. | Dodamo pozneje |
-| 8. Skupni proces | Določiš odgovornosti, predaje in odobritve. | Dodamo pozneje |
-| 9. Preizkus in predaja | Obdelaš nov vhod in predaš uporabna navodila. | Dodamo pozneje |
-| 10. Zaključek | Pokažeš izboljšavo in določiš nadaljevanje. | Dodamo pozneje |
+| 2. Opis postopka | Iz opravljene naloge izluščiš korake in pravila. | [Na voljo](koraki/02-razcleni-postopek.md) |
+| 3. Lastna veščina | Shraniš način dela in ga preizkusiš. | [Na voljo](koraki/03-shrani-metodo.md) |
+| 4. Povezave in raziskovanje | Uporabiš zunanji vir ali preverjeno dejanje. | [Na voljo](koraki/04-povezi-vire.md) |
+| 5. Znanje | Ohraniš ugotovitve in preveriš popravek. | [Na voljo](koraki/05-znanje-in-ucenje.md) |
+| 6. Prototip ali aplikacija | Izdelek preizkusiš z drugo osebo. | [Na voljo](koraki/06-prototip-in-aplikacija.md) |
+| 7. Redna opravila | Preveriš zagon, ustavitev in nadaljevanje. | [Na voljo](koraki/07-rutina-in-naprave.md) |
+| 8. Skupni proces | Določiš odgovornosti, predaje in odobritve. | [Na voljo](koraki/08-skupni-proces.md) |
+| 9. Preizkus in predaja | Obdelaš nov vhod in predaš uporabna navodila. | [Na voljo](koraki/09-preizkusi-in-predaja.md) |
+| 10. Zaključek | Pokažeš izboljšavo in določiš nadaljevanje. | [Na voljo](koraki/10-prikaz-in-nadaljevanje.md) |
 
 Zaporedje prilagodimo nalogam skupine. Objavljeni paket in tvoj osebni napredek sta ločena. Uporabljaš svoje račune; dodatne storitve pripravimo pred uporabo.
 
 ## Neobvezna pomoč
 
 [Konferenčna vaja](exercises/conference/README.md) in [Officeove predloge](assets/office/README.md) ostanejo na voljo. Intrix je osrednji CRM-prikaz pri povezavah; prva naloga ga ne zahteva.
-

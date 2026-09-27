@@ -1,0 +1,13 @@
+# Izbor kandidatov za pregled
+
+Ciljni profil in različica: …; stanje na dan: …; vir oziroma ID izvedbe Actorja (run ID): …
+
+| Kandidat / podjetje | Vir in datum | Ujemanje s kriteriji | Manjka / sporni podatek | Dvojnik | Status | Kaj še preveriti | Odločitev po pregledu |
+|---|---|---|---|---|---|---|---|
+| … | … | … | … | … | fits_profile / needs_review / excluded / duplicate | … | še ni pregledano |
+
+Pregledanih: …; izbranih za naslednji korak: …; odprtih vprašanj: …
+
+Odločitev velja za te identifikatorje in ta naslednji korak: …
+
+Kaj še ni bilo narejeno: zapis v CRM / pošiljanje / drugo …

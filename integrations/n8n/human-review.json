@@ -1,0 +1,127 @@
+{
+  "id": "TPHumanWaitV1",
+  "name": "Tovarna podjemov – clovek pregleda osnutek",
+  "nodes": [
+    {
+      "id": "start",
+      "name": "Zacni",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ],
+      "parameters": {}
+    },
+    {
+      "id": "draft",
+      "name": "Osnutek",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        240,
+        0
+      ],
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "return [{json:{draftId:\"TP01-v1\", text:\"Pripravi osnutek povzetka za Lipa Analitika. Brez posiljanja.\", externalActionPerformed:false}}];"
+      }
+    },
+    {
+      "id": "wait",
+      "name": "Cloveska odlocitev",
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [
+        480,
+        0
+      ],
+      "webhookId": "tovarna-podjemov-review-v1",
+      "parameters": {
+        "resume": "form",
+        "incomingAuthentication": "none",
+        "formTitle": "Pregled ucnega osnutka",
+        "formDescription": "Izmisljena vaja. TP01-v1: Pripravi osnutek povzetka za Lipa Analitika. Brez posiljanja. Vpisi approve ali reject. Obrazec sam ne dokazuje identitete.",
+        "formFields": {
+          "values": [
+            {
+              "fieldLabel": "decision",
+              "fieldType": "text",
+              "requiredField": true,
+              "placeholder": "approve ali reject"
+            },
+            {
+              "fieldLabel": "draftId",
+              "fieldType": "text",
+              "requiredField": true,
+              "placeholder": "TP01-v1"
+            }
+          ]
+        },
+        "responseMode": "onReceived",
+        "limitWaitTime": true,
+        "limitType": "afterTimeInterval",
+        "resumeAmount": 30,
+        "resumeUnit": "minutes",
+        "options": {
+          "appendAttribution": false
+        }
+      }
+    },
+    {
+      "id": "result",
+      "name": "Rezultat pregleda",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        720,
+        0
+      ],
+      "parameters": {
+        "mode": "runOnceForAllItems",
+        "jsCode": "const r=$input.first().json; const draft=$(\"Osnutek\").first().json; const decision=String(r.decision||\"\").trim().toLowerCase(); let status=\"not_approved\"; if(decision===\"reject\") status=\"rejected\"; else if(decision===\"approve\" && r.draftId===draft.draftId) status=\"reviewed_draft\"; return [{json:{status,draft,externalActionPerformed:false,note:\"Pregled osnutka. Pred resnicnim zapisom dodaj preverjeno identiteto, pravice in trajno preprecevanje dvojnikov.\"}}];"
+      }
+    }
+  ],
+  "connections": {
+    "Zacni": {
+      "main": [
+        [
+          {
+            "node": "Osnutek",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Osnutek": {
+      "main": [
+        [
+          {
+            "node": "Cloveska odlocitev",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Cloveska odlocitev": {
+      "main": [
+        [
+          {
+            "node": "Rezultat pregleda",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false,
+  "pinData": {},
+  "tags": []
+}

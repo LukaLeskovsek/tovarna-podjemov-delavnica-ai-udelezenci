@@ -50,7 +50,7 @@ def verify(root):
     errors = []
     try:
         metadata = json.loads((root / 'release.json').read_text())
-        if metadata.get('schema_version') != 1 or not re.fullmatch(r'(?:start|meeting-\d{2})-v[1-9]\d*', metadata['release_tag']):
+        if metadata.get('schema_version') != 1 or not re.fullmatch(r'(?:full|start|meeting-\d{2})-v[1-9]\d*', metadata['release_tag']):
             raise ValueError('Invalid release version')
         expected = metadata['files']
         if not isinstance(expected, dict) or not expected or 'release.json' in expected:
@@ -88,6 +88,12 @@ def verify(root):
             if ((name.startswith('.claude/skills/') and name not in STARTER_SKILL_FILES) or name == 'scripts/conference.py'
                     or re.match(r'koraki/(?!01-)[0-9]{2}-', name)):
                 errors.append(f'Later material in starter: {name}')
+    if metadata['release_tag'].startswith('full-'):
+        if modules != list(range(1, 11)):
+            errors.append('Full release must contain modules 1–10')
+        for number in range(1, 11):
+            if not any(re.fullmatch(rf'koraki/{number:02d}-[^/]+\.md', name) for name in expected):
+                errors.append(f'Missing step in full release: {number}')
     for name in sorted(actual & (set(expected) | {'release.json'})):
         path = root / name
         if path.suffix in {'.md', '.json', '.yml', '.yaml', '.py', '.csv', '.txt'}:

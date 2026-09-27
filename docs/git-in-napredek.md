@@ -16,7 +16,9 @@ Claude povzame rezultat, preverjanje in naslednji korak. Pokaže, katere datotek
 
 ## Posodobi gradiva
 
-Claude prenese novo objavljeno gradivo. Tvoje prilagoditve ostanejo v `moje-delo/`. Če si spremenil skupne datoteke, se ustavi in pojasni, kaj je treba urediti. Ničesar ne prepiše na silo.
+Vseh deset korakov že imaš. Posodobitev uporabi ob popravkih ali dopolnitvah gradiva, ne za prehod na naslednji korak. Ostaneš na isti veji `main`; oznak različic ti ni treba izbirati.
+
+Claude prenese popravke. Tvoje prilagoditve ostanejo v `moje-delo/`. Če si spremenil skupne datoteke, se ustavi in pojasni, kaj je treba urediti. Ničesar ne prepiše na silo.
 
 Oznake `start-v5` in `meeting-01-v2` so imena izdaj, ne številke tvojega koraka. Običajno ostaneš na trenutnih gradivih; oznak ne preklapljaš ročno. Nova izdaja ne pomeni, da si novo temo že opravil.
 

@@ -1,0 +1,9 @@
+{
+  "fictional": true,
+  "snapshot_date": "2026-09-20",
+  "companies": [
+    {"id": "ORG-A01", "name": "Tisa Orodja", "website": "https://tisa.test"},
+    {"id": "ORG-A02", "name": "Javor", "website": "https://javor-stari.test"}
+  ],
+  "contacts": [{"id": "CON-A01", "company_id": "ORG-A01", "name": "Ian Pirc", "email": "ian@tisa.test"}]
+}

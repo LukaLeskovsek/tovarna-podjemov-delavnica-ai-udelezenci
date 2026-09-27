@@ -1,0 +1,71 @@
+{
+  "fictional": true,
+  "as_of": "2026-09-20",
+  "sources": [
+    {
+      "source_id": "P1",
+      "company": "Planika Flow",
+      "path": "sources/planika-pricing-2026-08-01.md",
+      "published_at": "2026-08-01",
+      "observed_at": "2026-08-02",
+      "source_type": "arhivski primarni cenik",
+      "derived_from": []
+    },
+    {
+      "source_id": "P2",
+      "company": "Planika Flow",
+      "path": "sources/planika-pricing-2026-09-15.md",
+      "published_at": "2026-09-15",
+      "observed_at": "2026-09-20",
+      "source_type": "primarni cenik",
+      "derived_from": []
+    },
+    {
+      "source_id": "P3",
+      "company": "Planika Flow",
+      "path": "sources/planika-blog-2026-09-18.md",
+      "published_at": "2026-09-18",
+      "observed_at": "2026-09-20",
+      "source_type": "sekundarni blog",
+      "derived_from": [
+        "P2"
+      ]
+    },
+    {
+      "source_id": "R1",
+      "company": "Reka Board",
+      "path": "sources/reka-offer-2026-09-10.md",
+      "published_at": "2026-09-10",
+      "observed_at": "2026-09-20",
+      "source_type": "primarna ponudba",
+      "derived_from": []
+    },
+    {
+      "source_id": "R2",
+      "company": "Reka Board",
+      "path": "sources/reka-integrations-2026-07-01.md",
+      "published_at": "2026-07-01",
+      "observed_at": "2026-07-02",
+      "source_type": "arhivska primarna objava",
+      "derived_from": []
+    },
+    {
+      "source_id": "O1",
+      "company": "Oblak Pulse",
+      "path": "sources/oblak-offer-2026-09-05.md",
+      "published_at": "2026-09-05",
+      "observed_at": "2026-09-20",
+      "source_type": "primarna ponudba",
+      "derived_from": []
+    },
+    {
+      "source_id": "K1",
+      "company": "Kamniti Hub",
+      "path": "sources/kamniti-offer-2026-09-12.md",
+      "published_at": "2026-09-12",
+      "observed_at": "2026-09-20",
+      "source_type": "primarna ponudba",
+      "derived_from": []
+    }
+  ]
+}

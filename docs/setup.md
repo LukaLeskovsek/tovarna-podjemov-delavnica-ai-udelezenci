@@ -19,7 +19,7 @@ Uredili bomo Claude in delovno mapo, nato pa na tvojem gradivu pripravili prvi u
 
 > Pripravljam računalnik za delavnico Tovarne podjemov. Delam v Claude Desktop, Code, Local. Preberi https://raw.githubusercontent.com/LukaLeskovsek/tovarna-podjemov-delavnica-ai-udelezenci/main/docs/za-agenta/priprava.md in me vodi po teh navodilih. Preveri trenutno mapo, sistem in obstoječe namestitve. Povej, kaj potrebujeva in zakaj, nato pripravi manjkajoča orodja, javna gradiva, Obsidian in ločeno zasebno delo. Prijave in sistemske potrditve opravim sam. Obstoječih projektov in osebnega starterja ne spreminjaj.
 
-Če nova izdaja še ni objavljena, izvajalec uporabi njeno pregledano lokalno navodilo. Javna povezava vedno vrne trenutno objavljeno različico; preverita oznako izdaje.
+Javna povezava odpre trenutna navodila. V klonu dobiš gradivo za vseh deset korakov, delati pa začnemo pri prvem. Dodatne storitve pripravimo šele, ko jih potrebuješ.
 
 4. Claude gradiva klonira v podmapo **delavnica**. To točno mapo nato odpri v **Code → Local**, brez ločene delovne kopije (worktree).
 5. Začni nov pogovor:

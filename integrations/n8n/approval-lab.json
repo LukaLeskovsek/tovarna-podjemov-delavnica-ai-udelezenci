@@ -1,0 +1,75 @@
+{
+  "id": "TPApprovalLabV1",
+  "name": "Tovarna podjemov – odobritve: šest primerov",
+  "nodes": [
+    {
+      "id": "start",
+      "name": "Zacni",
+      "type": "n8n-nodes-base.manualTrigger",
+      "typeVersion": 1,
+      "position": [
+        0,
+        0
+      ],
+      "parameters": {}
+    },
+    {
+      "id": "seed",
+      "name": "Primeri",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        240,
+        0
+      ],
+      "parameters": {
+        "jsCode": "const payload = {source_row_id:\"TP01\", action:\"create_practice_contact\", company:\"Lipa Analitika\", contact:\"Ana Sever\", email:\"ana@lipa.test\"};\nconst base = {payload, approvedPayload:payload, decision:\"approve\", actor:\"reviewer.test\", allowedActor:\"reviewer.test\", expired:false, completed:false};\nreturn [\n  {json:{...base, scenario:\"approved\"}},\n  {json:{...base, scenario:\"rejected\",decision:\"reject\"}},\n  {json:{...base, scenario:\"changed\",payload:{...payload,email:\"changed@lipa.test\"}}},\n  {json:{...base, scenario:\"expired\",expired:true}},\n  {json:{...base, scenario:\"repeated\",completed:true}},\n  {json:{...base, scenario:\"wrong_identity\",actor:\"other.test\"}}\n];",
+        "mode": "runOnceForAllItems"
+      }
+    },
+    {
+      "id": "gate",
+      "name": "Preveri odobritev",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        480,
+        0
+      ],
+      "parameters": {
+        "jsCode": "function canonical(x) { if (Array.isArray(x)) return \"[\"+x.map(canonical).join(\",\")+\"]\"; if(x && typeof x===\"object\") return \"{\"+Object.keys(x).sort().map(k=>JSON.stringify(k)+\":\"+canonical(x[k])).join(\",\")+\"}\"; return JSON.stringify(x); }\nreturn $input.all().map(item => {\n const x=item.json;\n let status;\n if(x.actor!==x.allowedActor) status=\"denied_identity\";\n else if(x.decision===\"reject\") status=\"rejected\";\n else if(x.expired) status=\"expired\";\n else if(x.decision!==\"approve\") status=\"awaiting_approval\";\n else if(canonical(x.payload)!==canonical(x.approvedPayload)) status=\"needs_new_approval\";\n else if(x.completed) status=\"already_completed\";\n else status=\"simulated_ready\";\n return {json:{scenario:x.scenario,status,externalActionPerformed:false,payload:x.payload,\n  note:\"Lokalna ucna vaja. Identiteta in stanje sta izmisljena vhodna podatka; noben CRM ali sporocilo ni spremenjeno.\"}};\n});",
+        "mode": "runOnceForAllItems"
+      }
+    }
+  ],
+  "connections": {
+    "Zacni": {
+      "main": [
+        [
+          {
+            "node": "Primeri",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Primeri": {
+      "main": [
+        [
+          {
+            "node": "Preveri odobritev",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "active": false,
+  "pinData": {},
+  "tags": []
+}
