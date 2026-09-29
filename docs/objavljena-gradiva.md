@@ -1,4 +1,4 @@
-# Gradiva in veščine · full-v1
+# Gradiva in veščine · full-v2
 
 Vseh deset korakov in podporne veščine že imaš. Začni pri prvem koraku; nato nadaljuj iz svojega napredka, po dogovoru na delavnici. Naslednjega koraka ni treba odklepati ali posebej prenašati. Objavljeno še ne pomeni opravljeno: Claude pri nadaljevanju prebere tvoj osebni napredek.
 

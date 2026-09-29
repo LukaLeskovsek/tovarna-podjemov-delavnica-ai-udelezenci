@@ -1,5 +1,9 @@
 # 3. Pripravi veščino za ponavljajoče delo
 
+## Povezava s prvim primerom
+
+Pri pošti uporabi svoje preverjene popravke kot osnovo metode. Poskusi običajen pogovor, nepopoln vhod in nov pogovor. Končne poslovne veščine ne dobiš vnaprej; občutljiva pravila ostanejo lokalno.
+
 ## Kaj že imaš in kaj dodamo
 
 Imaš opis postopka in merila za pregled. Svoj način dela shrani kot poslovno veščino. Začetni delavnica-dokumenti pomaga pri iskanju virov; tvoja veščina določa pravila tvoje naloge.
@@ -42,8 +46,6 @@ Veščina lahko preverja preglednico, pripravlja sestanek, primerja ponudbe, obl
 V napredek dodaj rezultat, kaj si preveril, dogovor in naslednji korak. Druge predloge uporabi samo, če pomagajo pri nalogi.
 
 Shrani veščino, njeno različico in [dnevnik izvedb](../predloge/dnevnik-izvedbe.md). Z [verify-workflow](../.claude/skills/verify-workflow/SKILL.md) preveri običajen, nepopoln in nov primer. Z [review-workflow-run](../.claude/skills/review-workflow-run/SKILL.md) zapiši eno koristno izboljšavo. Zapiši, kaj je še zahtevalo tvojo razlago ali popravek. Veščina je uporabna, ko z njo nalogo uspešno ponoviš.
-
-Naprej: 4. Poveži Clauda z drugimi storitvami · [Nazaj](02-razcleni-postopek.md) · [Kazalo](../README.md)
 
 <!-- package-navigation:start -->
 [2. Opis postopka](02-razcleni-postopek.md) · [4. Povezave in Intrix](04-povezi-vire.md) · [Vsa objavljena gradiva](../docs/objavljena-gradiva.md)

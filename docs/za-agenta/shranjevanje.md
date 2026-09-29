@@ -1,6 +1,6 @@
 # Za Claude: zasebno shranjevanje in posodobitve
 
-Gradivo kloniraš ob začetku delavnice, nove datoteke pa pozneje preneseš s posodobitvijo. Svoje delo shranjuješ ločeno, v zasebnem repozitoriju, ki ga Claude ustvari v podmapi `moje-delo/`.
+Ob prvem kloniranju dobiš gradivo za vseh deset korakov. Posodobitev prinese popravke gradiva; za naslednjo temo je ne potrebuješ. Svoje delo shranjuješ ločeno, v zasebnem repozitoriju, ki ga Claude ustvari v podmapi `moje-delo/`.
 
 ```text
 delavnica/                 skupna javna gradiva
@@ -96,3 +96,7 @@ Izvorne podatke po potrebi obnovi iz svoje dovoljene shrambe. Nato napiši: **»
 Odpri isto mapo v Code in Obsidianu. Nastavitve `.obsidian/` in `local/starter/` zunanji Git ignorira. Osebna navodila so pregledan zapis `moje-delo/rezultati/kako-delam-s-claudom.md`; pri shranjevanju ga izberi samo, če želiš njegovo zasebno kopijo in je vsebina dovoljena.
 
 Obnovitev na novi napravi ohrani napredek in izbrane rezultate. Izvirnike obnovi iz njihove dovoljene shrambe, nato ponovno pripravi lokalni indeks in preveri poti. GitHubova kopija rezultatov ne vsebuje indeksa, izvornih dokumentov ali nastavitev povezav. Če izvirnikov še ni, nadaljuj iz dosegljivega pregledanega rezultata in manjkajoči del jasno označi.
+
+## Posebej pri pošti
+
+Vsebina pošte, povzetki, naslovi, ID-ji pogovorov, občutljiva pravila in stanje spremljanja ostanejo v `moje-delo/zasebno/e-posta/`, izključeni tudi iz osebnega Gita. Izberi samo pregledan napredek in dovoljene splošne dele metode. Obnova Gita ne obnovi tega lokalnega stanja; pred nadaljevanjem preveri manjkajoče podatke, račun in spremljanje. Glej [navodila za pošto](e-posta.md).

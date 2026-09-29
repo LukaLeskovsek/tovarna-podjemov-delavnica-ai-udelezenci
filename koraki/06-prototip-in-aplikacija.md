@@ -1,5 +1,9 @@
 # 6. Pripravi in preizkusi prototip
 
+## Povezava s prvim primerom
+
+Začni pri prvem pregledanem Artifaktu. Pri pregledu pošte preveri razumljivost štirih skupin, čas osvežitve, vire in nepopoln rezultat. Lokalni zapis ostane osnova; ne ustvari drugega neusklajenega stanja.
+
 ## Kaj že imaš in kaj dodamo
 
 Znaš odpreti in popraviti prvi Artifact oziroma pregledano lokalno datoteko. Preveri izdelek z drugo osebo, dejanske dostope in omejitve. O aplikaciji odločamo ob konkretni potrebi; osnov Artifacts ne razlagamo prvič šele tu.
@@ -41,8 +45,6 @@ Izberi obliko rezultata, uporabnika in nalogo, ki jo mora opraviti. Določi, kat
 V napredek dodaj rezultat, kaj si preveril, dogovor in naslednji korak. Druge predloge uporabi samo, če pomagajo pri nalogi.
 
 Shrani prototip, izbrano zasnovo, povezavo na uporabljeno različico opisa postopka, ugotovitve drugega uporabnika in matriko dovoljenj. Če morajo imeti uporabniki različne pravice, deljenje preveri z dvema računoma. Pri aplikaciji preveri tudi zavrnjen dostop, preklic pravic, spremembo po odobritvi in ponovitev dejanja. Nepreizkušeno zapiši kot nepreverjeno. Dokončana aplikacija ali objava ni pogoj za zaključek programa.
-
-Naprej: 7. Nastavi redno opravilo in nadaljuj na drugi napravi · Nazaj · [Kazalo](../README.md)
 
 <!-- package-navigation:start -->
 [5. Znanje in popravki](05-znanje-in-ucenje.md) · [7. Redna opravila in naprave](07-rutina-in-naprave.md) · [Vsa objavljena gradiva](../docs/objavljena-gradiva.md)

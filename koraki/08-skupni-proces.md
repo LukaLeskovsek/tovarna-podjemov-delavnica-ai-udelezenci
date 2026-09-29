@@ -1,5 +1,9 @@
 # 8. Uredi skupni postopek
 
+## Povezava s prvim primerom
+
+Osebni pregled lahko nadgradiš v skupni postopek samo, če imaš dejansko skupno nalogo, dovoljenja in odgovorno osebo. V n8n Cloud preveri predajo, odobritev, zavrnitev in ponovitev; osebne lokalne mape niso samodejno dostopne oblaku.
+
 ## Kaj že imaš in kaj dodamo
 
 Imaš preverjen posamezni postopek in znaš prepoznati izjemo. Določi druge ljudi, odgovornost, skupno stanje in predaje. Uporabi n8n Cloud, Instance-level MCP in povezovalnik v Claudu. Preveri tudi zavrnitev, spremembo in ponovitev.

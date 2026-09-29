@@ -17,3 +17,7 @@ Možnosti Artifacts se spreminjajo. V aktualni dokumentaciji so podprte tudi pot
 Ob prvem rezultatu spoznamo uporabo, popravljanje in shranjevanje. Razvoj aplikacije, zahtevnejše povezave in skupne dostope obravnavamo pozneje.
 
 [Uradna navodila za Artifacts](https://support.claude.com/en/articles/9487310-what-are-artifacts-and-how-do-i-use-them) · [Prva naloga](../koraki/01-zacetek.md)
+
+## Pregled pošte
+
+Prvi Artifact izdelaš s Claudom iz svojega preverjenega [pregleda pošte](e-posta.md). Prikaže štiri skupine, razlog, naslednji korak, vir ter čas in obseg pregleda. Osvežiš ga s prošnjo Claudu. Lokalni zapis ostane osnova; Artifact nima ločenih poslovnih pravil ali lastnega spremljevalnika. Ob prikazu jasno loči zadnji pregled od sveže osvežitve. Vsebina pošte in lokalna kopija ostaneta v izključeni zasebni mapi.

@@ -1,5 +1,9 @@
 # 2. Opiši, kako opravljaš nalogo
 
+## Povezava s prvim primerom
+
+Pri pregledu pošte iz prve izvedbe opiši izbor obsega, branje pogovorov, presojo pomembnosti, pregled in popravek. Povej, katere odločitve še potrebujejo tvojo presojo.
+
 ## Kaj že imaš in kaj dodamo
 
 Imaš prvi pregledan rezultat in zapisan popravek. Iz konkretne izvedbe izlušči korake, odločitve in odvečno delo. Opis postopka nastaja iz opravljenega dela; ne začenjaj z novim dolgim vprašalnikom.
@@ -42,8 +46,6 @@ Pri konferenčni vaji [pravila](../exercises/conference/rules.md) določajo vrst
 V napredek dodaj rezultat, kaj si preveril, dogovor in naslednji korak. Druge predloge uporabi samo, če pomagajo pri nalogi.
 
 Iz [predloge opisa](../predloge/opis-postopka.md) pripravi `moje-delo/workflow-brief.md`, iz [konteksta](../predloge/kontekst.md) pa `context-map.md`. Zapiši različico in ali je opis že pregledan. Daj ga sodelavcu ali ga uporabi v novem pogovoru s Claudom. Ali je jasno, kaj mora nastati, kaj je dovoljeno in kaj še ni dogovorjeno? Dopolni, kar manjka. Tehnično zasnovo pripravita posebej.
-
-Naprej: 3. Pripravi veščino za ponavljajoče delo · [Nazaj](01-zacetek.md) · [Kazalo](../README.md)
 
 <!-- package-navigation:start -->
 [1. Začetek in priprava](01-zacetek.md) · [3. Lastna veščina](03-shrani-metodo.md) · [Vsa objavljena gradiva](../docs/objavljena-gradiva.md)

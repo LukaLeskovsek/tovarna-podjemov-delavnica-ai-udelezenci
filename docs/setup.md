@@ -7,7 +7,8 @@ Uredili bomo Claude in delovno mapo, nato pa na tvojem gradivu pripravili prvi u
 - Prinesi prenosnik, polnilec in dostop do potrjevanja prijav.
 - Pripravi svoj račun za [Claude](https://claude.ai/) z dostopom do Code in svoj [GitHub](https://github.com/).
 - Na službeni napravi preveri dovoljenje za namestitve in uporabo izbranih podatkov.
-- Izberi nalogo in 3–5 krajših dovoljenih dokumentov. Povej, kaj želiš imeti na koncu.
+- Izberi svojo nalogo in majhen dovoljeni vzorec podatkov. Za skupni prikaz pripravi nekaj pogovorov iz svoje pošte; za iskanje po dokumentih nekaj krajših dokumentov.
+- Če želiš delati s pošto, pred srečanjem preveri [Gmail](gmail.md) ali [službeni Outlook](outlook.md). Pri službenem računu pravočasno uredi morebitno soglasje skrbnika.
 
 Če dokumentov še nimaš, lahko začneš z dejansko nalogo, ki jo znaš opisati. Pripravo indeksa dokončamo, ko imaš dovoljen vhod. Neobvezna vaja je pomoč, kadar svojega primera še ne moreš uporabiti.
 
@@ -29,7 +30,8 @@ Javna povezava odpre trenutna navodila. V klonu dobiš gradivo za vseh deset kor
 ## Nato opravimo nalogo
 
 - [Odpri isto mapo v Obsidianu](mape-in-obsidian.md) in najdi navodila ter svoj napredek.
-- [Pripravi starter in izbrane dokumente](dokumenti-in-starter.md). Zapiši, kako želiš sodelovati s Claudom.
+- Zapiši, kako želiš sodelovati s Claudom. [Starter in izbrane dokumente](dokumenti-in-starter.md) preizkusi posebej; indeks ni pogoj za pregled pošte.
+- Za skupni primer odpri [Kaj danes potrebuje mojo pozornost?](e-posta.md).
 - [Opravi prvo nalogo](../koraki/01-zacetek.md), preveri vir in zahtevaj popravek.
 - Spoznaj [Artifacts](artifacts.md), nato napiši **»Shrani moje delo.«**
 - V novem pogovoru napiši **»Nadaljujva.«** Claude mora najti rezultat in pravo naslednje dejanje.

@@ -1,5 +1,9 @@
 # 9. Preveri in predaj
 
+## Povezava s prvim primerom
+
+Pri pošti uporabi nov dovoljeni pogovor. Preveri napačno pomembnost, zadnji lasten odgovor, neznan rok in nedostopen vir. Predaj navodila, ne svojega računa ali poslovne pošte. Več agentov primerjaj le, če delitev pomaga.
+
 ## Kaj že imaš in kaj dodamo
 
 Imaš rezultat, navodila in zapisane omejitve. Na novem vhodu preveri samostojnost in predajo. Več agentov primerjaj z enim na isti smiselni nalogi; delitev dela ni obvezna za vsakega.
@@ -57,8 +61,6 @@ Nov pogovor lahko začneš tako:
 V napredek dodaj rezultat, kaj si preveril, dogovor in naslednji korak. Druge predloge uporabi samo, če pomagajo pri nalogi.
 
 V napredek zapiši samostojni poskus in povezavo do rezultata. Daljše ugotovitve po potrebi shrani v `verification-report.md`, navodila za drugo osebo pa v `operating-guide.md`. Zabeleži pomoč izvajalca kot brez pomoči, razlaga, usmeritev ali prevzem. Preveri, ali drugi uporabnik razume omejitve, najde odgovorno osebo, zna ustaviti postopek in prepozna trditev, ki še ni preverjena.
-
-Naprej: 10. Predstavi rezultat in se odloči, kako naprej · Nazaj · [Kazalo](../README.md)
 
 <!-- package-navigation:start -->
 [8. Skupni postopek in n8n](08-skupni-proces.md) · [10. Predstavitev in nadaljevanje](10-prikaz-in-nadaljevanje.md) · [Vsa objavljena gradiva](../docs/objavljena-gradiva.md)

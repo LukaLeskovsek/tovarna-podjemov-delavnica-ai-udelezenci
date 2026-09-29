@@ -20,3 +20,7 @@ Začni z uporabljenim prototipom in konkretnim razlogom za nadaljevanje. Uporabi
 - Primerjaj izvor in novo izvedbo: drugi uporabnik, zavrnjen dostop, sprememba po odobritvi in ponovitev.
 
 Veščina pripravi predajo. Gradnjo ali objavo nadaljuj samo, če je zahtevana in skladna s ciljnim postopkom. Po prenosu kode preveri še delovanje vseh potrebnih povezav in nastavitev.
+
+## Pri pregledu pošte
+
+Pri pregledu pošte nadgradi že ustvarjeni Artifact. Lokalni pregled in pravila ostanejo osnova; pred drugim trajnim stanjem določi način usklajevanja. Odprt Artifact ne dokazuje spremljanja v ozadju.

@@ -20,3 +20,7 @@ Začni s preverjeno metodo in dejansko razpoložljivimi računi. Uporabi [operat
 6. Izvedi omejen preizkus, preglej rezultat, ustavi in preveri nadaljevanje. Zapiši dejanski run ID.
 
 Če udeleženec izbere neobvezno vajo, lahko v lokalnem simulatorju preveri njeno delovanje. Pravice in dvojnike na resničnem cilju preverimo posebej. Predaj konfiguracijo, dokaz zagona, način ustavitve in odgovorno osebo.
+
+## Pri pregledu pošte
+
+Za skupni primer pošte preberi docs/za-agenta/redna-posta.md iz korena delavnice. Začni lokalno: ročni preizkus, dejanski časovni zagon, omejeno spremljanje in ustavitev. En zapisovalec stanja; napaka ni nespremenjen predal. Obvestilo o istem dogodku se ne ponavlja. Artifact ni izvajalno okolje.

@@ -21,3 +21,7 @@ Preberi opis postopka, točen vhod, rezultat in dnevnik oziroma dokaz dejanja. U
 - Med samostojnim preizkusom ne beri rešitev izvajalca ali pričakovanih odgovorov. Preverjaj iz vhodov, pravil in dejanskega rezultata.
 
 Povej, katera napaka ali manjkajoče preverjanje je najpomembnejše. Ta pregled ne daje dovoljenja za nova dejanja v drugih storitvah.
+
+## Pri pregledu pošte
+
+Pri pošti preveri pravilno nit, zadnji lasten odgovor, neznan rok, nepopoln zajem, manjkajočo prilogo in napačno pomembnost. Izmišljeni preizkus ne dokazuje povezave ali neodvisne udeleženčeve izvedbe.

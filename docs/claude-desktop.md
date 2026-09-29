@@ -24,7 +24,7 @@ Opazuj, kaj predlaga in kaj je že izvedel. Z gumbom za ustavitev prekini delo, 
 
 **Dovoljenja.** Poglej, katero mapo odpiraš in katera dejanja potrjuješ. Ne vključujemo splošnega obhoda dovoljenj. Če Claude potrebuje dodatni dostop, naj pove, do česa in zakaj.
 
-**Povezovalniki — Connectors.** Preveri priključene storitve, račun ter možnosti branja in spreminjanja. Pokažemo tudi, kje povezavo odklopiš. Prvo povezavo dodamo ob konkretni potrebi; začetna naloga lahko uporablja samo lokalne dokumente. Prijavo opraviš v uradnem oknu. Povezavo preverimo v dejanski seji Code.
+**Povezovalniki — Connectors.** Preveri priključene storitve, račun ter možnosti branja in spreminjanja. Pokažemo tudi, kje povezavo odklopiš. Za skupni pregled pošte uredimo Gmail ali službeni Microsoft 365 pred prvim branjem. Če dostopa ni, uporabi dovoljen lokalni izvoz ali drugo lastno nalogo. Prijavo opraviš v uradnem oknu. Povezavo preverimo v dejanski seji Code.
 
 **Deljenje.** Pred deljenjem pogovora, dokumenta ali Artifakta preveri prejemnike in podatke v njem. Ustvarjen izdelek še ni dogovor za javno objavo.
 

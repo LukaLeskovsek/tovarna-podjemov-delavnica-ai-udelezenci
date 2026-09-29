@@ -1,5 +1,7 @@
 # Moji dokumenti in navodila za Claude
 
+Ta del preizkusimo posebej na dovoljenih dokumentih. Indeks ni pogoj za [pregled pošte](e-posta.md); celotnega predala ne indeksiramo.
+
 Starter pripravi osnovo za delo z dovoljenimi dokumenti. Claude zna po njih poiskati vsebino, odpreti izvirnik in povedati, na čem temelji odgovor.
 
 ## Začni z majhnim izborom

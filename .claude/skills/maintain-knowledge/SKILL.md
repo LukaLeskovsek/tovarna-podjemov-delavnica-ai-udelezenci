@@ -21,3 +21,7 @@ Uporabi [zapis](assets/output.md). Določi, kdo skrbi za zapis, komu je namenjen
 - Po dovoljenem zapisu preveri priklic v novem pogovoru in vprašanje brez odgovora v virih. Loči dokumentni priklic, semantični indeks in graf.
 
 Na koncu povej, kaj si spremenil, kje je zapis, katera različica velja in kako si preveril ponovno uporabo. Uporabnost oceni po naslednjem rezultatu, ne po količini shranjenega besedila.
+
+## Pri pregledu pošte
+
+Pri pošti loči trajnejša pravila od stanja posamezne niti. Poslovnih vsebin in osebnih podatkov ne objavi v skupno zbirko kot stranski učinek shranjevanja metode.

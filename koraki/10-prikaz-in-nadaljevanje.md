@@ -1,5 +1,9 @@
 # 10. Predstavi rezultat in se odloči, kako naprej
 
+## Povezava s prvim primerom
+
+Pri pregledu pošte pokaži dve izvedbi, popravek presoje in težji primer. Primerjaj celoten čas, tudi pregled in popravke. Povej, kaj lahko uporabljaš, katere avtomatizacije so dejansko preverjene in kdo skrbi zanje.
+
 ## Kaj že imaš in kaj dodamo
 
 Imaš pregledane rezultate, ponovitve in zabeležene popravke. Pokaži dejansko izboljšavo ter vložek v pripravo, pregled in popravljanje. Določi naslednji korak in odgovorno osebo.

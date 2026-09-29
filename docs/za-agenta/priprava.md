@@ -49,7 +49,7 @@ Preveri `origin`, vejo `main` in prisotnost `CLAUDE.md`. Povej točno mapo, ki n
 
 Preberi [postopek shranjevanja](shranjevanje.md). Najprej preveri, da zunanji repozitorij ignorira celotno `moje-delo/`, nato pripravi notranji repozitorij in zasebni cilj v lasti preverjenega uporabnika. Pred zapisovanjem poslovnih vhodov preveri izključene poti.
 
-Nato sledi [povezani pripravi starterja in Obsidiana](starter.md): osebna navodila, ista mapa v Obsidianu, namensko lokalno stanje in nekaj dovoljenih dokumentov. Pred uporabo podatkov skupaj preglejta [osnove in nastavitve aplikacije](../claude-desktop.md).
+Nato pripravi osebna navodila in isto mapo v Obsidianu po [navodilih](starter.md). Dokumentni indeks preizkusi na nekaj dovoljenih dokumentih, vendar ne ustavljaj prve naloge s pošto, če dokumentov še ni. Za skupni primer preberi [navodila za pošto](e-posta.md); računa in dostop preveri pred branjem. Pred uporabo podatkov skupaj preglejta [osnove in nastavitve aplikacije](../claude-desktop.md).
 
 Vprašaj po dejanski nalogi. Če datoteke ni, predlagaj izvedljivo nalogo iz udeleženčevega dela, ki jo lahko opiše. Neobvezno vajo ponudi šele, če svojega primera ne more uporabiti. Udeleženec pregleda vsebino rezultata, ti pa preveriš datoteko, točen izbor za shranjevanje in zasebno varnostno kopijo.
 

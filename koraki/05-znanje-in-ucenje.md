@@ -1,5 +1,9 @@
 # 5. Shrani ugotovitve in popravke
 
+## Povezava s prvim primerom
+
+Pri pošti loči trajnejša pravila pomembnosti od trenutnega stanja posameznega pogovora. Popravek pravila preveri v novem pogovoru. Pošte ne prenesi samodejno v skupno znanje ali GBrain.
+
 ## Kaj že imaš in kaj dodamo
 
 Znaš najti dokument v osnovnem indeksu in preveriti vir. Dodaj trajnejšo ugotovitev, njen popravek in preverjen priklic. GBrain pokažemo kot nadgradnjo; osnovni indeks, zapiski napredka in spomin pogovora imajo različne vloge.
@@ -41,8 +45,6 @@ Potrdi, kaj je uporabna ugotovitev, kateri vir jo podpira in kdo jo sme uporablj
 V napredek dodaj rezultat, kaj si preveril, dogovor in naslednji korak. Druge predloge uporabi samo, če pomagajo pri nalogi.
 
 Shrani [predlog izboljšave](../predloge/izboljsava.md), sprejeto odločitev, posodobljeni vir in novo izvedbo. Pokaži, kaj se je spremenilo in kdo je spremembo potrdil. Pri naslednjem primeru preveri, ali je popravek pomagal. Če tega še ne moreš oceniti, tako zapiši. S tem urejaš vire in navodila, ki jih model uporablja; samega modela ne treniraš na novo.
-
-Naprej: 6. Pripravi in preizkusi prototip · Nazaj · [Kazalo](../README.md)
 
 <!-- package-navigation:start -->
 [4. Povezave in Intrix](04-povezi-vire.md) · [6. Prototip in aplikacija](06-prototip-in-aplikacija.md) · [Vsa objavljena gradiva](../docs/objavljena-gradiva.md)

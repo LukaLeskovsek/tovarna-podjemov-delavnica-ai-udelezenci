@@ -1,5 +1,9 @@
 # 7. Nastavi redno opravilo in nadaljuj na drugi napravi
 
+## Povezava s prvim primerom
+
+Za pošto uporabi [dnevni pregled in spremljanje](../docs/redna-posta.md). Najprej lokalna rutina, nato omejena seja za izbran pogovor. Preveri sveže podatke, lastne odgovore, dvojna obvestila, izpad in dejansko ustavitev.
+
 ## Kaj že imaš in kaj dodamo
 
 Znaš nalogo ročno zagnati in preveriti rezultat. Dodaj sprožilec, sveže podatke, ustavitev in nadaljevanje. Redno osveževanje dokumentov je ena možnost; prej preveri porabo, dosegljivost virov in mesto izvajanja.
@@ -42,8 +46,6 @@ Določi sprožilec, mesto izvajanja, mejo porabe, pregled rezultata in način us
 V napredek dodaj rezultat, kaj si preveril, dogovor in naslednji korak. Druge predloge uporabi samo, če pomagajo pri nalogi.
 
 Shrani konfiguracijo brez skrivnosti, ID izvedbe, stanje in [navodila za uporabo](../predloge/navodila-za-uporabo.md). Pokaži rezultat dejanskega zagona, ustavitev in odziv na napako. Preveri, ali se je opravilo res sprožilo po nastavljenem urniku. Če si spremljal samo prikaz, to zapiši.
-
-Naprej: 8. Uredi postopek, v katerem sodeluje več ljudi · Nazaj · [Kazalo](../README.md)
 
 <!-- package-navigation:start -->
 [6. Prototip in aplikacija](06-prototip-in-aplikacija.md) · [8. Skupni postopek in n8n](08-skupni-proces.md) · [Vsa objavljena gradiva](../docs/objavljena-gradiva.md)

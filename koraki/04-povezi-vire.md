@@ -1,5 +1,9 @@
 # 4. Poveži Clauda z drugimi storitvami
 
+## Povezava s prvim primerom
+
+Prvo bralno povezavo Gmail ali Outlook že poznaš. Zdaj poglobimo razumevanje dovoljenj, popolnosti podatkov in zunanjega zapisa. Intrix ostane CRM-prikaz; brskalnik je ena od možnosti izvedbe.
+
 ## Kaj že imaš in kaj dodamo
 
 Imaš preizkušen način dela na dovoljenih dokumentih. Dodaj zunanji vir ali eno dogovorjeno dejanje. Intrix je prikaz dela s CRM-jem, ne obvezna naloga. Brskalnik je eno od orodij, s katerimi lahko agent opravlja delo.
@@ -46,8 +50,6 @@ Za raziskovalno vprašanje uporabi [navodilo za raziskovanje](../docs/raziskovan
 V napredek dodaj rezultat, kaj si preveril, dogovor in naslednji korak. Druge predloge uporabi samo, če pomagajo pri nalogi.
 
 Posodobi `context-map.md`, po potrebi [matriko dovoljenj](../predloge/dovoljenja.md) in dnevnik. Zapiši uporabljeni vir in račun, izvedeno dejanje ter kaj se je zgodilo ob manjkajočem dostopu. Če si delal z datoteko ali spremljal prikaz, zapiši to. Svojo povezavo moraš še preizkusiti.
-
-Naprej: 5. Shrani ugotovitve in popravke · [Nazaj](03-shrani-metodo.md) · [Kazalo](../README.md)
 
 <!-- package-navigation:start -->
 [3. Lastna veščina](03-shrani-metodo.md) · [5. Znanje in popravki](05-znanje-in-ucenje.md) · [Vsa objavljena gradiva](../docs/objavljena-gradiva.md)

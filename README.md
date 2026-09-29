@@ -5,8 +5,9 @@
 
 Na delavnici gremo korak za korakom. Claude upošteva tvojo nalogo in shranjeni napredek. Drugih storitev in veščin ni treba pripraviti vnaprej. Odpri [prvi korak](koraki/01-zacetek.md) ali napiši **»Nadaljujva.«**
 
-Različica gradiva: full-v1. [Pregled vseh korakov in veščin](docs/objavljena-gradiva.md).
+Različica gradiva: full-v2. [Pregled vseh korakov in veščin](docs/objavljena-gradiva.md).
 <!-- published-packages:end -->
+
 
 Na delavnici izboljšuješ svoje dejanske naloge. Skupaj uredimo delovno okolje, pripravimo uporaben rezultat in preverimo, kako delo ponoviš naslednjič.
 
@@ -16,7 +17,7 @@ Na delavnici izboljšuješ svoje dejanske naloge. Skupaj uredimo delovno okolje,
 
 1. [Pripravi računalnik in računa](docs/setup.md).
 2. Spoznaj [Claude Desktop in nastavitve](docs/claude-desktop.md), [mapo in Obsidian](docs/mape-in-obsidian.md).
-3. Uredi [svoja navodila in dokumente](docs/dokumenti-in-starter.md).
+3. Za skupni primer pripravi [pregled pošte](docs/e-posta.md): [Gmail](docs/gmail.md) ali [službeni Outlook](docs/outlook.md). [Svoja navodila in dokumentni starter](docs/dokumenti-in-starter.md) uredi ločeno; indeks ni pogoj za pošto.
 4. [Opravi prvo nalogo](koraki/01-zacetek.md), spoznaj [Artifacts](docs/artifacts.md) in [shrani delo](docs/git-in-napredek.md).
 
 Za nadaljevanje napiši »Nadaljujva«. Za novo gradivo »Posodobi gradiva«. Za izbrano zasebno kopijo »Shrani moje delo«.
@@ -25,7 +26,7 @@ Za nadaljevanje napiši »Nadaljujva«. Za novo gradivo »Posodobi gradiva«. Za
 
 | Paket | Kaj narediš | Gradivo |
 |---|---|---|
-| 1. Začetek in priprava | Urediš okolje, najdeš dokument, pripraviš rezultat in nadaljuješ. | [Na voljo](koraki/01-zacetek.md) |
+| 1. Začetek in priprava | Urediš okolje, preveriš vir, pripraviš rezultat in nadaljuješ. | [Na voljo](koraki/01-zacetek.md) |
 | 2. Opis postopka | Iz opravljene naloge izluščiš korake in pravila. | [Na voljo](koraki/02-razcleni-postopek.md) |
 | 3. Lastna veščina | Shraniš način dela in ga preizkusiš. | [Na voljo](koraki/03-shrani-metodo.md) |
 | 4. Povezave in raziskovanje | Uporabiš zunanji vir ali preverjeno dejanje. | [Na voljo](koraki/04-povezi-vire.md) |
@@ -41,3 +42,7 @@ Zaporedje prilagodimo nalogam skupine. Objavljeni paket in tvoj osebni napredek 
 ## Neobvezna pomoč
 
 [Konferenčna vaja](exercises/conference/README.md) in [Officeove predloge](assets/office/README.md) ostanejo na voljo. Intrix je osrednji CRM-prikaz pri povezavah; prva naloga ga ne zahteva.
+
+## Dnevni pregled in spremljanje
+
+Ko ročni postopek deluje, nadaljuj z [lokalno rutino in spremljanjem](docs/redna-posta.md). Najprej preverimo dejanski zagon in ustavitev; odprt Artifact sam ne spremlja pošte.

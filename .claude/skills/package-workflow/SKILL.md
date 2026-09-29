@@ -20,3 +20,7 @@ Izhodišče so pregledan opis postopka, dejanski vhod, uporaben rezultat in potr
 6. Zabeleži različico in preizkušeno okolje. Namestitev preveri s priklicem veščine in nato še z uporabo v novem pogovoru.
 
 Veščina ne zagotovi dostopa do orodij ali urnika. Predaj paket, rezultate preizkusov in opis znanih omejitev.
+
+## Pri pregledu pošte
+
+Pri pošti metodo izpelji iz udeleženčevih pregledanih odločitev. Pravila z imeni ali občutljivim kontekstom ostanejo v zasebni lokalni mapi; v veščino za GitHub daj samo dovoljeno vsebino. Preizkusi tudi lasten zadnji odgovor in manjkajočo prilogo.
