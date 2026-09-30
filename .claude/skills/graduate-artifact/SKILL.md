@@ -17,6 +17,7 @@ Začni z uporabljenim prototipom in konkretnim razlogom za nadaljevanje. Uporabi
 - Udeleženec ima svoj zasebni repozitorij in dovoljene račune. Zasebni repozitorij ne zagotovi zasebne aplikacije.
 - V Internal OS Starter preberi aktualna navodila ter uporabi njegov Feature Card in postopek. Ne obidi njegove arhitekture ali kontrol.
 - Načrtuj eno uporabno celoto. Loči deljenje, prijavo, pravico do zapisov in odobritev dejanja.
+- Pri predaji ohrani preverjena poslovna pravila, primere in merila uspeha; trenutno stanje prototipa in nepreverjene domneve označi posebej. Preveri tudi predaje med deli aplikacije.
 - Primerjaj izvor in novo izvedbo: drugi uporabnik, zavrnjen dostop, sprememba po odobritvi in ponovitev.
 
 Veščina pripravi predajo. Gradnjo ali objavo nadaljuj samo, če je zahtevana in skladna s ciljnim postopkom. Po prenosu kode preveri še delovanje vseh potrebnih povezav in nastavitev.

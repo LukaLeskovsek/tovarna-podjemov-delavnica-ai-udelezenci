@@ -55,7 +55,7 @@ Drugi ukaz izvede samo, če je preverjanje uspešno, in iz korena skupnega gradi
 
 Če so v skupnem gradivu tvoji popravki ali dodatni commiti, se Claude ustavi in pojasni težavo. Sprememb ne sme samodejno umakniti, ponastaviti zgodovine ali česa prepisati na silo. Osebne prilagoditve shranjujta v `moje-delo/`.
 
-Oznake, kot sta `start-v1` in `meeting-01-v1`, označujejo izdaje skupnega gradiva. Za običajno nadaljevanje ostaneš na `main`; ni treba preklapljati na oznako. Claude po posodobitvi pove, kaj je na novo na voljo.
+Oznake `full-vN` označujejo izdaje skupnega gradiva. Za običajno nadaljevanje ostaneš na `main`; ni treba preklapljati na oznako. Claude po posodobitvi pove, kaj se je spremenilo. Tem ni treba odklepati.
 
 ## 3. »Shrani moje delo«
 

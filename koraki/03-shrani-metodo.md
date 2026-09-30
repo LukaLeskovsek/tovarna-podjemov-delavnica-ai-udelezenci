@@ -4,6 +4,10 @@
 
 Pri pošti uporabi svoje preverjene popravke kot osnovo metode. Poskusi običajen pogovor, nepopoln vhod in nov pogovor. Končne poslovne veščine ne dobiš vnaprej; občutljiva pravila ostanejo lokalno.
 
+## Pet vprašanj pri tej nalogi
+
+[Pet vprašanj](../docs/razclenitev-naloge.md) ti pomaga odločiti, katera navodila veljajo vsakič in katere podatke dodaš na novo. V veščino prenesi le preverjeno metodo; po popravku enega dela preizkusi celoten rezultat.
+
 ## Kaj že imaš in kaj dodamo
 
 Imaš opis postopka in merila za pregled. Svoj način dela shrani kot poslovno veščino. Začetni delavnica-dokumenti pomaga pri iskanju virov; tvoja veščina določa pravila tvoje naloge.

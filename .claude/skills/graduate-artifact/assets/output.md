@@ -10,6 +10,8 @@ Lastnik repozitorija in računov:
 Prvi delujoči del aplikacije in kaj vanj ni vključeno:
 Vloge in obseg:
 Ohranjeni primeri:
+Preverjena pravila in merila za celotni rezultat:
+Trenutno stanje in nepreverjene domneve:
 Feature Card:
 Kaj ni preneseno ali preverjeno:
 Stroški, upravljanje in vrnitev:

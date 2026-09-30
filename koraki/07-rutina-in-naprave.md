@@ -4,6 +4,10 @@
 
 Za pošto uporabi [dnevni pregled in spremljanje](../docs/redna-posta.md). Najprej lokalna rutina, nato omejena seja za izbran pogovor. Preveri sveže podatke, lastne odgovore, dvojna obvestila, izpad in dejansko ustavitev.
 
+## Pet vprašanj pri tej nalogi
+
+Pri [petih vprašanjih](../docs/razclenitev-naloge.md) dopolni sprožilec, sveže vire, trajno stanje ter ustavitev in nadaljevanje. Preveri, ali samodejni korak ohrani vse, kar je človek prej preverjal ročno.
+
 ## Kaj že imaš in kaj dodamo
 
 Znaš nalogo ročno zagnati in preveriti rezultat. Dodaj sprožilec, sveže podatke, ustavitev in nadaljevanje. Redno osveževanje dokumentov je ena možnost; prej preveri porabo, dosegljivost virov in mesto izvajanja.

@@ -14,6 +14,8 @@ Pomembna pravila, moje odločitve in dovoljeni viri:
 
 Kje je rezultat, kaj sem pregledal in kaj ostaja nepreverjeno:
 
+Če je nastala težava: kateri del jo je povzročil, kaj sem popravil in ali sem znova preveril celoten rezultat:
+
 ## Naslednji korak
 
 Kaj sledi in kdo to uredi:

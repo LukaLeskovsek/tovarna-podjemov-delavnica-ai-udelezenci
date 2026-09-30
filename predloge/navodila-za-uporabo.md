@@ -13,6 +13,7 @@ Kopijo shrani kot `moje-delo/operating-guide.md`. Napiši tako, da lahko postope
 2. Kaj pregledam pred nadaljevanjem:
 3. Kdaj se odločim ali odobrim točno dejanje:
 4. Kje preverim rezultat in ali so obdelani vsi podatki:
+   Preveri tudi, ali je predaja med pomembnimi deli ohranila potrebne podatke.
 5. Kako ustavim, nadaljujem ali rešim nejasen izid brez podvajanja:
 
 - Pogosta napaka, znak težave in odgovorna oseba:

@@ -16,5 +16,6 @@ Kopijo shrani kot `moje-delo/context-map.md`. Poveži vire; ne kopiraj celotnega
 - Dovoljeno branje/pisanje in preverjena omejitev:
 - Dogovorjen obseg vzorca/porabe in odgovorna oseba:
 - Kaj manjka in katero pripravljeno gradivo to začasno nadomesti:
+- Pri katerem delu naloge je posamezen vir potreben in kaj se zgodi, če ni dostopen:
 
 Gesel, žetonov in ključev ne zapisuj. Shranjeno stanje izvedbe sodi v dnevnik, ne med poslovna dejstva.

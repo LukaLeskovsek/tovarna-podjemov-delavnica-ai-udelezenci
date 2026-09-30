@@ -4,6 +4,10 @@
 
 Pri pošti uporabi nov dovoljeni pogovor. Preveri napačno pomembnost, zadnji lasten odgovor, neznan rok in nedostopen vir. Predaj navodila, ne svojega računa ali poslovne pošte. Več agentov primerjaj le, če delitev pomaga.
 
+## Pet vprašanj pri tej nalogi
+
+Uporabi [pet vprašanj](../docs/razclenitev-naloge.md) na novem vhodu. Če rezultat ni pravilen, poišči težavo v viru, kontekstu, navodilu, orodju ali postopku; po popravku preveri predaje in celoten izid. Razdelitev na več delov še ne zahteva več agentov.
+
 ## Kaj že imaš in kaj dodamo
 
 Imaš rezultat, navodila in zapisane omejitve. Na novem vhodu preveri samostojnost in predajo. Več agentov primerjaj z enim na isti smiselni nalogi; delitev dela ni obvezna za vsakega.

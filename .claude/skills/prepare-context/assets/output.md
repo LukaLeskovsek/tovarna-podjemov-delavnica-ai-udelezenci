@@ -3,8 +3,8 @@
 Naloga in različica opisa postopka:
 Komu je namenjen rezultat:
 
-| Potreben podatek | Vir ali ID | Lastnik in datum | Dostop preverjen | Kdo sme videti podatke | Vrzel ali konflikt |
-|---|---|---|---|---|---|
+| Korak ali odločitev | Potreben podatek | Vir ali ID | Lastnik in datum | Dostop preverjen | Kdo sme videti podatke | Vrzel ali konflikt |
+|---|---|---|---|---|---|---|
 
 Osebne želje in dogovori:
 Potrjena pravila:

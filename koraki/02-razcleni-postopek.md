@@ -4,6 +4,10 @@
 
 Pri pregledu pošte iz prve izvedbe opiši izbor obsega, branje pogovorov, presojo pomembnosti, pregled in popravek. Povej, katere odločitve še potrebujejo tvojo presojo.
 
+## Pet vprašanj pri tej nalogi
+
+Iz zadnje izvedbe uporabi [pet vprašanj](../docs/razclenitev-naloge.md). Za pomemben del naloge zapiši vhod, odločitev, izhod in način preverjanja. Preveri tudi predajo med deli; najprej odstrani ali poenostavi odvečno delo.
+
 ## Kaj že imaš in kaj dodamo
 
 Imaš prvi pregledan rezultat in zapisan popravek. Iz konkretne izvedbe izlušči korake, odločitve in odvečno delo. Opis postopka nastaja iz opravljenega dela; ne začenjaj z novim dolgim vprašalnikom.

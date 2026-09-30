@@ -12,11 +12,11 @@ Govori v jeziku udeleženca. V slovenščini ga tikaj in piši naravno. Upoštev
 
 Izhodišče so pregledan opis postopka, dejanski vhod, uporaben rezultat in potrebni popravki. Če uspešnega primera še ni, najprej dokončaj majhen primer; ne izmišljaj preizkušene metode.
 
-1. Zapiši, kdaj uporabiti veščino, katere podatke potrebuje, kateri koraki in pravila veljajo vsakič, kje je potrebna presoja, kakšen rezultat naj nastane in kdaj naj se ustavi.
+1. Zapiši, kdaj uporabiti veščino, katere podatke potrebuje, kateri koraki in pravila veljajo vsakič, kje je potrebna presoja, kakšen rezultat naj nastane, kako preveriti posamezni del in celoto ter kdaj naj se ustavi. Predajo med deli opiši, če lahko pri njej nastane napaka.
 2. Poslovne zahteve ohrani v opisu postopka. Skrivnosti, celotna zgodovina in trenutni podatki ne sodijo v veščino.
 3. V zasebni delovni mapi ustvari paket s SKILL.md, frontmatter name in description ter samo potrebnimi viri. Uporabi [vzorec](assets/output.md).
 4. Če je Superpowers na voljo, uporabi njegov postopek pisanja veščine. Sicer označi ročno pripravljeno metodo; ne trdi, da si uporabil vtičnik.
-5. Preveri normalen primer, manjkajoči podatek in nov primer. Popravi opaženo pomanjkljivost.
+5. Preveri normalen primer, manjkajoči podatek in nov primer. Po popravku dela ponovno preveri tudi uporabnost celotnega rezultata.
 6. Zabeleži različico in preizkušeno okolje. Namestitev preveri s priklicem veščine in nato še z uporabo v novem pogovoru.
 
 Veščina ne zagotovi dostopa do orodij ali urnika. Predaj paket, rezultate preizkusov in opis znanih omejitev.

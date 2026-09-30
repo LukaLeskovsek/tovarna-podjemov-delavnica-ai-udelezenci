@@ -7,6 +7,8 @@ Vhod in viri:
 |---|---|---|---|---|
 
 Uskladitev vhodov in izhodov:
+Preverjanje predaje med koraki:
+Uporabnost celotnega rezultata:
 Kaj je lokalna simulacija:
 Kaj je dejansko izvedeno v zunanjem sistemu:
 Potrebna pomoč človeka:

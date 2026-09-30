@@ -20,7 +20,7 @@ Vseh deset korakov že imaš. Posodobitev uporabi ob popravkih ali dopolnitvah g
 
 Claude prenese popravke. Tvoje prilagoditve ostanejo v `moje-delo/`. Če si spremenil skupne datoteke, se ustavi in pojasni, kaj je treba urediti. Ničesar ne prepiše na silo.
 
-Oznake `start-v5` in `meeting-01-v2` so imena izdaj, ne številke tvojega koraka. Običajno ostaneš na trenutnih gradivih; oznak ne preklapljaš ročno. Nova izdaja ne pomeni, da si novo temo že opravil.
+Oznake, kot sta `full-v2` in `full-v3`, so imena izdaj gradiva, ne številke tvojega koraka. Ostaneš na veji `main`; oznak ne preklapljaš ročno. Nova izdaja ne pomeni, da si novo temo že opravil.
 
 ## Nadaljujva
 

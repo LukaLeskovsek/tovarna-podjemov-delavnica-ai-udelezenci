@@ -4,6 +4,10 @@
 
 Prvo bralno povezavo Gmail ali Outlook že poznaš. Zdaj poglobimo razumevanje dovoljenj, popolnosti podatkov in zunanjega zapisa. Intrix ostane CRM-prikaz; brskalnik je ena od možnosti izvedbe.
 
+## Pet vprašanj pri tej nalogi
+
+Pri [petih vprašanjih](../docs/razclenitev-naloge.md) preveri, pri katerem delu naloge potrebuješ povezavo, kateri račun in dovoljenja uporablja ter kako dokažeš rezultat dejanja. Dodatna povezava ni cilj sama po sebi.
+
 ## Kaj že imaš in kaj dodamo
 
 Imaš preizkušen način dela na dovoljenih dokumentih. Dodaj zunanji vir ali eno dogovorjeno dejanje. Intrix je prikaz dela s CRM-jem, ne obvezna naloga. Brskalnik je eno od orodij, s katerimi lahko agent opravlja delo.

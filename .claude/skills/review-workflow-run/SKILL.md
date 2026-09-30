@@ -12,12 +12,12 @@ Govori v jeziku udeleženca. V slovenščini ga tikaj in piši naravno. Upoštev
 
 Preberi opis postopka, vhod, opaženi rezultat in povratno informacijo. Uporabi [predlog](assets/output.md).
 
-- Primerjaj pričakovani in dejanski rezultat. Loči napačen vir, kontekst, pravilo, presojo, orodje in zasnovo procesa.
+- Primerjaj pričakovani in dejanski rezultat. Ugotovi, pri katerem delu ali predaji je nastala težava; loči napačen vir, kontekst, navodilo oziroma pravilo, presojo, orodje in zasnovo procesa.
 - Ne sklepaj na vzrok samo iz razlage agenta. Povej, kateri dokazi manjkajo.
 - Izberi najmanjšo koristno spremembo. Pravilo sodi v opis postopka; navodila za delo v veščino ali kodo; dejstvo v avtoritativni vir in njegov indeks.
 - Določi, kdo potrdi spremembo, komu je namenjena in kako jo boš preveril. Tudi povezave do virov smejo razkriti samo dovoljene podatke. Če vir vsebuje zasebne podatke, za objavo pripravi dovoljen izsek.
 - Izmeri ves porabljeni čas, tudi za pregled in popravke. Brez primerljive osnove ne trdi, da več agentov ali nova metoda izboljša rezultat.
 - Loči predlagano, sprejeto in izvedeno. Upoštevaj veljavno pooblastilo za nizkotvegane popravke; ne razširjaj pravic sam.
-- Preveri prejšnje primere in en svež primer. Ohraniti moraš prejšnjo verzijo za vrnitev.
+- Po najmanjšem koristnem popravku preveri sporni del, prejšnje primere, en svež primer in končni rezultat celotne naloge. Ohraniti moraš prejšnjo verzijo za vrnitev.
 
 Končaj z enim predlogom in naslednjim preverjanjem. Poenostavitev ali opustitev neprimerne avtomatizacije je veljaven rezultat.

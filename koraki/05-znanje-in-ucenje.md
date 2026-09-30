@@ -4,6 +4,10 @@
 
 Pri pošti loči trajnejša pravila pomembnosti od trenutnega stanja posameznega pogovora. Popravek pravila preveri v novem pogovoru. Pošte ne prenesi samodejno v skupno znanje ali GBrain.
 
+## Pet vprašanj pri tej nalogi
+
+Po [petih vprašanjih](../docs/razclenitev-naloge.md) izberi, kaj velja tudi naslednjič. Potrjeno pravilo, poslovno dejstvo in trenutno stanje izvedbe shrani na ustrezna mesta; popravek nato preveri na novem vhodu.
+
 ## Kaj že imaš in kaj dodamo
 
 Znaš najti dokument v osnovnem indeksu in preveriti vir. Dodaj trajnejšo ugotovitev, njen popravek in preverjen priklic. GBrain pokažemo kot nadgradnjo; osnovni indeks, zapiski napredka in spomin pogovora imajo različne vloge.

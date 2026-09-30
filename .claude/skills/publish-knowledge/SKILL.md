@@ -12,7 +12,7 @@ Govori v jeziku udeleženca. V slovenščini ga tikaj in piši naravno. Upoštev
 
 Uporabi [objavni zapis](assets/output.md). Preveri vsebino, različico, mesto objave in prejemnike. Če je objava v tem obsegu že pooblaščena, jo izvedi; sicer pripravi pregledljiv predlog.
 
-1. Izberi samo podatke za namen objave. Ne kopiraj celotnega osebnega spomina.
+1. Izberi samo preverjene ugotovitve, pravila in primere, potrebne za namen objave. Trenutnega stanja posamezne izvedbe ne predstavljaj kot trajno pravilo in ne kopiraj celotnega osebnega spomina.
 2. Preveri vire. Tudi ime datoteke, naslov, povezava ali metapodatki lahko razkrijejo zasebne podatke. Uporabi dovoljen izvleček namesto povezave na vir, ki vsebuje tudi zasebne podatke.
 3. Zapiši odgovorno osebo, prejemnike, različico, vir in datum ter kako je objavo mogoče popraviti ali umakniti.
 4. Predloži točen izhod. Če se spremeni vsebina ali krog prejemnikov, prejšnja odobritev ne velja za novo objavo.

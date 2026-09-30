@@ -2,6 +2,10 @@
 
 Najprej pripravi nekaj, kar ti koristi pri delu. Skupni prikaz je **»Kaj danes potrebuje mojo pozornost?«**: pregled pošte, popravek Claudove presoje in uporaben Artifact. Lahko uporabiš svojo pošto ali drugo dejansko nalogo.
 
+## Pet vprašanj pri tej nalogi
+
+Najprej pripravi majhen uporaben rezultat. [Pet vprašanj](../docs/razclenitev-naloge.md) uporabi ob pregledu: ali poznaš cilj, dovoljene vire, pomembno odločitev, dokaz in naslednji poskus? Vsega ni treba zapisati vnaprej.
+
 ## Kaj potrebuješ
 
 Svoj Claude, GitHub, dovoljene podatke in [pripravljeno delovno mapo](../docs/setup.md). Orodja pripravi Claude; račune in sistemske potrditve urediš sam. Spoznaj [osnove aplikacije](../docs/claude-desktop.md) in odpri isto mapo v [Obsidianu](../docs/mape-in-obsidian.md).

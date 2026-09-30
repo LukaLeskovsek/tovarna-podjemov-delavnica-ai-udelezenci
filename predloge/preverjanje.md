@@ -14,6 +14,7 @@ Kopijo shrani kot `moje-delo/verification-report.md` in navedi točno izvedbo.
 | Meja dovoljenj ali odobritev, če je relevantna | | | |
 | Ponovitev ali nadaljevanje po napaki, kadar je potrebno | | | |
 | Nov primer in popravek metode | | | |
+| Predaja med pomembnimi deli in celoten rezultat | | | |
 
 - Pomoč izvajalca in kaj je udeleženec odločil sam:
 - Preostala napaka in njen vzrok:

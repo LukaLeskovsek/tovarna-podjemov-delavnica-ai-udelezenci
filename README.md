@@ -5,11 +5,13 @@
 
 Na delavnici gremo korak za korakom. Claude upošteva tvojo nalogo in shranjeni napredek. Drugih storitev in veščin ni treba pripraviti vnaprej. Odpri [prvi korak](koraki/01-zacetek.md) ali napiši **»Nadaljujva.«**
 
-Različica gradiva: full-v2. [Pregled vseh korakov in veščin](docs/objavljena-gradiva.md).
+Različica gradiva: full-v3. [Pregled vseh korakov in veščin](docs/objavljena-gradiva.md).
 <!-- published-packages:end -->
 
 
 Na delavnici izboljšuješ svoje dejanske naloge. Skupaj uredimo delovno okolje, pripravimo uporaben rezultat in preverimo, kako delo ponoviš naslednjič.
+
+[Pet vprašanj za tvojo nalogo](docs/razclenitev-naloge.md) ti pomaga po prvem poskusu ugotoviti, kaj izboljšati. [Podporne veščine](docs/podporne-vescine.md) uporabiš takrat, ko pomagajo pri izbranem delu.
 
 **Naloga → gradivo → izvedba → pregled → shranjevanje → ponovitev.** Povezave in avtomatizacijo dodamo, ko pomagajo pri delu.
 

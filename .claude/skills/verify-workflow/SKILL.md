@@ -13,6 +13,7 @@ Govori v jeziku udeleženca. V slovenščini ga tikaj in piši naravno. Upoštev
 Preberi opis postopka, točen vhod, rezultat in dnevnik oziroma dokaz dejanja. Uporabi [poročilo](assets/output.md). Poleg tehničnih testov preveri, ali rezultat ustreza poslovni nalogi.
 
 - Za kriterij zapiši pričakovano in opaženo vedenje, dokaz ter stanje: uspešno, neuspešno ali nepreverjeno.
+- Preveri ključne vmesne rezultate, predajo med deli in to, ali končni rezultat res reši udeleženčevo nalogo. Pravilni posamezni koraki še ne dokazujejo pravilne celote.
 - Uskladi vse vhodne in izhodne zapise. Preveri identifikatorje, manjkajoče podatke in dvojnike.
 - Pri pisanju preveri točno odobreno vsebino, račun, obseg in shranjeni rezultat dejanja. Sporočilo agenta ni dokaz CRM zapisa.
 - Po spremembi vsebine stara odobritev ne velja. Po nejasnem izidu najprej preveri, kaj je bilo že narejeno; ne ponovi zunanjega dejanja na slepo.

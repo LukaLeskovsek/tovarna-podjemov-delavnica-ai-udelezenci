@@ -4,6 +4,10 @@
 
 Osebni pregled lahko nadgradiš v skupni postopek samo, če imaš dejansko skupno nalogo, dovoljenja in odgovorno osebo. V n8n Cloud preveri predajo, odobritev, zavrnitev in ponovitev; osebne lokalne mape niso samodejno dostopne oblaku.
 
+## Pet vprašanj pri tej nalogi
+
+S [petimi vprašanji](../docs/razclenitev-naloge.md) ponovno poglejte celoten proces. Za predajo določite odgovorno osebo, potreben podatek, dovoljenje in dokaz prejema; preverite tudi zavrnitev in ponovitev.
+
 ## Kaj že imaš in kaj dodamo
 
 Imaš preverjen posamezni postopek in znaš prepoznati izjemo. Določi druge ljudi, odgovornost, skupno stanje in predaje. Uporabi n8n Cloud, Instance-level MCP in povezovalnik v Claudu. Preveri tudi zavrnitev, spremembo in ponovitev.

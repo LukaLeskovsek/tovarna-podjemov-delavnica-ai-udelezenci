@@ -13,6 +13,8 @@ description: Opiši konkretno nalogo in kdaj naj se ta veščina uporabi.
 
 ## Rezultat
 
+## Preverjanje posameznega dela, predaje in končnega rezultata
+
 ## Manjkajoči podatki, izjeme in ustavitev
 
 ## Primeri in preverjanje

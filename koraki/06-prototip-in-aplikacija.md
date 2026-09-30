@@ -4,6 +4,10 @@
 
 Začni pri prvem pregledanem Artifaktu. Pri pregledu pošte preveri razumljivost štirih skupin, čas osvežitve, vire in nepopoln rezultat. Lokalni zapis ostane osnova; ne ustvari drugega neusklajenega stanja.
 
+## Pet vprašanj pri tej nalogi
+
+S [petimi vprašanji](../docs/razclenitev-naloge.md) preveri, kaj mora uporabnik z izdelkom narediti, katere podatke vidi in kako prepozna nepopoln rezultat. Izgled sam ne dokazuje uporabnosti ali delujočega dostopa.
+
 ## Kaj že imaš in kaj dodamo
 
 Znaš odpreti in popraviti prvi Artifact oziroma pregledano lokalno datoteko. Preveri izdelek z drugo osebo, dejanske dostope in omejitve. O aplikaciji odločamo ob konkretni potrebi; osnov Artifacts ne razlagamo prvič šele tu.

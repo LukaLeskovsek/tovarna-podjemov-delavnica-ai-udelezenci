@@ -17,6 +17,7 @@ Uporabi [zapis](assets/output.md). Določi, kdo skrbi za zapis, komu je namenjen
 - Zapiši vir, datum, veljavnost, identiteto in revizijo. Enaka imena razloči z dokazi.
 - Če si vira nasprotujeta, ohrani obe navedbi in vprašanje za odgovorno osebo. Stari podatek označi nadomeščen šele po preverjenem viru in sprejeti odločitvi pristojnega lastnika oziroma po že veljavnem pravilu za tak popravek. Do takrat ostane konflikt nerazrešen.
 - Stanje izvedbe ostane v izvornem sistemu ali dnevniku.
+- Pri predaji naslednji nalogi povej, katera ugotovitev je preverjena, katero pravilo ostaja v opisu postopka in kateri podatek je samo trenutno stanje. Ne prenesi negotove trditve kot navodila.
 - S shranjevanjem ugotovitev ne spreminjaj poslovnih pravil, prejemnikov ali dovoljenj.
 - Po dovoljenem zapisu preveri priklic v novem pogovoru in vprašanje brez odgovora v virih. Loči dokumentni priklic, semantični indeks in graf.
 
