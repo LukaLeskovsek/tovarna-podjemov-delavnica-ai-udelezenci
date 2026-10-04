@@ -25,12 +25,12 @@ Javna povezava odpre trenutna navodila. V klonu dobiš gradivo za vseh deset kor
 4. Claude gradiva klonira v podmapo **delavnica**. To točno mapo nato odpri v **Code → Local**, brez ločene delovne kopije (worktree).
 5. Začni nov pogovor:
 
-> Preberi CLAUDE.md. Preveri pripravo, uredi moje zasebno delo in me vodi do prvega uporabnega rezultata. Vprašaj po eno stvar in upoštevaj že dogovorjeno.
+> Preberi CLAUDE.md. Preveri pripravo, uredi moje zasebno delo, nato me vodi skozi kratko personalizacijo za osebo, podjetje in znamko ter do prvega uporabnega rezultata. Vprašaj po eno stvar in upoštevaj že dogovorjeno.
 
 ## Nato opravimo nalogo
 
 - [Odpri isto mapo v Obsidianu](mape-in-obsidian.md) in najdi navodila ter svoj napredek.
-- Zapiši, kako želiš sodelovati s Claudom. [Starter in izbrane dokumente](dokumenti-in-starter.md) preizkusi posebej; indeks ni pogoj za pregled pošte.
+- Takoj po pripravi zasebnega dela pripravi [osebni in poslovni profil](personalizacija.md). [Starter in izbrane dokumente](dokumenti-in-starter.md) preizkusi posebej; indeks ni pogoj za pregled pošte.
 - Za skupni primer odpri [Kaj danes potrebuje mojo pozornost?](e-posta.md).
 - [Opravi prvo nalogo](../koraki/01-zacetek.md), preveri vir in zahtevaj popravek.
 - Spoznaj [Artifacts](artifacts.md), nato napiši **»Shrani moje delo.«**

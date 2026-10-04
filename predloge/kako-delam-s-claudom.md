@@ -1,3 +1,7 @@
+# Starejši zapis osebnih navodil
+
+Ta predloga ostane za združljivost. Če jo že uporabljaš, Claude odgovore prenese v skupni [profil](../docs/personalizacija.md) in ohrani izvirnik. Novih dogovorov ne vodimo vzporedno na dveh mestih.
+
 # Kako delam s Claudom
 
 Izpolni samo, kar že veš; nekaj vrstic zadošča.

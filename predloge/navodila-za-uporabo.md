@@ -5,7 +5,7 @@ Kopijo shrani kot `moje-delo/operating-guide.md`. Napiši tako, da lahko postope
 - Namen, odgovorna oseba in kontakt za vprašanja:
 - Različica opisa postopka in veščine ter datum zadnjega preverjanja:
 - Kaj je preverjeno in katere možnosti še niso preizkušene:
-- Potrebni vhodi, računi, dovoljeni dostopi in omejitev porabe:
+- Potrebni podatki, računi, dovoljenja in omejitev porabe:
 
 ## Izvedba
 

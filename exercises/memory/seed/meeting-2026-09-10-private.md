@@ -15,4 +15,4 @@ Poslovni del: prodajne enote na sestanek prinesejo različne številke, ker vsak
 
 Osebni del, samo za lastnika zapisa: svetovalka si je zapisala zasebno domnevo, da je Mina naveličana notranjih sporov. Mina tega ni izjavila in domneva ni preverjeno dejstvo. Ta del ne sodi v podjetniški spomin ali skupinski povzetek.
 
-Za skupino uporabi samo ločeni [deljivi izsek](shareable-meeting-excerpt.md). Povezava na celoten mešani zapis ni dovoljen način delitve izseka.
+Za skupino uporabi samo ločeni [izsek za skupino](shareable-meeting-excerpt.md). Celotnega zapisa ne deli, saj vsebuje tudi zasebni del.

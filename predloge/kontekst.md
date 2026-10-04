@@ -1,4 +1,4 @@
-# Kontekst in viri
+# Podatki in viri za nalogo
 
 Kopijo shrani kot `moje-delo/context-map.md`. Poveži vire; ne kopiraj celotnega poslovnega arhiva.
 

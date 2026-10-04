@@ -12,7 +12,7 @@ Artifact je izdelek, ki ga lahko odpreš in spreminjaš ob pogovoru: na primer d
 4. Preveri zasebnost in možnosti deljenja, ne da bi izdelek samodejno objavil.
 5. Shrani pregledano vsebino tudi kot primerno lokalno datoteko; v napredek zapiši, kje najdeš izdelek in kaj je bilo preverjeno.
 
-Možnosti Artifacts se spreminjajo. V aktualni dokumentaciji so podprte tudi poti iz Code; pred prikazom preveri svoj račun, različico in potrebne nastavitve za ustvarjanje datotek. Če v tej seji native Artifact ni na voljo, nadaljuj s pregledano lokalno datoteko in jasno zapiši **»lokalna nadomestna datoteka; Artifact še ni preverjen«**. Lokalnega HTML-ja ne predstavi kot dokaza delujočega Artifakta v Claudu.
+Možnosti Artifacts se spreminjajo. V aktualni dokumentaciji so podprte tudi poti iz Code; pred prikazom preveri svoj račun, različico in potrebne nastavitve za ustvarjanje datotek. Če v tej seji Artifact v aplikaciji Claude ni na voljo, nadaljuj s pregledano lokalno datoteko in jasno zapiši **»lokalna nadomestna datoteka; Artifact še ni preverjen«**. Lokalnega HTML-ja ne predstavi kot dokaza delujočega Artifakta v Claudu.
 
 Ob prvem rezultatu spoznamo uporabo, popravljanje in shranjevanje. Razvoj aplikacije, zahtevnejše povezave in skupne dostope obravnavamo pozneje.
 

@@ -26,4 +26,10 @@ Okolje, delujoča orodja in ukaz za Python; zasebni GitHub cilj brez poverilnic;
 
 ## Prejšnje izvedbe
 
-Kratko dopolnjuj: datum, naloga, rezultat, popravek in pomoč. Loči lastno delo, spremljani prikaz in neobvezno vajo. Povezave dodaj le do datotek, ki dejansko obstajajo. Surovih vhodov in skrivnosti ne prepisuj v ta zapis.
+Kratko dopolnjuj: datum, naloga, rezultat, popravek in pomoč. Loči lastno delo, spremljani prikaz in neobvezno vajo. Povezave dodaj le do datotek, ki dejansko obstajajo. Izvornih poslovnih podatkov in poverilnic ne prepisuj v ta zapis.
+
+## Profil in nadaljevanje
+
+Povezava do skupnega profila in izbrano podjetje (brez podvajanja pravil):
+Kaj je še nedogovorjeno:
+Uporaba v novem pogovoru: preverjeno / nepreverjeno in opaženi rezultat:

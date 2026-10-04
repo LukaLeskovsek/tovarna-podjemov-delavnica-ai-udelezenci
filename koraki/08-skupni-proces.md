@@ -6,13 +6,13 @@ Osebni pregled lahko nadgradiš v skupni postopek samo, če imaš dejansko skupn
 
 ## Pet vprašanj pri tej nalogi
 
-S [petimi vprašanji](../docs/razclenitev-naloge.md) ponovno poglejte celoten proces. Za predajo določite odgovorno osebo, potreben podatek, dovoljenje in dokaz prejema; preverite tudi zavrnitev in ponovitev.
+S [petimi vprašanji](../docs/razclenitev-naloge.md) ponovno preglej celoten postopek. S sodelavci se dogovori, kdo prevzame naslednji korak, katere podatke potrebuje in kaj sme narediti. Preveri, ali je rezultat res prejel, ter preizkusi zavrnitev in ponovitev.
 
-## Kaj že imaš in kaj dodamo
+## Kaj bomo nadgradili
 
 Imaš preverjen posamezni postopek in znaš prepoznati izjemo. Določi druge ljudi, odgovornost, skupno stanje in predaje. Uporabi n8n Cloud, Instance-level MCP in povezovalnik v Claudu. Preveri tudi zavrnitev, spremembo in ponovitev.
 
-Izberi resnični postopek, v katerem si več ljudi predaja delo ali mora nekdo pregledati predlog. Najprej poenostavite korake in razjasnite odgovornost, nato povežite izvedbo.
+Izberi resnični postopek, v katerem si več ljudi predaja delo ali mora nekdo pregledati predlog. Najprej s sodelavci poenostavi korake in razjasni odgovornost. Nato poveži izbrani del postopka.
 
 ## Kaj potrebuješ
 
@@ -24,22 +24,22 @@ Svoj opis naloge, dovoljeni vhod, sodelujoče osebe in eno dejanje, katerega rez
 
 ## Tvoje odločitve
 
-Določite odgovorno osebo pri vsakem koraku, kdo sme odobriti dejanje, kaj točno odobri in kaj se zgodi ob zavrnitvi, spremembi ali prekinitvi. Določite tudi veljavnost odobritve in lastnika nadaljnjega delovanja.
+S sodelavci določi odgovorno osebo pri vsakem koraku, kdo sme odobriti dejanje, kaj točno odobri in kaj se zgodi ob zavrnitvi, spremembi ali prekinitvi. Dogovorite se tudi, koliko časa odobritev velja in kdo skrbi za nadaljnje delovanje.
 
 ## Delo na svoji nalogi
 
-1. Opišite sedanji postopek in odstranite nepotrebne korake. Izberite en uporaben del, ki ga lahko izvedete do konca.
+1. Opiši sedanji postopek in s sodelavci odstrani nepotrebne korake. Izberi en uporaben del, ki ga lahko izvedete do konca.
 2. Claude preveri povezavo v **n8n Cloud**, potrebna orodja, prijavljeni račun in dostop do izbranega poteka. Sledi [podrobnim navodilom](../integrations/n8n/za-agenta.md).
-3. Pripravite potek na svojem dovoljenem vhodu. Določite, kje se trajno hrani stanje in kako povezati predlog, točno različico odobritve ter izvedeno dejanje.
-4. Preizkusite odobritev in zavrnitev. Ob spremembi vsebine zahtevajte nov pregled. Preverite napačno identiteto oziroma dostop in iztek, kadar sta pomembna za vaš postopek.
-5. Ponovite že obdelan vhod in preverite, da se končano zunanje dejanje ne ponovi. Ob nejasnem izidu najprej preverite stanje v ciljni storitvi.
-6. Preglejte dnevnik n8n in rezultat v ciljni storitvi. Določite, kdo odpravi napako in kako ustavi nadaljnje zagone.
+3. S Claudom pripravi potek na podatkih, ki jih smeš uporabiti. Določi, kje se trajno beleži opravljeno delo in kako povežeš predlog, odobreno različico ter izvedeno dejanje.
+4. Preizkusi odobritev in zavrnitev. Ob spremembi vsebine je potreben nov pregled. Preveri napačen račun ali manjkajoči dostop ter potek veljavnosti odobritve, kadar sta pomembna za tvoj postopek.
+5. Ponovi obdelavo istih podatkov in preveri, da se že končano dejanje v drugi storitvi ne ponovi. Če izid ni jasen, najprej preveri stanje v ciljni storitvi.
+6. Preglej dnevnik n8n in rezultat v ciljni storitvi. Dogovori se, kdo odpravi napako in kako ustavi nadaljnje zagone.
 
 ## Prikaz in dodatne možnosti
 
-**Prikaz v živo:** izvajalec pokaže svoj izbrani dejanski postopek v n8n Cloud. Povejte, katere predaje in odločitve prepoznate pri svojem delu.
+**Prikaz v živo:** izvajalec pokaže svoj izbrani dejanski postopek v n8n Cloud. Poglej, kje pri tvojem delu sodelavci prevzemajo nalogo ali sprejemajo odločitev.
 
-**Neobvezna vaja:** pripravljena simulirana poteka sta v [dodatni vaji](../integrations/n8n/neobvezna-vaja.md). Njun uvoz ni pogoj za lastno delo in ne potrjuje delovanja vaših povezav.
+**Neobvezna vaja:** pripravljena simulirana poteka sta v [dodatni vaji](../integrations/n8n/neobvezna-vaja.md). Njun uvoz ni pogoj za lastno delo in ne potrjuje delovanja tvojih povezav.
 
 **Dodatno samostojno delo:** razširi svoj potek. Cloudflare Workflows ostane dodatna možnost za kodirano izvedbo, kadar obstaja konkretna potreba in odgovorna oseba za vzdrževanje.
 

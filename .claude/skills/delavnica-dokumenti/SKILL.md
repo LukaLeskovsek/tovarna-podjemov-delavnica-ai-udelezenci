@@ -5,6 +5,12 @@ description: Poišči, preberi in navedi vire v dogovorjeni zbirki dokumentov te
 
 # Dokumenti za mojo nalogo
 
+## Skupni osebni in poslovni profil
+
+Pred začetkom preberi `moje-delo/rezultati/profil/PERSON.md` in `INDEX.md` ali uporabi preverjeno lokacijo iz globalnih navodil. Izberi podjetje, povezano z delovno mapo ali uporabnikovo nalogo. Če izbira ni jasna, vprašaj. Nato preberi ustrezne COMPANY.md, BRAND.md in PRIMERI.md. Upoštevaj profil, vire in dovoljenja pa preveri posebej.
+
+Če popravek velja tudi za prihodnje naloge, ga shrani v profil. Posebnost tega primera zapiši pri nalogi. Dober ali slab primer shrani z razlago in popravljeno različico. Podatke o podjetju hrani v profilu, kjer jih veščine lahko preberejo. Če ni jasno, kdaj pravilo velja, vprašaj. Če profila še ni, uporabi znane odgovore in ponudi kratko dopolnitev, ne da bi prekinil že začeto delo z novim vprašalnikom.
+
 Začni pri udeleženčevi nalogi, napredku in njegovih kratkih navodilih. To je projektni pripomoček iz paketa 1. Udeleženec svojo poslovno veščino izdela pozneje. Pred prvo uporabo preberi [pripravo starterja](../../../docs/za-agenta/starter.md).
 
 Uporabi [delavniški pomočnik](../../../scripts/workshop_starter.py). Ta kliče nespremenjeni indeksator Claude Work Starterja z izrecno lokalno mapo `local/starter/` in zbirko `moja-naloga`. Ne kliči osebnega `/dokumenti` ali njegove privzete mape kot nadomestila. [Izvor komponent](source.json) določa uporabljeno različico. Ne piši novega iskalnika.

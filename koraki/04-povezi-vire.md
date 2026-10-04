@@ -2,13 +2,13 @@
 
 ## Povezava s prvim primerom
 
-Prvo bralno povezavo Gmail ali Outlook že poznaš. Zdaj poglobimo razumevanje dovoljenj, popolnosti podatkov in zunanjega zapisa. Intrix ostane CRM-prikaz; brskalnik je ena od možnosti izvedbe.
+Gmail ali Outlook si že uporabil za branje pošte. Zdaj preverimo še dovoljenja, morebitne manjkajoče podatke in shranjevanje sprememb v drugi storitvi. Intrix ostane CRM-prikaz; brskalnik je ena od možnosti izvedbe.
 
 ## Pet vprašanj pri tej nalogi
 
-Pri [petih vprašanjih](../docs/razclenitev-naloge.md) preveri, pri katerem delu naloge potrebuješ povezavo, kateri račun in dovoljenja uporablja ter kako dokažeš rezultat dejanja. Dodatna povezava ni cilj sama po sebi.
+S [petimi vprašanji](../docs/razclenitev-naloge.md) preveri, kje pri nalogi potrebuješ povezavo, kateri račun bo uporabljala in kaj sme narediti. Določi tudi, kje boš preveril shranjeni rezultat. Dodatna povezava ni cilj sama po sebi.
 
-## Kaj že imaš in kaj dodamo
+## Kaj bomo nadgradili
 
 Imaš preizkušen način dela na dovoljenih dokumentih. Dodaj zunanji vir ali eno dogovorjeno dejanje. Intrix je prikaz dela s CRM-jem, ne obvezna naloga. Brskalnik je eno od orodij, s katerimi lahko agent opravlja delo.
 
@@ -37,11 +37,11 @@ V Office vajah razlikuj dejanja dodatka v odprti datoteki od dostopa prek poveza
 
 ## Prikaz in tvoje delo
 
-**Prikaz v živo:** izvajalec pokaže povezavo in preverjen vnos v Intrix na svojem izbranem dejanskem primeru. Poglej, katera pravila, odločitve in način preverjanja lahko preneseš na svojo nalogo. Spremljani prikaz še ni tvoja izvedba.
+**Prikaz v živo:** izvajalec pokaže povezavo in preverjen vnos v Intrix na svojem dejanskem primeru. Poglej, katera pravila, odločitve in način preverjanja lahko preneseš na svojo nalogo. Prikaz nato sam preizkusi pri svoji nalogi.
 
-**Delo na svoji nalogi:** uporabi zgornji potek na svojih dovoljenih podatkih. Lahko nadaljuješ prejšnjo nalogo ali izbereš drugo. Če orodje ne pomaga, izboljšaj postopek brez njega.
+**Delo na svoji nalogi:** uporabi opisani pristop na podatkih, ki jih smeš obdelati. Lahko nadaljuješ prejšnjo nalogo ali izbereš drugo. Če orodje ne pomaga, izboljšaj postopek brez njega.
 
-**Neobvezna vaja:** pripravljeno vajo uporabi samo, če svojega primera trenutno ne moreš uporabiti ali želiš dodatni preizkus. Izmišljeni podatki ostanejo označeni kot učni. Vaja ne nadomesti zaključnega rezultata iz tvojega dela.
+**Neobvezna vaja:** pripravljeno vajo uporabi samo, če svojega primera trenutno ne moreš uporabiti ali želiš dodatni preizkus. Izmišljeni podatki ostanejo označeni kot učni. Za zaključek pokaži rezultat svoje naloge.
 
 **Dodatno samostojno delo:** v svojem okolju primerjaj MCP, neposredni API, uvoz in brskalnik. Za [iskanje potencialnih strank](../exercises/prospect-discovery/) lahko uporabiš svoj račun Apify z izbranim preizkušenim Actorjem, omejitvijo rezultatov in porabe.
 

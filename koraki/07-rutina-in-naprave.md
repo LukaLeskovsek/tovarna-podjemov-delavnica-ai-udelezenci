@@ -8,7 +8,7 @@ Za pošto uporabi [dnevni pregled in spremljanje](../docs/redna-posta.md). Najpr
 
 Pri [petih vprašanjih](../docs/razclenitev-naloge.md) dopolni sprožilec, sveže vire, trajno stanje ter ustavitev in nadaljevanje. Preveri, ali samodejni korak ohrani vse, kar je človek prej preverjal ročno.
 
-## Kaj že imaš in kaj dodamo
+## Kaj bomo nadgradili
 
 Znaš nalogo ročno zagnati in preveriti rezultat. Dodaj sprožilec, sveže podatke, ustavitev in nadaljevanje. Redno osveževanje dokumentov je ena možnost; prej preveri porabo, dosegljivost virov in mesto izvajanja.
 
@@ -37,11 +37,11 @@ Določi sprožilec, mesto izvajanja, mejo porabe, pregled rezultata in način us
 
 ## Prikaz in tvoje delo
 
-**Prikaz v živo:** izvajalec pokaže redno opravilo ter nadaljevanje na drugi napravi na svojem izbranem dejanskem primeru. Poglej, katera pravila, odločitve in način preverjanja lahko preneseš na svojo nalogo. Spremljani prikaz še ni tvoja izvedba.
+**Prikaz v živo:** izvajalec pokaže redno opravilo ter nadaljevanje na drugi napravi na svojem dejanskem primeru. Poglej, katera pravila, odločitve in način preverjanja lahko preneseš na svojo nalogo. Prikaz nato sam preizkusi pri svoji nalogi.
 
-**Delo na svoji nalogi:** uporabi zgornji potek na svojih dovoljenih podatkih. Lahko nadaljuješ prejšnjo nalogo ali izbereš drugo. Če orodje ne pomaga, izboljšaj postopek brez njega.
+**Delo na svoji nalogi:** uporabi opisani pristop na podatkih, ki jih smeš obdelati. Lahko nadaljuješ prejšnjo nalogo ali izbereš drugo. Če orodje ne pomaga, izboljšaj postopek brez njega.
 
-**Neobvezna vaja:** pripravljeno vajo uporabi samo, če svojega primera trenutno ne moreš uporabiti ali želiš dodatni preizkus. Izmišljeni podatki ostanejo označeni kot učni. Vaja ne nadomesti zaključnega rezultata iz tvojega dela.
+**Neobvezna vaja:** pripravljeno vajo uporabi samo, če svojega primera trenutno ne moreš uporabiti ali želiš dodatni preizkus. Izmišljeni podatki ostanejo označeni kot učni. Za zaključek pokaži rezultat svoje naloge.
 
 **Dodatno samostojno delo:** Hermes za lastno gostovano okolje, dodatne komunikacijske kanale ali nadzor izvajanja, kadar to upraviči tvoja naloga. Določi lastnika, svoje račune, porabo in vzdrževanje.
 

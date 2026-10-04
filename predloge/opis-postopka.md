@@ -14,16 +14,16 @@ Kopijo shrani kot `moje-delo/workflow-brief.md`. Neznanke pusti označene.
 - Primer sedanje izvedbe in čas, vključno s pregledom:
 - Kaj pripravimo najprej in česa za zdaj ne bomo naredili:
 
-| Del naloge | Vhod in vir | Pravilo, presoja in kdo odloči | Izhod in komu je namenjen | Kako preverimo; izjema |
+| Del naloge | Podatki in vir | Pravilo, presoja in kdo odloči | Rezultat in komu je namenjen | Kako preverimo; izjema |
 |---|---|---|---|---|
 | | | | | |
 
-Zapiši le pomembne dele zadnje izvedbe. Preveri tudi, ali je izhod enega dela primeren vhod za naslednjega in ali je končni rezultat uporaben.
+Zapiši pomembne dele zadnje izvedbe. Preveri, ali vsak naslednji korak dobi potrebne podatke in ali je končni rezultat uporaben.
 
 ## Meje in primeri
 
 - Kaj lahko odstranimo ali poenostavimo:
-- Obvezni vhodi in izhodni format:
+- Potrebni podatki in oblika rezultata:
 - Kaj smemo prebrati in spremeniti ter kateri račun uporabimo:
 - Kaj zahteva odobritev; kaj ni dovoljeno:
 - Manjkajoči ali nasprotujoči si podatki, podvojitev, prekinitev:

@@ -49,11 +49,11 @@ Preveri `origin`, vejo `main` in prisotnost `CLAUDE.md`. Povej točno mapo, ki n
 
 Preberi [postopek shranjevanja](shranjevanje.md). Najprej preveri, da zunanji repozitorij ignorira celotno `moje-delo/`, nato pripravi notranji repozitorij in zasebni cilj v lasti preverjenega uporabnika. Pred zapisovanjem poslovnih vhodov preveri izključene poti.
 
-Nato pripravi osebna navodila in isto mapo v Obsidianu po [navodilih](starter.md). Dokumentni indeks preizkusi na nekaj dovoljenih dokumentih, vendar ne ustavljaj prve naloge s pošto, če dokumentov še ni. Za skupni primer preberi [navodila za pošto](e-posta.md); računa in dostop preveri pred branjem. Pred uporabo podatkov skupaj preglejta [osnove in nastavitve aplikacije](../claude-desktop.md).
+Takoj nato izvedi [kratko personalizacijo](personalizacija.md). Obsidian in indeks pripravi po [navodilih](starter.md); dodatne povezave ne odložijo personalizacije. Dokumentni indeks preizkusi na nekaj dovoljenih dokumentih, vendar ne ustavljaj prve naloge s pošto, če dokumentov še ni. Za skupni primer preberi [navodila za pošto](e-posta.md); računa in dostop preveri pred branjem. Pred uporabo podatkov skupaj preglejta [osnove in nastavitve aplikacije](../claude-desktop.md).
 
 Vprašaj po dejanski nalogi. Če datoteke ni, predlagaj izvedljivo nalogo iz udeleženčevega dela, ki jo lahko opiše. Neobvezno vajo ponudi šele, če svojega primera ne more uporabiti. Udeleženec pregleda vsebino rezultata, ti pa preveriš datoteko, točen izbor za shranjevanje in zasebno varnostno kopijo.
 
-V novem pogovoru preberi `moje-delo/napredek.md` in `moje-delo/rezultati/kako-delam-s-claudom.md`, če obstaja, najdi rezultat in predlagaj pravo naslednje dejanje. Že obstoječega napredka ne ponastavi. Obnovitev iz drugega računalnika sledi navodilu za shranjevanje.
+V novem pogovoru preberi `moje-delo/napredek.md` in `moje-delo/rezultati/profil/INDEX.md`, če obstaja, najdi rezultat in predlagaj pravo naslednje dejanje. Že obstoječega napredka ne ponastavi. Obnovitev iz drugega računalnika sledi navodilu za shranjevanje.
 
 ## 5. Kaj zapišeš
 
@@ -61,4 +61,4 @@ V napredek zapiši OS, Local in delovno mapo, delujoči ukaz za Python, stanje o
 
 Če kaj manjka, zapiši natančno težavo, naslednji ukrep in odgovorno osebo. Preverjen del ohrani. Priprave ne označi kot uspešne samo zato, ker so navodila napisana ali ker je namestitev delovala na drugem računalniku.
 
-Dodatne račune pripravi pred pripadajočim sklopom. n8n uporabljamo v **n8n Cloud**, brez lokalne namestitve ali Dockerja. Podrobna navodila pridejo z objavo tega sklopa.
+Dodatne račune pripravi pred pripadajočim sklopom. n8n uporabljamo v **n8n Cloud**, brez lokalne namestitve ali Dockerja. [Podrobna navodila](../../integrations/n8n/za-agenta.md) so že na voljo; uporabi jih pred tem sklopom.

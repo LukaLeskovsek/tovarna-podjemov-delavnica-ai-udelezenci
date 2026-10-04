@@ -6,11 +6,11 @@ Pri pregledu pošte iz prve izvedbe opiši izbor obsega, branje pogovorov, preso
 
 ## Pet vprašanj pri tej nalogi
 
-Iz zadnje izvedbe uporabi [pet vprašanj](../docs/razclenitev-naloge.md). Za pomemben del naloge zapiši vhod, odločitev, izhod in način preverjanja. Preveri tudi predajo med deli; najprej odstrani ali poenostavi odvečno delo.
+S [petimi vprašanji](../docs/razclenitev-naloge.md) preglej zadnjo izvedbo. Za pomembne korake zapiši potrebne podatke, odločitev, rezultat in način preverjanja. Preveri, kaj mora dobiti naslednji korak. Pred avtomatizacijo odstrani ali poenostavi odvečno delo.
 
-## Kaj že imaš in kaj dodamo
+## Kaj bomo nadgradili
 
-Imaš prvi pregledan rezultat in zapisan popravek. Iz konkretne izvedbe izlušči korake, odločitve in odvečno delo. Opis postopka nastaja iz opravljenega dela; ne začenjaj z novim dolgim vprašalnikom.
+Imaš prvi pregledan rezultat in zapisan popravek. Poglej, kateri koraki in odločitve so bili potrebni ter kaj lahko poenostaviš. Opis postopka nastaja iz opravljenega dela; ne začenjaj z novim dolgim vprašalnikom.
 
 Zapiši, kako si opravil nalogo, da boš postopek lahko uporabil še kdaj. Opis naj bo dovolj jasen, da ga razume sodelavec in da lahko z njim začneš nov pogovor s Claudom.
 
@@ -37,11 +37,11 @@ Pri konferenčni vaji [pravila](../exercises/conference/rules.md) določajo vrst
 
 ## Prikaz in tvoje delo
 
-**Prikaz v živo:** izvajalec pokaže opis dejanskega postopka na svojem izbranem dejanskem primeru. Poglej, katera pravila, odločitve in način preverjanja lahko preneseš na svojo nalogo. Spremljani prikaz še ni tvoja izvedba.
+**Prikaz v živo:** izvajalec pokaže opis dejanskega postopka na svojem dejanskem primeru. Poglej, katera pravila, odločitve in način preverjanja lahko preneseš na svojo nalogo. Prikaz nato sam preizkusi pri svoji nalogi.
 
-**Delo na svoji nalogi:** uporabi zgornji potek na svojih dovoljenih podatkih. Lahko nadaljuješ prejšnjo nalogo ali izbereš drugo. Če orodje ne pomaga, izboljšaj postopek brez njega.
+**Delo na svoji nalogi:** uporabi opisani pristop na podatkih, ki jih smeš obdelati. Lahko nadaljuješ prejšnjo nalogo ali izbereš drugo. Če orodje ne pomaga, izboljšaj postopek brez njega.
 
-**Neobvezna vaja:** pripravljeno vajo uporabi samo, če svojega primera trenutno ne moreš uporabiti ali želiš dodatni preizkus. Izmišljeni podatki ostanejo označeni kot učni. Vaja ne nadomesti zaključnega rezultata iz tvojega dela.
+**Neobvezna vaja:** pripravljeno vajo uporabi samo, če svojega primera trenutno ne moreš uporabiti ali želiš dodatni preizkus. Izmišljeni podatki ostanejo označeni kot učni. Za zaključek pokaži rezultat svoje naloge.
 
 **Dodatno samostojno delo:** primerjaj različne rešitve, npr. veščino, rutino ali aplikacijo; utemelji izbiro po koristih in zahtevah.
 

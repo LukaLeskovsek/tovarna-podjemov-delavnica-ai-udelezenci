@@ -1,10 +1,10 @@
-# Gradiva in veščine · full-v3
+# Gradiva in veščine · full-v4
 
-Vseh deset korakov in podporne veščine že imaš. Začni pri prvem koraku; nato nadaljuj iz svojega napredka, po dogovoru na delavnici. Naslednjega koraka ni treba odklepati ali posebej prenašati. Objavljeno še ne pomeni opravljeno: Claude pri nadaljevanju prebere tvoj osebni napredek.
+Vseh deset korakov in podporne veščine že imaš. Začni pri prvem koraku; nato nadaljuj iz svojega napredka, po dogovoru na delavnici. Naslednjega koraka ni treba odklepati ali posebej prenašati. Vseh tem ni treba opraviti naenkrat. Claude pri nadaljevanju prebere tvoj napredek in poišče naslednji korak tvoje naloge.
 
 | Paket | Kaj je na voljo | Veščine |
 |---|---|---|
-| 1 | [Začetek in priprava](../koraki/01-zacetek.md) | `delavnica-dokumenti` |
+| 1 | [Začetek in priprava](../koraki/01-zacetek.md) | `delavnica-personalizacija`, `delavnica-dokumenti` |
 | 2 | [Opis postopka](../koraki/02-razcleni-postopek.md) | `deconstruct-workflow`, `prepare-context` |
 | 3 | [Lastna veščina](../koraki/03-shrani-metodo.md) | `package-workflow`, `verify-workflow`, `review-workflow-run` |
 | 4 | [Povezave in Intrix](../koraki/04-povezi-vire.md) | Brez novih veščin |
@@ -17,6 +17,6 @@ Vseh deset korakov in podporne veščine že imaš. Začni pri prvem koraku; nat
 
 Za nadaljevanje napiši **»Nadaljujva.«** Ob popravkih gradiva uporabi **»Posodobi gradiva.«** Osebne datoteke in veščine ostanejo v `moje-delo/`.
 
-Podporne veščine so v projektni mapi `.claude/skills/`. V novem pogovoru preveri, ali jih Claude najde. Tvoja mapa `moje-delo/skills/` se uporablja ločeno; njena navodila naj agent po potrebi izrecno prebere.
+Podporne veščine so v projektni mapi `.claude/skills/`. V novem pogovoru preveri, ali jih Claude najde. Svoje poslovne veščine hraniš v `moje-delo/skills/`. Claude naj pred njihovo uporabo izrecno prebere ustrezna navodila.
 
 [Začetek](../README.md)

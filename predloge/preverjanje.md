@@ -11,10 +11,10 @@ Kopijo shrani kot `moje-delo/verification-report.md` in navedi točno izvedbo.
 |---|---|---|---|
 | Poslovno uporaben rezultat | | | |
 | Manjkajoči ali nejasni podatki | | | |
-| Meja dovoljenj ali odobritev, če je relevantna | | | |
+| Dovoljenja in odobritev, če sta potrebna | | | |
 | Ponovitev ali nadaljevanje po napaki, kadar je potrebno | | | |
 | Nov primer in popravek metode | | | |
-| Predaja med pomembnimi deli in celoten rezultat | | | |
+| Prenos podatkov med koraki in končni rezultat | | | |
 
 - Pomoč izvajalca in kaj je udeleženec odločil sam:
 - Preostala napaka in njen vzrok:

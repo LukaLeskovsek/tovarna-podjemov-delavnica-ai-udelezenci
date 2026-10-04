@@ -6,9 +6,9 @@ Pri pregledu pošte pokaži dve izvedbi, popravek presoje in težji primer. Prim
 
 ## Pet vprašanj pri tej nalogi
 
-S [petimi vprašanji](../docs/razclenitev-naloge.md) pokaži začetni cilj, uporabljene vire, izboljšani del, dokaz celotnega rezultata in naslednji korak. Pri primerjavi upoštevaj tudi pripravo, pregled, popravke in pomoč.
+S [petimi vprašanji](../docs/razclenitev-naloge.md) pojasni, kaj si želel doseči, katere vire si uporabil, kaj si izboljšal, kako si preveril končni rezultat in kaj boš naredil naslednjič. Pri primerjavi upoštevaj tudi pripravo, pregled, popravke in pomoč.
 
-## Kaj že imaš in kaj dodamo
+## Kaj bomo nadgradili
 
 Imaš pregledane rezultate, ponovitve in zabeležene popravke. Pokaži dejansko izboljšavo ter vložek v pripravo, pregled in popravljanje. Določi naslednji korak in odgovorno osebo.
 
@@ -20,7 +20,7 @@ Pokaži, kaj si pripravil, kako preverjaš rezultat in kako se je postopek obnes
 
 ## Kaj potrebuješ
 
-Kratek opis naloge, uporabljena navodila oziroma veščino, najmanj dve izvedbi, [izboljšavo](../predloge/izboljsava.md), dokaze [samostojnega poskusa](09-preizkusi-in-predaja.md) in navodila za uporabo. Uporabi dovoljene izvlečke; pri prikazu drugim ne razkrivaj zasebnih vhodov ali poverilnic.
+Kratek opis naloge, uporabljena navodila oziroma veščino, najmanj dve izvedbi, [izboljšavo](../predloge/izboljsava.md), dokaze [samostojnega poskusa](09-preizkusi-in-predaja.md) in navodila za uporabo. Uporabi dovoljene izvlečke; pri prikazu drugim ne razkrivaj zasebnih podatkov ali poverilnic.
 
 ## Tvoje odločitve
 
@@ -36,13 +36,13 @@ Odloči se, kaj boš uporabljal, kaj potrebuje popravek in kdo skrbi za naslednj
 
 ## Prikaz in tvoje delo
 
-**Prikaz v živo:** izvajalec pokaže pregled dejanske izboljšave na svojem izbranem dejanskem primeru. Poglej, katera pravila, odločitve in način preverjanja lahko preneseš na svojo nalogo. Spremljani prikaz še ni tvoja izvedba.
+**Prikaz v živo:** izvajalec pokaže pregled dejanske izboljšave na svojem dejanskem primeru. Poglej, katera pravila, odločitve in način preverjanja lahko preneseš na svojo nalogo. Prikaz nato sam preizkusi pri svoji nalogi.
 
-**Delo na svoji nalogi:** uporabi zgornji potek na svojih dovoljenih podatkih. Lahko nadaljuješ prejšnjo nalogo ali izbereš drugo. Če orodje ne pomaga, izboljšaj postopek brez njega.
+**Delo na svoji nalogi:** uporabi opisani pristop na podatkih, ki jih smeš obdelati. Lahko nadaljuješ prejšnjo nalogo ali izbereš drugo. Če orodje ne pomaga, izboljšaj postopek brez njega.
 
-**Neobvezna vaja:** pripravljeno vajo uporabi samo, če svojega primera trenutno ne moreš uporabiti ali želiš dodatni preizkus. Izmišljeni podatki ostanejo označeni kot učni. Vaja ne nadomesti zaključnega rezultata iz tvojega dela.
+**Neobvezna vaja:** pripravljeno vajo uporabi samo, če svojega primera trenutno ne moreš uporabiti ali želiš dodatni preizkus. Izmišljeni podatki ostanejo označeni kot učni. Za zaključek pokaži rezultat svoje naloge.
 
-**Dodatno samostojno delo:** po potrebi nadaljuj z dodatki Microsoft 365, GBrain, Design/Artifacts, rutino ali mobilnim delom, n8n, Apify, agentno ekipo, Internal OS Starter, Hermes ali Cloudflare Workflows. Za nadaljevanje izberi tisto, kar potrebuješ pri svojem delu.
+**Dodatno samostojno delo:** po potrebi nadaljuj z dodatki Microsoft 365, GBrain, Design/Artifacts, rutino ali mobilnim delom, n8n, Apify, ekipo agentov, Internal OS Starter, Hermes ali Cloudflare Workflows. Za nadaljevanje izberi tisto, kar potrebuješ pri svojem delu.
 
 ## Preveri in shrani
 

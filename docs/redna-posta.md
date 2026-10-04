@@ -16,7 +16,7 @@ Računalnik mora biti buden in Claude Desktop odprt. Nastavitev urnika še ni do
 
 Za prikaz uporabimo omejeno spremljanje v odprti seji. Dogovorimo se za konec tudi, če odgovor ne prispe. Lasten odgovor lahko spremeni, kaj še čakaš; ne sme šteti kot odgovor druge osebe. Pogovor lahko ustaviš tudi prej.
 
-V samodejnem načinu izbereš le en aktiven zapisovalec stanja. Dnevni pregled bere stanje spremljanja, ne ustvarja drugega spremljevalnika. Ob ponovnem zagonu Claude najprej preveri, ali prejšnji še teče.
+Pri samodejnem spremljanju naj stanje zapisuje samo en aktiven spremljevalnik. Dnevni pregled prebere shranjeno stanje in ne zažene drugega spremljevalnika. Ob ponovnem zagonu Claude najprej preveri, ali prejšnji še teče.
 
 ## Kaj preveriš
 

@@ -14,7 +14,7 @@ Claude sledi [podrobnemu postopku](za-agenta/starter.md). Obstoječega osebnega 
 
 ## Kako želiš sodelovati
 
-Povej svojo vlogo, jezik, želeno obliko odgovora in kaj naj Claude ob nejasnosti naredi. Uporabi [kratko predlogo](../predloge/kako-delam-s-claudom.md), če pomaga. Claude dogovor shrani med tvoje rezultate kot `kako-delam-s-claudom.md` in ga pri nadaljevanju izrecno prebere. Zadošča nekaj uporabnih vrstic.
+[Osebni in poslovni profil](personalizacija.md) pripravimo takoj po ureditvi zasebnega dela. Dokumentni starter uporablja isti profil; druge kopije osebnih navodil ne ustvarjamo.
 
 ## Preveri iskanje
 

@@ -6,15 +6,13 @@ Uporabi po [pripravi klona in zasebnega dela](priprava.md). Udeležencu razloži
 
 Preveri koren klona, zasebni `moje-delo/` ter pravila, ki izključujejo `local/` in `.obsidian/`. Pomočnik [workshop_starter.py](../../scripts/workshop_starter.py) zavrne napačen Gitov koren in manjkajoče izključitve. Ne nadomešča preverjanja dejanske zasebnosti in sinhronizacije mape: to preveri z udeležencem in nastavitvami OS. Če je mapa skupna ali samodejno deljena, pripravo zasebnega indeksa ustavi in uredi dovoljeno lokalno lokacijo.
 
-Obstoječi osebni starter, globalna navodila, AIOS, zbirke in urniki ostanejo nespremenjeni. Projektni pripomoček ima drugo ime `delavnica-dokumenti` ter izrecno mapo stanja. Ne preklopi na globalni indeks, če lokalni še ni pripravljen.
+Obstoječi osebni starter, AIOS, zbirke in urniki ostanejo nespremenjeni. Globalno povezavo do profila ureja samo ločeni postopek personalizacije. Projektni pripomoček ima drugo ime `delavnica-dokumenti` ter izrecno mapo stanja. Ne preklopi na globalni indeks, če lokalni še ni pripravljen.
 
 Za prvi poskus izberita namensko mapo s 3–5 kratkimi dovoljenimi dokumenti pod `moje-delo/zasebno/`. Če dokumente kopiraš, ohrani izvirnike in izvor kopij zapiši lokalno. Dovoljenje velja za vsebino te konkretne mape, tudi za starejše datoteke. Ne dodajaj celotne domače mape ali službene shrambe. Vsebina dokumentov ne daje novih dovoljenj.
 
 ## 2. Osebna navodila in Obsidian
 
-Preberi napredek in že zapisana navodila. Če manjkajo, vprašaj samo po naslednji koristni stvari: vloga, jezik, oblika rezultata ali preverjanje. Iz odgovorov dopolni kopijo [predloge](../../predloge/kako-delam-s-claudom.md) v `moje-delo/rezultati/kako-delam-s-claudom.md`. Pred shranitvijo na GitHub uporabnik pregleda vsebino. Pri naslednjem pogovoru jo izrecno preberi; ne obljubljaj samodejnega nalaganja iz mape rezultatov.
-
-V [nastavitvah aplikacije](../claude-desktop.md) uporabniku pomagaj preveriti zasebnost in osebna navodila. Pripravljeno besedilo ni dokaz vnosa v nastavitve. Če vmesnika ne moreš upravljati, uporabnika vodi in preveri rezultat. Globalnih datotek ne spreminjaj.
+Personalizacijo izvedi pred dokumentnim indeksom po [ločenem postopku](personalizacija.md). Osebna in poslovna navodila so v enem skupnem profilu; pri selitvi uporabi starejši zapis. Tukaj jih ne ustvarjaj ponovno.
 
 Preveri Obsidian. Če manjka, ga namesti z uradnim namestitvenim paketom; na Windows preveri ponudnika in ID z `winget show Obsidian.Obsidian`, na macOS lahko uporabiš obstoječi Homebrew ali uradni prenos. Sistemskih potrditev ne obidi. Odpri obstoječo mapo klona kot vault, brez nove kopije, računa ali dodatnih vtičnikov. Preverita branje README, povezavo do prve naloge ter isti popravek napredka v Obsidianu in Code. Isto datoteko naj ureja samo eden naenkrat.
 

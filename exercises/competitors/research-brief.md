@@ -1,5 +1,8 @@
 # Navodila za raziskavo: Most, različica 1
 
+**Neobvezna vaja.** Najprej uporabi svojo dejansko nalogo. To pripravljeno gradivo je dodatna pomoč, če jo izbereš.
+
+
 - Odločitev sprejme: izmišljena Eva Marin, vodja produkta Most.
 - Vprašanje: kateri začetni segment je vreden petih pogovorov s kupci?
 - Stanje na dan 20. septembra 2026. Uporabi učne vire, ki so bili do tega dne že objavljeni.
@@ -13,4 +16,4 @@
 - Neznanka: odsotnost omembe API-ja ne dokazuje odsotnosti API-ja.
 - Na koncu pripravi: primerjalna tabela štirih ponudnikov, največ tri glavne ugotovitve, ena hipoteza in predlog petih pogovorov. Ne izmišljaj velikosti trga ali uporabniških pričevanj.
 
-Oba načina dela primerjaj na istih podatkih in z enako obliko rezultata. Kadar poraba ni dostopna, napiši »ni izmerjeno«. Zabeleži začetek in konec dela, čas za ročni pregled pa vodi ločeno. Določi dovoljeno porabo v svojem računu pred zagonom dodatnih agentov.
+Zabeleži začetek in konec dela, čas za ročni pregled pa vodi ločeno. Kadar poraba ni dostopna, napiši »ni izmerjeno«.

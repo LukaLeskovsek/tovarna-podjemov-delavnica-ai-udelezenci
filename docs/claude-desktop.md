@@ -39,3 +39,7 @@ Odpri dokument, zahtevaj kratek osnutek, ustavi ali popravi navodilo, preveri en
 Uradni viri: [Claude Desktop](https://code.claude.com/docs/en/desktop), [osebna navodila](https://support.claude.com/en/articles/10185728-understanding-claude-s-personalization-features), [uporaba podatkov](https://privacy.claude.com/en/articles/10023580-is-my-data-used-for-model-training).
 
 [Priprava](setup.md) · [Mape in Obsidian](mape-in-obsidian.md)
+
+## Oseba, podjetje in znamka
+
+[Personalizacijo](personalizacija.md) uredi takoj po pripravi zasebnega dela. Globalna povezava je namenjena Code; v Chat in Cowork posebej preveri vnos oziroma prilogo. Obstoječa navodila ohrani.

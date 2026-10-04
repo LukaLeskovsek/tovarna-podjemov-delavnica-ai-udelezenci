@@ -1,10 +1,10 @@
 # 1. Pripravi okolje in opravi prvo nalogo
 
-Najprej pripravi nekaj, kar ti koristi pri delu. Skupni prikaz je **»Kaj danes potrebuje mojo pozornost?«**: pregled pošte, popravek Claudove presoje in uporaben Artifact. Lahko uporabiš svojo pošto ali drugo dejansko nalogo.
+Po pripravi okolja najprej uredi [osebni in poslovni profil](../docs/personalizacija.md). Nato pripravi nekaj, kar ti koristi pri delu. Skupni prikaz je **»Kaj danes potrebuje mojo pozornost?«**: pregled pošte, popravek Claudove presoje in uporaben Artifact. Lahko uporabiš svojo pošto ali drugo dejansko nalogo.
 
 ## Pet vprašanj pri tej nalogi
 
-Najprej pripravi majhen uporaben rezultat. [Pet vprašanj](../docs/razclenitev-naloge.md) uporabi ob pregledu: ali poznaš cilj, dovoljene vire, pomembno odločitev, dokaz in naslednji poskus? Vsega ni treba zapisati vnaprej.
+Najprej pripravi majhen uporaben rezultat. Ob pregledu si pomagaj s [petimi vprašanji](../docs/razclenitev-naloge.md): kaj si želel doseči, katere vire si uporabil, kje si moral odločiti, kaj si preveril in kaj boš poskusil naslednjič? Vsega ni treba zapisati vnaprej.
 
 ## Kaj potrebuješ
 
@@ -12,7 +12,7 @@ Svoj Claude, GitHub, dovoljene podatke in [pripravljeno delovno mapo](../docs/se
 
 ## Kaj napišeš Claudu
 
-> Preberi navodila delavnice in moj napredek, če obstaja. Pomagaj mi pri prvi uporabni nalogi. Najprej preveriva, kaj želim doseči in katere podatke smeš uporabiti. Pripravi majhen rezultat, pokaži vir in mi pomagaj preveriti ter popraviti pomembno ugotovitev. Vprašaj po eno stvar. Nato shraniva dogovor in nadaljujeva v novem pogovoru.
+> Preberi navodila delavnice in moj napredek, če obstaja. Preveri pripravo in uporabi delavnica-personalizacija, če profil še ni pripravljen. Nato mi pomagaj pri prvi uporabni nalogi. Najprej preveriva, kaj želim doseči in katere podatke smeš uporabiti. Pripravi majhen rezultat, pokaži vir in mi pomagaj preveriti ter popraviti pomembno ugotovitev. Vprašaj po eno stvar. Nato shraniva dogovor in nadaljujeva v novem pogovoru.
 
 ## Delo na svoji nalogi
 
@@ -24,13 +24,13 @@ Svoj Claude, GitHub, dovoljene podatke in [pripravljeno delovno mapo](../docs/se
 
 ## Dokumenti in osebna navodila
 
-[Projektni starter](../docs/dokumenti-in-starter.md) ostane del začetka: uredi kratka osebna navodila in na nekaj dovoljenih dokumentih preveri iskanje ter izvirnik. Indeksiranje ni pogoj za pregled pošte. Ne indeksiramo celotnega predala ali računalnika.
+[Projektni starter](../docs/dokumenti-in-starter.md) ostane del začetka: uporabi že pripravljeni profil in na nekaj dovoljenih dokumentih preveri iskanje ter izvirnik. Indeksiranje ni pogoj za pregled pošte. Ne indeksiramo celotnega predala ali računalnika.
 
 ## Preveri in shrani
 
 Znaš odpreti rezultat, pokazati vir, pojasniti popravek in nadaljevati v novem pogovoru. V napredek zapiši nalogo, dogovor, rezultat, kaj je preverjeno in kaj sledi. Vsebina pošte ostane v lokalni zasebni mapi; v GitHub shrani samo izbrane dovoljene zapise brez občutljivih podatkov.
 
-**Prikaz v živo:** izvajalčev dovoljeni primer pokaže način dela. **Neobvezna vaja:** [konferenčna vaja](../exercises/conference/README.md) ostane pomoč. **Dodatno samostojno delo:** isti pristop preizkusi na drugem svojem vhodu. Nobena od teh možnosti ne zahteva uporabe vseh orodij.
+**Prikaz v živo:** izvajalčev dovoljeni primer pokaže način dela. **Neobvezna vaja:** [konferenčna vaja](../exercises/conference/README.md) ostane pomoč. **Dodatno samostojno delo:** isti pristop preizkusi na drugem svojem primeru. Nobena od teh možnosti ne zahteva uporabe vseh orodij.
 
 <!-- package-navigation:start -->
 [2. Opis postopka](02-razcleni-postopek.md) · [Vsa objavljena gradiva](../docs/objavljena-gradiva.md)

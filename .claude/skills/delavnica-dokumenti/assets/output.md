@@ -9,3 +9,6 @@ V svoj napredek dopolni samo:
 - Kaj sledi.
 
 Tehnične poti, izvlečki in nastavitve ostanejo lokalni. Celotnih dokumentov ne prepisuj v napredek.
+
+Povezava do uporabljenega profila (pravil ne kopiramo sem):
+Kaj dopolnimo v profilu, kaj velja samo za to nalogo in kateri primer shranimo z razlago:

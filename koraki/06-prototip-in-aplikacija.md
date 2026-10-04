@@ -6,9 +6,9 @@ Začni pri prvem pregledanem Artifaktu. Pri pregledu pošte preveri razumljivost
 
 ## Pet vprašanj pri tej nalogi
 
-S [petimi vprašanji](../docs/razclenitev-naloge.md) preveri, kaj mora uporabnik z izdelkom narediti, katere podatke vidi in kako prepozna nepopoln rezultat. Izgled sam ne dokazuje uporabnosti ali delujočega dostopa.
+S [petimi vprašanji](../docs/razclenitev-naloge.md) preveri, kaj mora uporabnik z izdelkom narediti, katere podatke vidi in kako prepozna nepopoln rezultat. Lep videz še ne pove, ali je izdelek uporaben in ali imajo pravi ljudje dostop do njega.
 
-## Kaj že imaš in kaj dodamo
+## Kaj bomo nadgradili
 
 Znaš odpreti in popraviti prvi Artifact oziroma pregledano lokalno datoteko. Preveri izdelek z drugo osebo, dejanske dostope in omejitve. O aplikaciji odločamo ob konkretni potrebi; osnov Artifacts ne razlagamo prvič šele tu.
 
@@ -36,11 +36,11 @@ Izberi obliko rezultata, uporabnika in nalogo, ki jo mora opraviti. Določi, kat
 
 ## Prikaz in tvoje delo
 
-**Prikaz v živo:** izvajalec pokaže prototip in preizkus uporabe na svojem izbranem dejanskem primeru. Poglej, katera pravila, odločitve in način preverjanja lahko preneseš na svojo nalogo. Spremljani prikaz še ni tvoja izvedba.
+**Prikaz v živo:** izvajalec pokaže prototip in preizkus uporabe na svojem dejanskem primeru. Poglej, katera pravila, odločitve in način preverjanja lahko preneseš na svojo nalogo. Prikaz nato sam preizkusi pri svoji nalogi.
 
-**Delo na svoji nalogi:** uporabi zgornji potek na svojih dovoljenih podatkih. Lahko nadaljuješ prejšnjo nalogo ali izbereš drugo. Če orodje ne pomaga, izboljšaj postopek brez njega.
+**Delo na svoji nalogi:** uporabi opisani pristop na podatkih, ki jih smeš obdelati. Lahko nadaljuješ prejšnjo nalogo ali izbereš drugo. Če orodje ne pomaga, izboljšaj postopek brez njega.
 
-**Neobvezna vaja:** pripravljeno vajo uporabi samo, če svojega primera trenutno ne moreš uporabiti ali želiš dodatni preizkus. Izmišljeni podatki ostanejo označeni kot učni. Vaja ne nadomesti zaključnega rezultata iz tvojega dela.
+**Neobvezna vaja:** pripravljeno vajo uporabi samo, če svojega primera trenutno ne moreš uporabiti ali želiš dodatni preizkus. Izmišljeni podatki ostanejo označeni kot učni. Za zaključek pokaži rezultat svoje naloge.
 
 **Dodatno samostojno delo:** v svojem zasebnem Internal OS Starter projektu prenesi opis postopka, uporabno kodo, podatke in sprejemne primere v en modul. Sledi njegovim navodilom `/plan`, `/build`, `/verify` in `/ship`. Pri delu uporabljaj svoje račune. Prenos videza ne prenese prijave, shranjevanja ali povezav samodejno.
 
@@ -49,6 +49,10 @@ Izberi obliko rezultata, uporabnika in nalogo, ki jo mora opraviti. Določi, kat
 V napredek dodaj rezultat, kaj si preveril, dogovor in naslednji korak. Druge predloge uporabi samo, če pomagajo pri nalogi.
 
 Shrani prototip, izbrano zasnovo, povezavo na uporabljeno različico opisa postopka, ugotovitve drugega uporabnika in matriko dovoljenj. Če morajo imeti uporabniki različne pravice, deljenje preveri z dvema računoma. Pri aplikaciji preveri tudi zavrnjen dostop, preklic pravic, spremembo po odobritvi in ponovitev dejanja. Nepreizkušeno zapiši kot nepreverjeno. Dokončana aplikacija ali objava ni pogoj za zaključek programa.
+
+
+
+GBrain in Internal OS Starter sta [neobvezni nadgradnji](../docs/neobvezne-nadgradnje.md) glede na potrebe. Osnovni rezultat lahko preveriš z lokalnim zapisom, dokumentom ali Artifaktom.
 
 <!-- package-navigation:start -->
 [5. Znanje in popravki](05-znanje-in-ucenje.md) · [7. Redna opravila in naprave](07-rutina-in-naprave.md) · [Vsa objavljena gradiva](../docs/objavljena-gradiva.md)

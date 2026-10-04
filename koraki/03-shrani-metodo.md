@@ -2,13 +2,13 @@
 
 ## Povezava s prvim primerom
 
-Pri pošti uporabi svoje preverjene popravke kot osnovo metode. Poskusi običajen pogovor, nepopoln vhod in nov pogovor. Končne poslovne veščine ne dobiš vnaprej; občutljiva pravila ostanejo lokalno.
+Pri pošti uporabi preverjene popravke kot osnovo svojih navodil. Preizkusi jih na običajnem pogovoru, pogovoru z manjkajočim podatkom in pogovoru, ki ga še nisi obdelal. Končne poslovne veščine ne dobiš vnaprej; občutljiva pravila ostanejo lokalno.
 
 ## Pet vprašanj pri tej nalogi
 
 [Pet vprašanj](../docs/razclenitev-naloge.md) ti pomaga odločiti, katera navodila veljajo vsakič in katere podatke dodaš na novo. V veščino prenesi le preverjeno metodo; po popravku enega dela preizkusi celoten rezultat.
 
-## Kaj že imaš in kaj dodamo
+## Kaj bomo nadgradili
 
 Imaš opis postopka in merila za pregled. Svoj način dela shrani kot poslovno veščino. Začetni delavnica-dokumenti pomaga pri iskanju virov; tvoja veščina določa pravila tvoje naloge.
 
@@ -37,11 +37,11 @@ Veščina lahko preverja preglednico, pripravlja sestanek, primerja ponudbe, obl
 
 ## Prikaz in tvoje delo
 
-**Prikaz v živo:** izvajalec pokaže ponovno uporabo navodil na svojem izbranem dejanskem primeru. Poglej, katera pravila, odločitve in način preverjanja lahko preneseš na svojo nalogo. Spremljani prikaz še ni tvoja izvedba.
+**Prikaz v živo:** izvajalec pokaže ponovno uporabo navodil na svojem dejanskem primeru. Poglej, katera pravila, odločitve in način preverjanja lahko preneseš na svojo nalogo. Prikaz nato sam preizkusi pri svoji nalogi.
 
-**Delo na svoji nalogi:** uporabi zgornji potek na svojih dovoljenih podatkih. Lahko nadaljuješ prejšnjo nalogo ali izbereš drugo. Če orodje ne pomaga, izboljšaj postopek brez njega.
+**Delo na svoji nalogi:** uporabi opisani pristop na podatkih, ki jih smeš obdelati. Lahko nadaljuješ prejšnjo nalogo ali izbereš drugo. Če orodje ne pomaga, izboljšaj postopek brez njega.
 
-**Neobvezna vaja:** pripravljeno vajo uporabi samo, če svojega primera trenutno ne moreš uporabiti ali želiš dodatni preizkus. Izmišljeni podatki ostanejo označeni kot učni. Vaja ne nadomesti zaključnega rezultata iz tvojega dela.
+**Neobvezna vaja:** pripravljeno vajo uporabi samo, če svojega primera trenutno ne moreš uporabiti ali želiš dodatni preizkus. Izmišljeni podatki ostanejo označeni kot učni. Za zaključek pokaži rezultat svoje naloge.
 
 **Dodatno samostojno delo:** preizkusi isto veščino v drugem podprtem okolju za Claude ali dodatku za Office. Preveri, ali Claude najde veščino ter ali lahko shrani in preda datoteke v vsakem okolju posebej.
 

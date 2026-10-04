@@ -93,10 +93,12 @@ Izvorne podatke po potrebi obnovi iz svoje dovoljene shrambe. Nato napiši: **»
 
 ## Obsidian, osebna navodila in indeks
 
-Odpri isto mapo v Code in Obsidianu. Nastavitve `.obsidian/` in `local/starter/` zunanji Git ignorira. Osebna navodila so pregledan zapis `moje-delo/rezultati/kako-delam-s-claudom.md`; pri shranjevanju ga izberi samo, če želiš njegovo zasebno kopijo in je vsebina dovoljena.
+Odpri isto mapo v Code in Obsidianu. Nastavitve `.obsidian/` in `local/starter/` zunanji Git ignorira. Osebna in poslovna navodila so v `moje-delo/rezultati/profil/`. Za zasebno kopijo izberi samo pregledane dovoljene datoteke. Surovi in občutljivi primeri ostanejo v `moje-delo/zasebno/profil/`. Globalna navodila in njihove kopije niso del te izbire.
 
 Obnovitev na novi napravi ohrani napredek in izbrane rezultate. Izvirnike obnovi iz njihove dovoljene shrambe, nato ponovno pripravi lokalni indeks in preveri poti. GitHubova kopija rezultatov ne vsebuje indeksa, izvornih dokumentov ali nastavitev povezav. Če izvirnikov še ni, nadaljuj iz dosegljivega pregledanega rezultata in manjkajoči del jasno označi.
 
 ## Posebej pri pošti
 
 Vsebina pošte, povzetki, naslovi, ID-ji pogovorov, občutljiva pravila in stanje spremljanja ostanejo v `moje-delo/zasebno/e-posta/`, izključeni tudi iz osebnega Gita. Izberi samo pregledan napredek in dovoljene splošne dele metode. Obnova Gita ne obnovi tega lokalnega stanja; pred nadaljevanjem preveri manjkajoče podatke, račun in spremljanje. Glej [navodila za pošto](e-posta.md).
+
+Pri selitvi ali obnovi naj Claude preveri dejansko lokacijo profila, povezave delovnih map in globalni povezovalni blok. Pred novo uporabo podjetja preveri izbiro. GitHubova kopija profila ne obnovi izvornih datotek ali povezave v globalnih navodilih.

@@ -1,4 +1,4 @@
-# Kontekst za nalogo
+# Podatki in navodila za nalogo
 
 Naloga in različica opisa postopka:
 Komu je namenjen rezultat:
@@ -11,3 +11,6 @@ Potrjena pravila:
 Podatki, ki jih pridobimo na novo:
 Stanje izvedbe v dnevniku ali izvornem sistemu:
 Naslednje vprašanje ali korak:
+
+Povezava do uporabljenega profila (pravil ne kopiramo sem):
+Kaj dopolnimo v profilu, kaj velja samo za to nalogo in kateri primer shranimo z razlago:

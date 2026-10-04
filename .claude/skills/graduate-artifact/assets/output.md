@@ -15,3 +15,6 @@ Trenutno stanje in nepreverjene domneve:
 Feature Card:
 Kaj ni preneseno ali preverjeno:
 Stroški, upravljanje in vrnitev:
+
+Povezava do uporabljenega profila (pravil ne kopiramo sem):
+Kaj dopolnimo v profilu, kaj velja samo za to nalogo in kateri primer shranimo z razlago:

@@ -29,7 +29,7 @@ Pred zapisom preveri izključitev mape `moje-delo/zasebno/` iz obeh repozitorije
 
 Artifact ustvari iz pregledanega zapisa. Prikaže čas in obseg iste različice. Spremembe pravil ali odločitve najprej zapiši v lokalno osnovo, nato osveži Artifact. Prva različica nima lastne trajne shrambe, urnika ali neposrednih dejanj nad predalom. Osvežitev sproži udeleženec prek tebe.
 
-Preveri dejanski native Artifact na računu, popravek, vir in zasebnost. Če ni na voljo, pripravi uporabno lokalno datoteko in napiši »lokalna nadomestna datoteka; Artifact še ni preverjen«. Ne objavi izdelka ali poslovnih podatkov brez dogovorjenega deljenja.
+Preveri dejanski Artifact v aplikaciji Claude na računu, popravek, vir in zasebnost. Če ni na voljo, pripravi uporabno lokalno datoteko in napiši »lokalna nadomestna datoteka; Artifact še ni preverjen«. Ne objavi izdelka ali poslovnih podatkov brez dogovorjenega deljenja.
 
 ## 4. Shrani in nadaljuj
 

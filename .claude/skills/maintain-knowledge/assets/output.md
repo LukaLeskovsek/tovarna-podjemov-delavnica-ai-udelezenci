@@ -11,3 +11,6 @@ Nadomeščeni zapis ali konflikt:
 Odločitev o spremembi:
 Predaja naslednji nalogi: preverjena ugotovitev / veljavno pravilo / trenutno stanje:
 Rezultat ponovnega iskanja:
+
+Povezava do uporabljenega profila (pravil ne kopiramo sem):
+Kaj dopolnimo v profilu, kaj velja samo za to nalogo in kateri primer shranimo z razlago:

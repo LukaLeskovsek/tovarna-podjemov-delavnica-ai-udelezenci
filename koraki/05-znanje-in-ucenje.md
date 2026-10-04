@@ -6,11 +6,11 @@ Pri pošti loči trajnejša pravila pomembnosti od trenutnega stanja posameznega
 
 ## Pet vprašanj pri tej nalogi
 
-Po [petih vprašanjih](../docs/razclenitev-naloge.md) izberi, kaj velja tudi naslednjič. Potrjeno pravilo, poslovno dejstvo in trenutno stanje izvedbe shrani na ustrezna mesta; popravek nato preveri na novem vhodu.
+Po [petih vprašanjih](../docs/razclenitev-naloge.md) izberi, kaj velja tudi naslednjič. Potrjeno pravilo, poslovno dejstvo in trenutno stanje izvedbe shrani na ustrezna mesta; na novem primeru preveri, ali je popravek uporabljen.
 
-## Kaj že imaš in kaj dodamo
+## Kaj bomo nadgradili
 
-Znaš najti dokument v osnovnem indeksu in preveriti vir. Dodaj trajnejšo ugotovitev, njen popravek in preverjen priklic. GBrain pokažemo kot nadgradnjo; osnovni indeks, zapiski napredka in spomin pogovora imajo različne vloge.
+Znaš najti dokument v osnovnem indeksu in preveriti vir. Shrani uporabno ugotovitev, jo po potrebi popravi in preveri odgovor v novem pogovoru. GBrain pokažemo kot nadgradnjo; osnovni indeks, zapiski napredka in spomin pogovora imajo različne vloge.
 
 Izberi, katere ugotovitve želiš shraniti za naslednjič. Če kaj popraviš, pri naslednji nalogi preveri, ali se popravek upošteva. Poslovnih pravil ne spreminjaj samo na podlagi enega rezultata.
 
@@ -36,11 +36,11 @@ Potrdi, kaj je uporabna ugotovitev, kateri vir jo podpira in kdo jo sme uporablj
 
 ## Prikaz in tvoje delo
 
-**Prikaz v živo:** izvajalec pokaže shranjevanje in popravek znanja na svojem izbranem dejanskem primeru. Poglej, katera pravila, odločitve in način preverjanja lahko preneseš na svojo nalogo. Spremljani prikaz še ni tvoja izvedba.
+**Prikaz v živo:** izvajalec pokaže shranjevanje in popravek znanja na svojem dejanskem primeru. Poglej, katera pravila, odločitve in način preverjanja lahko preneseš na svojo nalogo. Prikaz nato sam preizkusi pri svoji nalogi.
 
-**Delo na svoji nalogi:** uporabi zgornji potek na svojih dovoljenih podatkih. Lahko nadaljuješ prejšnjo nalogo ali izbereš drugo. Če orodje ne pomaga, izboljšaj postopek brez njega.
+**Delo na svoji nalogi:** uporabi opisani pristop na podatkih, ki jih smeš obdelati. Lahko nadaljuješ prejšnjo nalogo ali izbereš drugo. Če orodje ne pomaga, izboljšaj postopek brez njega.
 
-**Neobvezna vaja:** pripravljeno vajo uporabi samo, če svojega primera trenutno ne moreš uporabiti ali želiš dodatni preizkus. Izmišljeni podatki ostanejo označeni kot učni. Vaja ne nadomesti zaključnega rezultata iz tvojega dela.
+**Neobvezna vaja:** pripravljeno vajo uporabi samo, če svojega primera trenutno ne moreš uporabiti ali želiš dodatni preizkus. Izmišljeni podatki ostanejo označeni kot učni. Za zaključek pokaži rezultat svoje naloge.
 
 **Dodatno samostojno delo:** v svojem okolju GBrain dodaj podatke o ljudeh, podjetjih in dogodkih ter njihove povezave. Preizkusi deljenje izbranega znanja s podjetjem in obveščanje o popravkih. Pred skupno uporabo določite, kdo bo zbirko urejal.
 
@@ -49,6 +49,10 @@ Potrdi, kaj je uporabna ugotovitev, kateri vir jo podpira in kdo jo sme uporablj
 V napredek dodaj rezultat, kaj si preveril, dogovor in naslednji korak. Druge predloge uporabi samo, če pomagajo pri nalogi.
 
 Shrani [predlog izboljšave](../predloge/izboljsava.md), sprejeto odločitev, posodobljeni vir in novo izvedbo. Pokaži, kaj se je spremenilo in kdo je spremembo potrdil. Pri naslednjem primeru preveri, ali je popravek pomagal. Če tega še ne moreš oceniti, tako zapiši. S tem urejaš vire in navodila, ki jih model uporablja; samega modela ne treniraš na novo.
+
+
+
+GBrain in Internal OS Starter sta [neobvezni nadgradnji](../docs/neobvezne-nadgradnje.md) glede na potrebe. Osnovni rezultat lahko preveriš z lokalnim zapisom, dokumentom ali Artifaktom.
 
 <!-- package-navigation:start -->
 [4. Povezave in Intrix](04-povezi-vire.md) · [6. Prototip in aplikacija](06-prototip-in-aplikacija.md) · [Vsa objavljena gradiva](../docs/objavljena-gradiva.md)
