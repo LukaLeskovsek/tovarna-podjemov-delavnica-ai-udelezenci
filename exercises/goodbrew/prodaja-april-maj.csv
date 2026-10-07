@@ -1,0 +1,91 @@
+datum,izdelek,kategorija,kolicina,znesek,regija,kanal
+2026-04-01,Good Brew + YBF Combo box,kombo paket,21,714.0,Gorenjska,maloprodaja
+2026-04-01,Your Best Friend Darilni paket,darilni paket,18,522.0,Savinjska,veleprodaja
+2026-04-01,Good Brew Mešani karton 12x,pivo paket,13,338.0,Osrednjeslovenska,veleprodaja
+2026-04-02,Good Brew Lager 0.33,pivo,21,50.4,Obalno-kraška,HoReCa
+2026-04-02,Good Brew Pšenično 0.5,pivo,30,72.0,Savinjska,HoReCa
+2026-04-03,Your Best Friend Darilni paket,darilni paket,38,1102.0,Goriška,HoReCa
+2026-04-04,Good Brew IPA 0.33,pivo,38,91.2,Goriška,sejem
+2026-04-07,Good Brew + YBF Combo box,kombo paket,27,918.0,Gorenjska,HoReCa
+2026-04-07,Good Brew Lager 0.33,pivo,2,4.8,Osrednjeslovenska,maloprodaja
+2026-04-08,Your Best Friend Žvečilke 5x,pasji priboljški,20,90.0,Osrednjeslovenska,veleprodaja
+2026-04-09,Your Best Friend Žvečilke 5x,pasji priboljški,27,121.5,Podravska,spletna trgovina
+2026-04-09,Good Brew Mešani karton 12x,pivo paket,32,832.0,Gorenjska,HoReCa
+2026-04-10,Good Brew + YBF Combo box,kombo paket,10,340.0,Podravska,spletna trgovina
+2026-04-10,Your Best Friend Darilni paket,darilni paket,36,1044.0,Savinjska,veleprodaja
+2026-04-10,Your Best Friend Piškoti 200g,pasji priboljški,7,31.5,Podravska,sejem
+2026-04-11,Good Brew Mešani karton 12x,pivo paket,8,208.0,Osrednjeslovenska,maloprodaja
+2026-04-12,Your Best Friend Žvečilke 5x,pasji priboljški,5,22.5,Savinjska,veleprodaja
+2026-04-12,Your Best Friend Piškoti 200g,pasji priboljški,24,108.0,Podravska,veleprodaja
+2026-04-12,Good Brew Lager 0.33,pivo,35,84.0,Podravska,spletna trgovina
+2026-04-12,Good Brew IPA 0.33,pivo,37,88.8,Obalno-kraška,HoReCa
+2026-04-13,Your Best Friend Darilni paket,darilni paket,39,1131.0,Obalno-kraška,veleprodaja
+2026-04-13,Good Brew Pšenično 0.5,pivo,10,24.0,Goriška,veleprodaja
+2026-04-13,Good Brew + YBF Combo box,kombo paket,8,272.0,Gorenjska,spletna trgovina
+2026-04-14,Good Brew Lager 0.33,pivo,40,96.0,Goriška,maloprodaja
+2026-04-14,Good Brew Lager 0.33,pivo,24,57.6,Podravska,spletna trgovina
+2026-04-14,Good Brew Mešani karton 12x,pivo paket,11,286.0,Osrednjeslovenska,veleprodaja
+2026-04-15,Good Brew + YBF Combo box,kombo paket,40,1360.0,Gorenjska,maloprodaja
+2026-04-16,Good Brew Pšenično 0.5,pivo,16,38.4,Goriška,spletna trgovina
+2026-04-16,Your Best Friend Darilni paket,darilni paket,22,638.0,Savinjska,veleprodaja
+2026-04-17,Good Brew IPA 0.33,pivo,5,12.0,Savinjska,veleprodaja
+2026-04-18,Your Best Friend Piškoti 200g,pasji priboljški,3,13.5,Savinjska,veleprodaja
+2026-04-19,Good Brew + YBF Combo box,kombo paket,7,238.0,Savinjska,HoReCa
+2026-04-20,Your Best Friend Darilni paket,darilni paket,25,725.0,Obalno-kraška,sejem
+2026-04-20,Good Brew Pšenično 0.5,pivo,30,72.0,Obalno-kraška,spletna trgovina
+2026-04-22,Your Best Friend Žvečilke 5x,pasji priboljški,17,76.5,Goriška,sejem
+2026-04-23,Your Best Friend Piškoti 200g,pasji priboljški,19,85.5,Savinjska,veleprodaja
+2026-04-23,Good Brew Lager 0.33,pivo,8,19.2,Podravska,maloprodaja
+2026-04-23,Good Brew Pšenično 0.5,pivo,20,48.0,Obalno-kraška,veleprodaja
+2026-04-24,Your Best Friend Piškoti 200g,pasji priboljški,8,36.0,Obalno-kraška,veleprodaja
+2026-04-24,Good Brew Mešani karton 12x,pivo paket,6,156.0,Gorenjska,HoReCa
+2026-04-24,Good Brew Pšenično 0.5,pivo,13,31.2,Gorenjska,sejem
+2026-04-25,Your Best Friend Piškoti 200g,pasji priboljški,29,130.5,Gorenjska,maloprodaja
+2026-04-27,Good Brew + YBF Combo box,kombo paket,17,578.0,Goriška,sejem
+2026-04-28,Good Brew Pšenično 0.5,pivo,4,9.6,Podravska,spletna trgovina
+2026-04-28,Good Brew + YBF Combo box,kombo paket,4,136.0,Osrednjeslovenska,HoReCa
+2026-05-01,Your Best Friend Piškoti 200g,pasji priboljški,3,13.5,Obalno-kraška,maloprodaja
+2026-05-01,Your Best Friend Žvečilke 5x,pasji priboljški,5,22.5,Gorenjska,HoReCa
+2026-05-03,Good Brew Mešani karton 12x,pivo paket,24,624.0,Goriška,sejem
+2026-05-03,Good Brew IPA 0.33,pivo,19,45.6,Podravska,sejem
+2026-05-04,Good Brew IPA 0.33,pivo,16,38.4,Obalno-kraška,veleprodaja
+2026-05-04,Good Brew IPA 0.33,pivo,11,26.4,Obalno-kraška,spletna trgovina
+2026-05-05,Good Brew Mešani karton 12x,pivo paket,17,442.0,Goriška,sejem
+2026-05-06,Good Brew Lager 0.33,pivo,8,19.2,Obalno-kraška,sejem
+2026-05-06,Your Best Friend Darilni paket,darilni paket,36,1044.0,Goriška,HoReCa
+2026-05-06,Good Brew + YBF Combo box,kombo paket,29,986.0,Osrednjeslovenska,sejem
+2026-05-08,Your Best Friend Darilni paket,darilni paket,3,87.0,Podravska,HoReCa
+2026-05-08,Good Brew Lager 0.33,pivo,7,16.8,Podravska,maloprodaja
+2026-05-09,Your Best Friend Piškoti 200g,pasji priboljški,33,148.5,Osrednjeslovenska,spletna trgovina
+2026-05-09,Your Best Friend Žvečilke 5x,pasji priboljški,23,103.5,Savinjska,sejem
+2026-05-11,Good Brew Mešani karton 12x,pivo paket,18,468.0,Obalno-kraška,spletna trgovina
+2026-05-11,Your Best Friend Žvečilke 5x,pasji priboljški,14,63.0,Savinjska,HoReCa
+2026-05-11,Good Brew + YBF Combo box,kombo paket,28,952.0,Podravska,spletna trgovina
+2026-05-12,Good Brew Lager 0.33,pivo,7,16.8,Goriška,sejem
+2026-05-13,Good Brew Mešani karton 12x,pivo paket,25,650.0,Podravska,veleprodaja
+2026-05-13,Your Best Friend Piškoti 200g,pasji priboljški,37,166.5,Goriška,veleprodaja
+2026-05-14,Good Brew Mešani karton 12x,pivo paket,5,130.0,Savinjska,maloprodaja
+2026-05-14,Your Best Friend Žvečilke 5x,pasji priboljški,31,139.5,Goriška,maloprodaja
+2026-05-15,Your Best Friend Darilni paket,darilni paket,38,1102.0,Gorenjska,HoReCa
+2026-05-15,Good Brew + YBF Combo box,kombo paket,16,544.0,Osrednjeslovenska,sejem
+2026-05-15,Good Brew Mešani karton 12x,pivo paket,31,806.0,Osrednjeslovenska,spletna trgovina
+2026-05-16,Good Brew Lager 0.33,pivo,37,88.8,Osrednjeslovenska,sejem
+2026-05-17,Your Best Friend Žvečilke 5x,pasji priboljški,8,36.0,Savinjska,HoReCa
+2026-05-18,Your Best Friend Piškoti 200g,pasji priboljški,11,49.5,Goriška,HoReCa
+2026-05-18,Your Best Friend Žvečilke 5x,pasji priboljški,26,117.0,Podravska,veleprodaja
+2026-05-18,Your Best Friend Piškoti 200g,pasji priboljški,25,112.5,Goriška,maloprodaja
+2026-05-18,Your Best Friend Piškoti 200g,pasji priboljški,39,175.5,Osrednjeslovenska,maloprodaja
+2026-05-20,Good Brew + YBF Combo box,kombo paket,35,1190.0,Goriška,maloprodaja
+2026-05-20,Good Brew IPA 0.33,pivo,23,55.2,Goriška,veleprodaja
+2026-05-20,Your Best Friend Darilni paket,darilni paket,12,348.0,Obalno-kraška,HoReCa
+2026-05-21,Good Brew IPA 0.33,pivo,28,67.2,Gorenjska,veleprodaja
+2026-05-22,Good Brew Lager 0.33,pivo,36,86.4,Osrednjeslovenska,veleprodaja
+2026-05-22,Your Best Friend Žvečilke 5x,pasji priboljški,33,148.5,Obalno-kraška,sejem
+2026-05-22,Good Brew Lager 0.33,pivo,25,60.0,Goriška,HoReCa
+2026-05-23,Your Best Friend Piškoti 200g,pasji priboljški,15,67.5,Podravska,sejem
+2026-05-25,Good Brew Pšenično 0.5,pivo,30,72.0,Gorenjska,maloprodaja
+2026-05-25,Good Brew Mešani karton 12x,pivo paket,30,780.0,Savinjska,veleprodaja
+2026-05-26,Good Brew Mešani karton 12x,pivo paket,33,858.0,Goriška,veleprodaja
+2026-05-26,Good Brew + YBF Combo box,kombo paket,14,476.0,Savinjska,sejem
+2026-05-27,Your Best Friend Piškoti 200g,pasji priboljški,27,121.5,Osrednjeslovenska,HoReCa
+2026-05-28,Your Best Friend Darilni paket,darilni paket,22,638.0,Osrednjeslovenska,sejem

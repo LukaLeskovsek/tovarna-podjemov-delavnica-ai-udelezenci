@@ -2,6 +2,8 @@
 
 V mapi `.claude/skills/` je dvanajst podpornih veščin. Vsaka vsebuje navodila za določeno vrsto pomoči. Claude naj uporabi tisto, ki koristi tvoji nalogi. Račune, dostop do podatkov in delovanje povezav preverita posebej.
 
+Za konkreten potek od prvega osnutka do shranjene metode odpri [primer poročila](od-poskusa-do-metode.md). Če še nimaš svoje naloge, ti pomaga [kratek pogovor o prejšnjem tednu](izberi-nalogo.md).
+
 ## Pregled veščin
 
 | Veščina (skill) | Pri čem pomaga | Kaj lahko napišeš |

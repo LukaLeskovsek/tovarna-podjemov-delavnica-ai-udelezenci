@@ -6,6 +6,8 @@ Po pripravi okolja najprej uredi [osebni in poslovni profil](../docs/personaliza
 
 Najprej pripravi majhen uporaben rezultat. Ob pregledu si pomagaj s [petimi vprašanji](../docs/razclenitev-naloge.md): kaj si želel doseči, katere vire si uporabil, kje si moral odločiti, kaj si preveril in kaj boš poskusil naslednjič? Vsega ni treba zapisati vnaprej.
 
+Če naloge še nimaš, odpri [Poišči nalogo za današnjo delavnico](../docs/izberi-nalogo.md). Začneš pri svojem delu iz zadnjega tedna, Claude pa ti pomaga izbrati majhen poskus. [Primeri in veščine](../docs/od-poskusa-do-metode.md) pokažejo, kaj potrebuješ in kako rezultat izboljšuješ.
+
 ## Kaj potrebuješ
 
 Svoj Claude, GitHub, dovoljene podatke in [pripravljeno delovno mapo](../docs/setup.md). Orodja pripravi Claude; račune in sistemske potrditve urediš sam. Spoznaj [osnove aplikacije](../docs/claude-desktop.md) in odpri isto mapo v [Obsidianu](../docs/mape-in-obsidian.md).
