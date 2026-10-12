@@ -17,7 +17,17 @@ Pripravi svoj račun za n8n Cloud, dostop do nastavitev in dovoljeni vhod za svo
 
 Če n8n ponuja neposredno nastavitev povezovalnika za Claude, jo lahko uporabiš. Nato enako preverimo rezultat v Code. Naslov urejevalnika n8n ni naslov MCP strežnika.
 
+## Claude pri gradnji in Claude med zagonom
+
+Povezovalnik MCP omogoča delo s tvojim n8n iz Clauda. Model znotraj poteka potrebuje svoj API dostop in poverilnice v n8n. Naročnina na Claude Desktop sama ne uredi tega dostopa. Tudi Google Workspace in CRM poveži posebej v n8n.
+
+Lokalni profil in podporne veščine se ne prenesejo samodejno. Iz njih izberita pregledana pravila, ki jih konkretni potek potrebuje. Dogovorita porabo in preizkusita majhen primer.
+
 ## Delo na svoji nalogi
+
+Za prvi ročni preizkus uporabi [prošnjo za Claude, Gmail in lokalni pregled](../../docs/n8n-mcp-gmail-pregled.md).
+
+V [skupnem primeru Good Brew](../../docs/povprasevanje-ponudba.md) uporabimo agenta v n8n s Claude prek Anthropic API. Agent izbira potrebna orodja; n8n vodi čakanje in končna dejanja. Managed Agents niso pogoj.
 
 Izberi en uporaben del postopka. S Claudom določita vhod, predlog, pregled, odločitev, dejanje in rezultat. Prikazani primer izvajalca pomaga razumeti pristop; ni treba uvoziti njegovega poteka.
 

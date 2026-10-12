@@ -31,3 +31,15 @@ Veščina pripravi predajo. Gradnjo ali objavo nadaljuj samo, če je zahtevana i
 ## Pri pregledu pošte
 
 Pri pregledu pošte nadgradi že ustvarjeni Artifact. Lokalni pregled in pravila ostanejo osnova; pred drugim trajnim stanjem določi način usklajevanja. Odprt Artifact ne dokazuje spremljanja v ozadju.
+
+## Predaja v ločeno aplikacijo
+
+Aplikacija ima svojo mapo in zasebni repozitorij, zunaj javnega klona in njegovega moje-delo/. Prenesi pregledan opis ter merila; obstoječi profil poveži po potrjeni lokaciji. Ne kopiraj resnične pošte ali poverilnic. Preveri aktualne projektne /plan, /build in /verify. Razvojni profil ni samodejno kontekst AI klicev v aplikaciji. Najprej preveri shranjevanje in pravice, nato dodaj povezavo z n8n.
+
+## Preden predlagaš lastno aplikacijo
+
+Preveri aktualne zmožnosti izbrane vrste Artifakta v uporabnikovem računu. Shranjevanje, več uporabnikov ali povezovalnik niso sami po sebi dokaz omejitve. Opiši konkretno zahtevo, njen preizkus in ugotovljeno vrzel. Pri lastni aplikaciji navedi tudi odgovornost za dostope, podatke, varnostne kopije, stroške in vzdrževanje.
+
+## Če aplikacija nadaljuje obstoječi potek
+
+Pred novo podatkovno bazo ali drugim modelom preveri, ali že obstajata glavna shramba stanja in delujoč agent. Aplikacija lahko uporablja isti n8n potek in iste zapise. Skrivnosti ter dovoljenja ostanejo na strežniku. Preizkusi zahtevo drugega uporabnika neposredno; skrivanje gumba ne prepreči nedovoljene odločitve. Spremenjeni predlog potrebuje novo različico in pregled.

@@ -12,7 +12,7 @@ Za začetek lahko ostaneš pri lokalnih zapiskih in osnovnem indeksu. Pred GBrai
 
 ## Internal OS Starter: interna aplikacija
 
-[Internal OS Starter](https://github.com/LukaLeskovsek/internal-os-starter) je izhodišče za gradnjo internih aplikacij. Smiselno nadaljevanje je, ko preverjeni prototip potrebuje trajno shranjevanje, več uporabnikov, različne pravice ali povezave z drugimi sistemi.
+[Internal OS Starter](https://github.com/LukaLeskovsek/internal-os-starter) je izhodišče za gradnjo internih aplikacij. Smiselno nadaljevanje je, ko preverjeni prototip ne pokrije konkretnih zahtev glede pravic, podatkov, povezav ali upravljanja. Najprej preveri, kaj že omogoča izbrani Artifact; tudi ta lahko podpira shranjevanje, povezovalnike in deljeno uporabo.
 
 Najprej zapiši konkretno omejitev. V lastni kopiji preberi aktualna navodila repozitorija in načrtuj eno uporabno celoto. Račune, pravice in podatke preveri posebej; kopiranje videza ali kode jih ne prenese samodejno. Uporaben dokument ali Artifact je lahko dovolj.
 

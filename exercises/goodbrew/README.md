@@ -7,6 +7,7 @@ Good Brew & Your Best Friend je izmišljeno podjetje iz učnih gradiv SPS. Vsi p
 | Poročilo o prodaji | [Podatki za april in maj](prodaja-april-maj.csv), [pomen podatkov](podatki.md), [učni profil](profil/INDEX.md) | En graf, kratka razlaga in vprašanje za vodjo |
 | Ponovitev poročila | [Nov izbor za junij](prodaja-junij.csv), [nepopoln izbor](prodaja-junij-nepopolno.csv) | Preveri, ali shranjena metoda upošteva nove podatke in opazi manjkajočo vrednost |
 | Primerjava ponudb | [Tri ponudbe in merila](ponudbe.md) | Primerljivi stroški in vprašanja pred izbiro |
+| Pokušina za podjetje | [Povpraševanja, cenik in pravila](pokusina/README.md) | Agent uporabi vire, pripravi priporočilo in ga predloži v pregled |
 | Pregled pošte | [Lokalni učni pogovori](posta.md) | Kaj potrebuje pozornost in zakaj |
 
 Datoteke kopiraj v svojo delovno mapo pod `moje-delo/zasebno/goodbrew/`, če želiš vajo spreminjati. Učnih profilov ne prepisuj čez svoj profil in jih ne dodajaj v globalna navodila. Claudu izrecno povej, da danes uporablja ta izmišljeni poslovni kontekst. Dejanska dostopa do Gmaila in Outlooka preverjamo ločeno.

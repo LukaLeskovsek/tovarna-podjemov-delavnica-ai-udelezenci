@@ -2,6 +2,7 @@
 """Verify a released participant snapshot; standard library, no network."""
 import argparse
 import hashlib
+from html.parser import HTMLParser
 import json
 from pathlib import Path, PurePosixPath
 import re
@@ -41,7 +42,7 @@ def check_text(name, text, errors):
     if SECRET.search(text):
         errors.append(f'Local path or credential marker in {name}')
     # Source code contains the validator's own deny expressions; Markdown/metadata must not link private source.
-    if name.endswith(('.md', '.json', '.yml', '.yaml')) and PRIVATE_REPO.search(text):
+    if name.endswith(('.md', '.html', '.json', '.yml', '.yaml')) and PRIVATE_REPO.search(text):
         errors.append(f'Private preparation repository link in {name}')
 
 
@@ -96,7 +97,7 @@ def verify(root):
                 errors.append(f'Missing step in full release: {number}')
     for name in sorted(actual & (set(expected) | {'release.json'})):
         path = root / name
-        if path.suffix in {'.md', '.json', '.yml', '.yaml', '.py', '.csv', '.txt'}:
+        if path.suffix in {'.md', '.html', '.json', '.yml', '.yaml', '.py', '.csv', '.txt'}:
             try:
                 text = path.read_text(encoding='utf-8')
             except UnicodeError:
@@ -113,6 +114,19 @@ def verify(root):
                     target = (path.parent / unquote(parsed.path)).resolve()
                     if not target.is_relative_to(root) or not target.exists():
                         errors.append(f'Missing or external local link: {name} -> {href}')
+            if path.suffix == '.html':
+                class Links(HTMLParser):
+                    def handle_starttag(self, tag, attrs):
+                        for key, value in attrs:
+                            if key not in {'href', 'src'} or not value:
+                                continue
+                            parsed = urlsplit(value)
+                            if parsed.scheme or value.startswith('#'):
+                                continue
+                            target = (path.parent / unquote(parsed.path)).resolve()
+                            if not target.is_relative_to(root) or not target.exists():
+                                errors.append(f'Missing or external local HTML link: {name} -> {value}')
+                Links().feed(text)
         elif path.suffix in {'.docx', '.pptx', '.xlsx'}:
             try:
                 with zipfile.ZipFile(path) as archive:

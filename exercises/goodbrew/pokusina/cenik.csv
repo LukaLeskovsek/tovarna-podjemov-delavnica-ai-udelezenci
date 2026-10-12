@@ -1,0 +1,4 @@
+price_version,item_id,description,unit,price_eur_ex_vat,duration_hours,min_guests,max_guests
+ucni-2026-10-v1,pokusina-osnovna,Vodena pokušina na osebo,oseba,18.00,2,8,30
+ucni-2026-10-v1,priprava,Priprava prostora na dogodek,dogodek,60.00,2,8,30
+ucni-2026-10-v1,prigrizek,Neobvezni prigrizek na osebo,oseba,6.00,2,8,30

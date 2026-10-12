@@ -5,7 +5,7 @@
 
 Na delavnici gremo korak za korakom. Claude upošteva tvojo nalogo in shranjeni napredek. Drugih storitev in veščin ni treba pripraviti vnaprej. Odpri [prvi korak](koraki/01-zacetek.md) ali napiši **»Nadaljujva.«**
 
-Različica gradiva: full-v5. [Pregled vseh korakov in veščin](docs/objavljena-gradiva.md).
+Različica gradiva: full-v9. [Pregled vseh korakov in veščin](docs/objavljena-gradiva.md).
 <!-- published-packages:end -->
 
 
@@ -59,3 +59,11 @@ Ko ročni postopek deluje, nadaljuj z [lokalno rutino in spremljanjem](docs/redn
 Najprej uredi [osebni in poslovni profil](docs/personalizacija.md), nato opravi prvo nalogo. Profil velja tudi pri nadaljnjem delu. [GBrain in Internal OS Starter](docs/neobvezne-nadgradnje.md) sta možnosti za poznejšo nadgradnjo.
 
 [PDF predstavitve za udeležence](gradiva/delavnica-ai-v5.pdf). Pri delu nadaljuj iz svoje naloge in osebnega napredka.
+
+## Naslednji srečanji
+
+[Ponedeljek: agent v n8n in pregled ponudbe](docs/ponedeljek-n8n.md) · [Petek: tvoja interna aplikacija](docs/petek-aplikacija.md). Vsak dan začnemo s približno 75 minutami prikaza, nato delaš na svoji nalogi. Na primeru Good Brew pokažemo, kako iz povpraševanja nastane ponudba. n8n prebere podatke, Claude pripravi predlog, ti pa ga pregledaš in zahtevaš popravek. Nato nastaneta PDF in osnutek e-pošte. V petek dodamo aplikacijo za iste predloge.
+
+[Kako izbereš orodje](docs/izbira-orodja.md) · [Interaktivne razlage](gradiva/interaktivno/README.md).
+
+[Kratka predstavitev o n8n](gradiva/ponedeljek-n8n-v3.pdf) · [Povezava Gmaila in začetna prošnja za Claude](docs/n8n-mcp-gmail-pregled.md).

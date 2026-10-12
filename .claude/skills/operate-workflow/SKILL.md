@@ -30,3 +30,15 @@ Začni s preverjeno metodo in dejansko razpoložljivimi računi. Pred uvedbo rut
 ## Pri pregledu pošte
 
 Za skupni primer pošte preberi docs/za-agenta/redna-posta.md iz korena delavnice. Začni lokalno: ročni preizkus, dejanski časovni zagon, omejeno spremljanje in ustavitev. Stanje naj posodablja en izvajalec. Če preverjanje pošte ne uspe, to povej; ne napiši, da ni novih sporočil. Obvestilo o istem dogodku se ne ponavlja. Odprt Artifact sam ne izvaja rutine ali spremljanja.
+
+## Pri n8n Cloud
+
+Povezava MCP pomaga pri gradnji in uporabi potekov; za model med izvedbo posebej preveri API dostop, porabo in pravila. Lokalni profil se ne prenese samodejno. Če gradivo že vključuje integrations/n8n/za-agenta.md, ga preberi pred povezovanjem. V predlogu navedi uporabljena pravila, glavno shrambo stanja, mesto odobritve in preverjanje ponovitve.
+
+## Izbira načina izvajanja
+
+Najprej preveri, ali zadostuje delo s Claudom oziroma obstoječa rutina. n8n uporabi pri ponovljivem poteku med storitvami in ljudmi. Upravljana agentska storitev je neobvezna možnost za daljše naloge z več orodji; preveri njeno trenutno stanje, ločen API dostop, podatke, dovoljenja in stroške. Kombinacijo predlagaj le, če koristi nalogi. Prisotnost urnika sama ne določa izbire orodja.
+
+## Kadar med izvedbo presoja agent
+
+Loči agenta, ki pomaga graditi potek, od modela, ki dela med zagonom. Določi, katera orodja sme drugi uporabljati, kaj mora utemeljiti, kdaj potrebuje dopolnitev in kdaj mora odločiti človek. Preveri dejanske klice orodij in omeji število poskusov ter porabo. Pravila za zapis, odobritev različice in izračun uveljavi zunaj modela. Agentov predlog ni dovoljenje za nadaljnje dejanje. Za model v n8n ne zahtevaj storitve Managed Agents, če zadostuje AI Agent z modelom Claude.

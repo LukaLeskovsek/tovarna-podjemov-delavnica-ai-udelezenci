@@ -21,3 +21,7 @@ Ob prvem rezultatu spoznamo uporabo, popravljanje in shranjevanje. Razvoj aplika
 ## Pregled pošte
 
 Prvi Artifact izdelaš s Claudom iz svojega preverjenega [pregleda pošte](e-posta.md). Prikaže štiri skupine, razlog, naslednji korak, vir ter čas in obseg pregleda. Osvežiš ga s prošnjo Claudu. Lokalni zapis ostane osnova; Artifact nima ločenih poslovnih pravil ali lastnega spremljevalnika. Ob prikazu jasno loči zadnji pregled od sveže osvežitve. Vsebina pošte in lokalna kopija ostaneta v izključeni zasebni mapi.
+
+## Kaj preverimo pred razvojem aplikacije
+
+V podprtih paketih lahko Artifacts uporabljajo povezovalnike, model Claude ter osebno ali skupno shrambo. Samo shranjevanje ali deljenje zato še ni razlog za lastno aplikacijo. Preveri konkretno vrsto Artifakta, račun in zahtevane pravice. Začetni pregled pošte zgoraj ima namenoma omejen način osveževanja; to ni splošna omejitev vseh Artifacts. [Aktualne možnosti](https://support.claude.com/en/articles/17153992-what-are-artifacts-and-how-do-i-use-them), preverjeno 10. 10. 2026.
