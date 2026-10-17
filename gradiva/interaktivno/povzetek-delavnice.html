@@ -125,6 +125,69 @@ p{ text-wrap:pretty; orphans:2; widows:2 }
 .runtime-part p{max-width:34ch}
 @media(max-width:760px){.runtime-diagram{grid-template-columns:1fr;gap:22px}.runtime-part p{max-width:65ch}}
 .personal .chapter-layout{grid-template-columns:minmax(0,1fr);gap:28px}.personal .explanation{display:block;max-width:68ch}.personal .explanation p{max-width:none}
+
+/* Reading rhythm: one explanation at a time, with diagrams on their own spread. */
+body{line-height:1.7}
+.intro{padding-block:64px 56px}.intro p{line-height:1.7}
+.chapter{padding-block:88px 104px;border-bottom:1px solid var(--rule)}
+.chapter.os{padding-block:88px 104px}
+.chapter-heading{padding-bottom:44px}
+.chapter>*,.help-section>*,.thanks>*{max-width:1120px}
+.chapter>p,.chapter-lead,.os-lead{max-width:64ch;line-height:1.7}
+.chapter-layout,.personal .chapter-layout{grid-template-columns:minmax(0,1fr);gap:56px}
+.explanation,.personal .explanation{display:block;max-width:64ch}
+.explanation h3{font:600 27px/1.3 'Plex Condensed',sans-serif}
+.explanation p,.personal .explanation p{max-width:64ch;margin-top:20px}
+.explanation details{margin-top:32px}
+.pair{grid-template-columns:1fr;gap:40px;margin-block:48px}
+.pair>div{padding-top:24px;max-width:64ch}
+.pair p,.mode-detail p{font-size:18px;line-height:1.7;margin-top:16px}
+.pair h3,.process strong,.mode-detail h3{font-size:29px;line-height:1.25}
+.process{grid-template-columns:1fr;gap:36px;max-width:64ch;margin-block:56px}
+.process li{padding-top:24px}.process p{font-size:18px;line-height:1.7}
+.mode-detail{grid-template-columns:1fr;gap:40px;padding-block:32px;margin-top:24px}
+.mode-detail>div{max-width:64ch}.mode-detail .example{padding-top:24px;margin-top:24px;line-height:1.7}
+.plain-note{font-size:18px;line-height:1.7;margin-top:40px;max-width:64ch}
+.handbook-section{margin-top:56px;max-width:64ch}
+.handbook-section h3{font:600 29px/1.25 'Plex Condensed',sans-serif}
+.handbook-section p{margin-top:20px;font-size:18px;line-height:1.7}
+.company-control{padding-bottom:24px}.layer{padding-block:28px;gap:32px}
+.layer p{font-size:18px;line-height:1.7}.layer code{margin-top:12px;font-size:13px}
+.combination{padding-block:32px 24px}.combination p{line-height:1.6}
+.copy-action{margin-top:32px}.text-switch{row-gap:12px;column-gap:28px}
+.open-example{padding-top:28px;margin-top:24px;max-width:64ch}.open-example p{line-height:1.7;margin-top:16px}
+.runtime-choice{margin-top:48px}.runtime-diagram{grid-template-columns:1fr;gap:40px;margin-block:40px}
+.runtime-part{padding-top:24px;max-width:64ch}.runtime-part strong{font-size:30px;line-height:1.25}
+.runtime-part span{font-size:15px;margin-bottom:12px}.runtime-part p{font-size:18px;line-height:1.7;margin-top:16px;max-width:64ch}
+.runtime-note{margin-top:40px;padding-top:28px;max-width:64ch;line-height:1.7}
+.runtime-caption{max-width:64ch;line-height:1.7}
+.section-tools{margin-top:48px;row-gap:16px}.map-toolbar{margin-top:28px;padding-top:24px}
+.system-map{margin-block:48px 32px}.component-info{margin-top:40px;padding-top:28px;gap:32px}
+.component-info p{font-size:18px;line-height:1.7}.map-caption{font-size:16px;line-height:1.7;max-width:64ch}
+.power-status{margin-top:40px;max-width:64ch;line-height:1.7}
+.ai-section{margin-top:40px;padding-top:32px}.ai-section>p{margin-top:24px;line-height:1.7}
+.chapter details{margin-top:40px}.chapter summary{font-size:19px;line-height:1.5;padding-block:22px}
+.file-notes{padding-block:12px 24px;max-width:64ch}.file-notes p{font-size:17px;line-height:1.75;margin-bottom:24px}
+.os-notes p{font-size:18px;line-height:1.75;max-width:64ch;padding-block:12px 24px}
+.help-section,.thanks{padding-block:80px 88px}.help-section .help-intro{margin-bottom:40px;max-width:64ch}
+.help-section details{margin-top:12px}.help-section summary{font-size:19px;line-height:1.5;padding-block:24px}
+.prompt{font-size:18px;line-height:1.75;max-width:64ch;margin-top:20px}
+.copy-row{margin-block:24px 36px}.help-links{margin-top:48px;row-gap:20px}
+.thanks p{margin-top:24px;line-height:1.75}.thanks h2{margin-bottom:32px}
+@media(max-width:760px){
+ .intro{padding-block:40px 44px}.chapter,.chapter.os{padding-block:56px 64px}
+ .chapter-heading{padding-bottom:32px}.chapter-layout,.personal .chapter-layout{gap:40px}
+ .pair{gap:32px;margin-block:36px}.process{gap:32px;margin-block:40px}
+ .layer{gap:16px;padding-block:24px}.layer p{font-size:17px}.company-control{padding-bottom:20px}
+ .plain-note{font-size:17px;margin-top:32px}.handbook-section{margin-top:40px}.handbook-section p{font-size:17px}
+ .runtime-diagram{gap:32px;margin-block:32px}.runtime-part p{font-size:17px}
+ .chapter details{margin-top:32px}.chapter summary{font-size:18px;padding-block:20px}
+ .os-notes p{font-size:17px}.system-map{margin-block:32px}.component-info{gap:16px}
+ .help-section,.thanks{padding-block:56px 64px}.help-section summary{font-size:18px;padding-block:22px}
+ .prompt{font-size:17px}.section-tools{margin-top:32px}.map-toolbar{margin-top:24px}
+}
+@media print{.chapter,.chapter.os,.help-section,.thanks{padding-block:32px}.chapter-heading{padding-bottom:24px}}
+
 </style>
 </head>
 <body>
@@ -146,7 +209,7 @@ p{ text-wrap:pretty; orphans:2; widows:2 }
 <section class="chapter personal" id="personalizacija" aria-labelledby="personal-title">
 <div class="chapter-heading"><span class="chapter-number" aria-hidden="true">01</span><h2 id="personal-title">Personalizacija</h2></div>
 <div class="chapter-layout">
-<div class="explanation"><h3>Povej Claudu, za koga dela in kakšen rezultat pričakuješ.</h3><p>Če pozna tvojo vlogo, podjetje in način pisanja, mu tega ni treba razlagati pri vsaki nalogi. Za različna podjetja ali brande pripravi ločena navodila.</p><details><summary>Kam shranimo navodila?</summary><div class="file-notes"><p><strong>Globalni <code>~/.claude/CLAUDE.md</code></strong>Claude Code ga prebere v vseh projektih. Vanj dodamo povezavo do osebnega profila in navodilo, kako izbrati pravo podjetje. Pred spremembo naredimo zasebno kopijo; obstoječa navodila ohranimo.</p><p><strong>Datoteke osebnega in poslovnega profila</strong><code>PERSON.md</code> opiše tebe, <code>INDEX.md</code> pa navede podjetja. Za posamezno podjetje so v <code>COMPANY.md</code> podatki o poslovanju, v <code>BRAND.md</code> navodila za komunikacijo in v <code>PRIMERI.md</code> dobri ter slabi primeri z razlago.</p><p><strong><code>CLAUDE.md</code> v mapi projekta</strong>Opiše namen te mape, cilje, način dela in omejitve. Ta navodila veljajo za ta projekt. Zato samo lokalna datoteka ne zadošča, če želiš svoje osebne nastavitve uporabljati tudi drugje.</p><p>V novem pogovoru preveri, katera navodila je Claude prebral. V Chat in Cowork uporabo profila preveri posebej.</p></div></details></div>
+<div class="explanation"><h3>Povej Claudu, za koga dela in kakšen rezultat pričakuješ.</h3><p>Če pozna tvojo vlogo, podjetje in način pisanja, mu tega ni treba razlagati pri vsaki nalogi.</p><p>Za različna podjetja ali brande pripravi ločena navodila.</p><details><summary>Kam shranimo navodila?</summary><div class="file-notes"><p><strong>Globalni <code>~/.claude/CLAUDE.md</code></strong>Claude Code ga prebere v vseh projektih. Vanj dodamo povezavo do osebnega profila in navodilo, kako izbrati pravo podjetje. Pred spremembo naredimo zasebno kopijo; obstoječa navodila ohranimo.</p><p><strong>Datoteke osebnega in poslovnega profila</strong><code>PERSON.md</code> opiše tebe, <code>INDEX.md</code> pa navede podjetja. Za posamezno podjetje so v <code>COMPANY.md</code> podatki o poslovanju, v <code>BRAND.md</code> navodila za komunikacijo in v <code>PRIMERI.md</code> dobri ter slabi primeri z razlago.</p><p><strong><code>CLAUDE.md</code> v mapi projekta</strong>Opiše namen te mape, cilje, način dela in omejitve. Ta navodila veljajo za ta projekt. Zato samo lokalna datoteka ne zadošča, če želiš svoje osebne nastavitve uporabljati tudi drugje.</p><p>V novem pogovoru preveri, katera navodila je Claude prebral. V Chat in Cowork uporabo profila preveri posebej.</p></div></details></div>
 <figure class="figure" aria-labelledby="layers-caption">
 <div class="company-control"><span>Primer: za koga pripravljaš besedilo?</span><div class="text-switch" role="group" aria-label="Primer izbire podjetja ali branda"><button type="button" id="brand-a" aria-pressed="true">Podjetje A</button><button type="button" id="brand-b" aria-pressed="false">Brand B</button></div></div>
 <div class="layers" aria-label="Osebna navodila, navodila podjetja in navodila projekta">
@@ -158,7 +221,7 @@ p{ text-wrap:pretty; orphans:2; widows:2 }
 <figcaption class="small" id="layers-caption">To je primer. Preklop spremeni samo prikaz; tvojih nastavitev ne spreminja.</figcaption>
 </figure>
 </div>
-<p class="plain-note">Ko popraviš rezultat, povej tudi zakaj. Dober primer shrani z razlago, kaj naj Claude ponovi. Pri slabem zapiši, čemu naj se izogne in kako naj to napiše ali naredi bolje. Splošen dogovor sodi v profil, posebnost posamezne naloge pa k tej nalogi.</p>
+<div class="handbook-section"><h3>Kako izboljšuješ navodila?</h3><p>Ko popraviš rezultat, povej tudi zakaj.</p><p>Dober primer shrani z razlago, kaj naj Claude ponovi. Pri slabem zapiši, čemu naj se izogne in kako naj to napiše ali naredi bolje.</p><p>Splošen dogovor sodi v profil, posebnost posamezne naloge pa k tej nalogi.</p></div>
 <div class="copy-action"><button type="button" id="copy-profile">Kopiraj prošnjo za preverjanje profila</button><span id="copy-status" class="copy-feedback" role="status" aria-live="polite"></span><textarea id="manual-copy" class="manual" hidden readonly aria-label="Prošnja za ročno kopiranje"></textarea></div>
 </section>
 <section class="chapter nacrt" id="nacrt" aria-labelledby="plan-title">
