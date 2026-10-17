@@ -1,4 +1,4 @@
-# Gradiva in veščine · full-v10
+# Gradiva in veščine · full-v11
 
 Vseh deset korakov in podporne veščine že imaš. Začni pri prvem koraku; nato nadaljuj iz svojega napredka, po dogovoru na delavnici. Naslednjega koraka ni treba odklepati ali posebej prenašati. Vseh tem ni treba opraviti naenkrat. Claude pri nadaljevanju prebere tvoj napredek in poišče naslednji korak tvoje naloge.
 
