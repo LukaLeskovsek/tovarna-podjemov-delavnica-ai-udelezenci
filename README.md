@@ -5,7 +5,7 @@
 
 Na delavnici gremo korak za korakom. Claude upošteva tvojo nalogo in shranjeni napredek. Drugih storitev in veščin ni treba pripraviti vnaprej. Odpri [prvi korak](koraki/01-zacetek.md) ali napiši **»Nadaljujva.«**
 
-Različica gradiva: full-v12. [Pregled vseh korakov in veščin](docs/objavljena-gradiva.md).
+Različica gradiva: full-v13. [Pregled vseh korakov in veščin](docs/objavljena-gradiva.md).
 <!-- published-packages:end -->
 
 ## Povzetek po delavnici

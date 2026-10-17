@@ -62,3 +62,13 @@ Claude, s katerim razvijaš kodo, in AI, ki ga aplikacija uporablja pri poslovni
 Pred vklopom OpenRouterja pripravi namenski ključ z denarno omejitvijo in brez samodejnega polnjenja. Aplikacija ima tudi dnevni limit klicev. Ob izčrpanem proračunu se zahteva ustavi; omejitev ni povabilo k ponavljanju. V izračunu »Ali se nam splača?« upoštevaj pregled in popravke, vse klice AI, gostovanje ter vzdrževanje. Ne prištej prihranka samo zato, ker je predlog nastal hitro.
 
 [Prijava v Claude](https://code.claude.com/docs/en/authentication) · [Poraba naročnine](https://code.claude.com/docs/en/costs) · [Omejitve OpenRouterja](https://openrouter.ai/docs/api/reference/limits) · [Poraba na Vercelu](https://vercel.com/docs/spend-management)
+
+## Dodajanje sodelavcev
+
+V Supabase odpri **Authentication → Sign In / Providers** in izklopi **Allow new users to sign up**. Obstoječi računi ostanejo uporabni, novi uporabniki pa se ne morejo sami registrirati.
+
+**Confirm Email lahko ostane vklopljen.** V Internal OS lastnik odpre **Administracija → Uporabniki → Dodaj osebo**, ustvari račun z začasnim geslom in določi dostopna orodja. Modul uporabnika ustvari kot že potrjenega; ne pošlje e-poštnega povabila. Zahteva nastavljen skrivni strežniški ključ za upravljanje uporabnikov.
+
+Claude lahko pomaga pri dodajanju samo z urejenim skrbniškim dostopom in jasnim pooblastilom. Gesel in enkratnih povezav ne pošiljaj v pogovor; osebi jih predaj po varni poti. Nato preveri prijavo ter dostop do modulov in posameznih zapisov. Izklop registracije sam po sebi ne določi teh pravic.
+
+[Supabase: nastavitve registracije in potrjevanja e-naslova](https://supabase.com/docs/guides/auth/general-configuration).
