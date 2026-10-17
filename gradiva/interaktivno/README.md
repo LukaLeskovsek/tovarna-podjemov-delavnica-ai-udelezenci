@@ -1,5 +1,7 @@
 # Interaktivni prikazi za delavnico
 
+**[Povzetek delavnice — odpri v brskalniku](https://tovarna-podjemov-povzetek.vercel.app).** Pet poglavij za nadaljnje samostojno delo, diagrami in prošnje za Claude. [Datoteko HTML](povzetek-delavnice.html) lahko preneseš za uporabo brez interneta.
+
 - [Od Artifakta do interne aplikacije: arhitektura](od-artifakta-do-sistema.html): primerjaj lokalni razvoj, Vercel, Supabase in neobvezni AI ter n8n. Preklopi računalnik in vlogo; oceni tudi čas ter stroške.
 
 - [Od mojega računalnika do skupnega procesa](lokalno-in-n8n.html): en diagram s tremi pogledi. Preklopi računalnik in pokaži razliko med lokalnim delom, n8n Cloud in sodelovanjem oddelkov. Klik na element pojasni njegovo vlogo; primer pokaže tudi čakanje na človekovo potrditev.

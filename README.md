@@ -5,8 +5,14 @@
 
 Na delavnici gremo korak za korakom. Claude upošteva tvojo nalogo in shranjeni napredek. Drugih storitev in veščin ni treba pripraviti vnaprej. Odpri [prvi korak](koraki/01-zacetek.md) ali napiši **»Nadaljujva.«**
 
-Različica gradiva: full-v9. [Pregled vseh korakov in veščin](docs/objavljena-gradiva.md).
+Različica gradiva: full-v10. [Pregled vseh korakov in veščin](docs/objavljena-gradiva.md).
 <!-- published-packages:end -->
+
+## Povzetek po delavnici
+
+[Odpri interaktivni povzetek](https://tovarna-podjemov-povzetek.vercel.app). V njem najdeš personalizacijo, Plan mode, razlike med okolji Clauda ter razlago GitHuba, Vercela in Supabase. Vključene so prošnje, ki jih lahko kopiraš v Claude.
+
+Za uporabo brez interneta [prenesi HTML](gradiva/interaktivno/povzetek-delavnice.html) in ga odpri v brskalniku.
 
 
 Na delavnici izboljšuješ svoje dejanske naloge. Skupaj uredimo delovno okolje, pripravimo uporaben rezultat in preverimo, kako delo ponoviš naslednjič.
